@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuping Zhang | Shariq Mohammed</title>
+    <link>/authors/yuping-zhang/</link>
+      <atom:link href="/authors/yuping-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuping Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yuping Zhang</title>
+      <link>/authors/yuping-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian variable selection using spike-and-slab priors with application to high dimensional electroencephalography data by local modelling</title>
+      <link>/publication/mohammed2019bayesian/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mohammed2019bayesian/</guid>
+      <description>&lt;p&gt;Because of the immense technological advances, very often we encounter data in high dimensions. Any set of measurements taken at multiple time points for multiple subjects leads to data of more than two dimensions (a matrix of covariates for each subject). We present a Bayesian variable‐selection method to identify the active regions in the brain as a response to a certain stimulus. We build binary classification models of subject level responses by using binary regression with Gaussian models on the latent variables. We also study the scaled normal priors on the latent variables, as they cover a large family of distributions. We use continuous spike‐and‐slab priors to incorporate variable selection within the modelling. Because of the computational complexity, we build many local (at different time points) models and make predictions by utilizing the temporal structure between the local models. We perform two‐stage variable selection for each of these local models. We demonstrate the effectiveness of such modelling through the results of a simulation study. We then present the performance of these models on multisubject neuroimaging (electroencephalography) data to study the effects on the functional states of the frontal cortex and parietal lobe for chronic exposure of alcohol.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

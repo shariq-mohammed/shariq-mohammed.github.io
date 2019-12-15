@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops | Shariq Mohammed</title>
+    <link>/tags/workshops/</link>
+      <atom:link href="/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshops</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Workshops</title>
+      <link>/tags/workshops/</link>
+    </image>
+    
+    <item>
+      <title>Computational Biotatistics and Survival Analysis</title>
+      <link>/teaching/cbsa2019/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/teaching/cbsa2019/</guid>
+      <description>&lt;p&gt;This is a workshop taught at &lt;a href=&#34;https://actrec.gov.in/&#34;&gt;Tata Memorial Centre Advanced Centre for Treatment, Research and Education in Cancer&lt;/a&gt;, Navi Mumbai, India during December 2019.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;R&lt;/code&gt; implementations and the materials from this workshop are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;/files/cbsa2019/1-intro-to-survival.html&#34;&gt;Introduction to Survival Analysis using R&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;/files/cbsa2019/2-power-and-sample-size.html&#34;&gt;Power and Sample Size Calculations in Survival Data&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;/files/cbsa2019/3-variable-selection.html&#34;&gt;High-Dimensional Variable Selection Methods&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;/files/cbsa2019/4-complex-survival-models.html&#34;&gt;Complex Models for Survival Data&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The data sets used can be downloaded below&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Data used in &lt;em&gt;High-Dimensional Variable Selection Methods&lt;/em&gt; &lt;strong&gt;&lt;a href=&#34;/files/cbsa2019/variable_selection_data.csv&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data for exercise in &lt;em&gt;High-Dimensional Variable Selection Methods&lt;/em&gt; &lt;strong&gt;&lt;a href=&#34;/files/cbsa2019/exercise_data.csv&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data used for &lt;em&gt;Penalized Cox Regression&lt;/em&gt; &lt;strong&gt;&lt;a href=&#34;/files/cbsa2019/coxnet.RDS&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Visulatization with R Shiny</title>
+      <link>/teaching/uconnrshiny/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/teaching/uconnrshiny/</guid>
+      <description>&lt;p&gt;This workshop was conducted by the &lt;a href=&#34;https://stat.uconn.edu/consulting-info/&#34;&gt;Statistical Consulting Services&lt;/a&gt; in the Department of Statistics at the University of Connecticut in April 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

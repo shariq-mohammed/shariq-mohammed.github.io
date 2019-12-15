@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc | Shariq Mohammed</title>
+    <link>/tags/misc/</link>
+      <atom:link href="/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Misc</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Misc</title>
+      <link>/tags/misc/</link>
+    </image>
+    
+    <item>
+      <title>Spatial modeling of large insurance claims and occurrence data</title>
+      <link>/research/halderspatial/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/research/halderspatial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
