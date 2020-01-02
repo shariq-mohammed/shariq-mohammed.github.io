@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Shariq Mohammed</title>
+    <link>/research/</link>
+      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Researches</title>
+      <link>/research/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian 2D functional analysis in magnetic resonance imaging for gliomas</title>
+      <link>/research/chekouobayesian/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/research/chekouobayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of geometric functional data analysis in medical imaging</title>
+      <link>/research/mohammeddensity/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/research/mohammeddensity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiogenomic analysis in gliomas</title>
+      <link>/research/mohammedradiohead/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/research/mohammedradiohead/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian variable selection in electroencephalography data</title>
+      <link>/research/mohammedclassification/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/research/mohammedclassification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial modeling of large insurance claims and occurrence data</title>
+      <link>/research/halderspatial/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/research/halderspatial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
