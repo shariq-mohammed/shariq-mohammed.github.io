@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Shariq Mohammed</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>A dynamical systems approach to systemic risk in a financial network</title>
+      <link>/publication/bhat2016dynamical/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/bhat2016dynamical/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The insolvency of a financial entity such as a bank can trigger a sequence of defaults in a network of financial entities interconnected through mutual financial obligations, thus posing a systemic risk to all the financial entities that make up the network. This paper studies the well-known Eisenberg-Noe model for systemic risk from a dynamical systems perspective. In particular, we model the sequence of defaults in the form of a dynamical system, and provide results on its stability and asymptotic behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
