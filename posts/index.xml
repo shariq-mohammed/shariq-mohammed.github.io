@@ -5,12 +5,22 @@
     <link>/posts/</link>
       <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/posts/</link>
     </image>
+    
+    <item>
+      <title>Covid-19: India must urgently manage regional contact networks</title>
+      <link>/posts/baladandayuthapani2020covid/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/posts/baladandayuthapani2020covid/</guid>
+      <description>&lt;p&gt;An Op-Ed on bloombergquint.com can be &lt;a href=&#34;https://www.bloombergquint.com/coronavirus-outbreak/covid-19-india-must-urgently-manage-regional-contact-networks&#34;&gt;found here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of virus in India</title>
