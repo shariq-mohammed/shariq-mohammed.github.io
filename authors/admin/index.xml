@@ -5,12 +5,23 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Shariq Mohammed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Shariq Mohammed</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Regional Contact Networks and the Pandemic Spread of COVID-19 in India</title>
+      <link>/posts/bhattacharya2020regional/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/posts/bhattacharya2020regional/</guid>
+      <description>&lt;p&gt;Predictions to enable State-level Surge Preparedness in moving from Containment to Mitigation.&lt;/p&gt;
+&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@veerab_12080/regional-contact-networks-and-the-pandemic-spread-of-covid-19-in-india-28b3b3aa2161&#34;&gt;found here&lt;/a&gt;. To explore the results under different scenarios for the spread of infection, we have developed an R Shiny app which can be accessed &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Covid-19: India must urgently manage regional contact networks</title>
