@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Preprints</title>
+      <link>/tags/preprints/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/preprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>COVID-19</title>
       <link>/tags/covid-19/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Chapters</title>
+      <link>/tags/book-chapters/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/book-chapters/</guid>
       <description></description>
     </item>
     
@@ -29,10 +45,10 @@
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <title>Journal Articles</title>
+      <link>/tags/journal-articles/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/journal-articles/</guid>
       <description></description>
     </item>
     
@@ -65,6 +81,14 @@
       <link>/tags/misc/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <guid>/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference Papers</title>
+      <link>/tags/conference-papers/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/conference-papers/</guid>
       <description></description>
     </item>
     
