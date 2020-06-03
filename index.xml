@@ -303,5 +303,41 @@
 </description>
     </item>
     
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talks/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Understanding COVID-19 Dynamics via Individual-level Temporal and Network Modeling: Lessons from India and China&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;MIDAS COVID-19 Special Seminar Series, University of Michigan-Ann Arbor.  &lt;em&gt;June 2020&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Radiogenomic Analysis Incorporating Tumor Heterogeneity in Imaging
+Through Densities&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;ENAR Spring Meeting, Nashville, Tennessee. (Invited) &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Tools and Technology Seminar, University of Michigan-Ann Arbor.  &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;IISA Annual Conference, Mumbai, India. (Invited) &lt;em&gt;December 2019&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Bayesian Variable Selection using Spike and Slab Prior with Application to High-Dimensional EEG Data by Local Modeling&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;ENAR Spring Meeting, Philadelphia, Pennsylvania. &lt;em&gt;March 2019&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Joint Statistical Meetings, Vancouver, Canada. &lt;em&gt;July 2018&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Symposium on Data Science and Statistics, Reston, Virginia. &lt;em&gt;May 2018&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;IISA Annual Conference, Hyderabad, India. &lt;em&gt;December 2017&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Modeling of Large Insurance Claims and Occurrence Data&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;31st New England Statistics Symposium, University of Connecticut. &lt;em&gt;April 2017&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
