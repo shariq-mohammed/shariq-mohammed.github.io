@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,11 +15,147 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a postdoctoral research fellow in the Department of Biostatistics and Department of Computational Medicine and Bioinformatics at the University of Michigan-Ann Arbor. I am also a &lt;em&gt;&lt;a href=&#34;https://precisionhealth.umich.edu/grants/u-m-precision-health-scholars-awards/2019-scholars-awards/&#34;&gt;Precision Health Scholar&lt;/a&gt;&lt;/em&gt; at the University of Michigan Precision Health. I am jointly mentored by Dr. &lt;a href=&#34;https://bayesrx.github.io/&#34;&gt;Veerabhadran Baladandayuthapani&lt;/a&gt; and Dr. &lt;a href=&#34;https://medicine.umich.edu/dept/dcmb/arvind-rao-phd-0&#34;&gt;Arvind Rao&lt;/a&gt;. I obtained my PhD in Statistics from University of Connecticut under the supervision of Dr. &lt;a href=&#34;http://merlot.stat.uconn.edu/~dey/&#34;&gt;Dipak Dey&lt;/a&gt; and Dr. &lt;a href=&#34;https://sites.google.com/site/statyuping&#34;&gt;Yuping Zhang&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My research interests include Bayesian inference, variable selection, geometric functional data analysis and applications in neuro- and cancer-imaging. My current research aims to build statistical methods to address relevant questions in the context of cancer, by integrating data from multiple sources such as radiological-imaging and genomics.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Alexander Rix</title>
+      <link>/authors/alexander-rix/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/alexander-rix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aritra Halder</title>
+      <link>/authors/aritra-halder/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/aritra-halder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bhramar Mukherjee</title>
+      <link>/authors/bhramar-mukherjee/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/bhramar-mukherjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Barker</title>
+      <link>/authors/daniel-barker/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-barker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debashree Ray</title>
+      <link>/authors/debashree-ray/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/debashree-ray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debraj Bose</title>
+      <link>/authors/debraj-bose/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/debraj-bose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiacong Du</title>
+      <link>/authors/jiacong-du/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jiacong-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lili Wang</title>
+      <link>/authors/lili-wang/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/lili-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maxwell Salvatore</title>
+      <link>/authors/maxwell-salvatore/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/maxwell-salvatore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Kleinsasser</title>
+      <link>/authors/michael-kleinsasser/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-kleinsasser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mousumi Banerjee</title>
+      <link>/authors/mousumi-banerjee/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/mousumi-banerjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parikshit Ghosh</title>
+      <link>/authors/parikshit-ghosh/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/parikshit-ghosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Song</title>
+      <link>/authors/peter-song/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rupam Bhattacharyya</title>
+      <link>/authors/rupam-bhattacharyya/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/rupam-bhattacharyya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soumik Purkayastha</title>
+      <link>/authors/soumik-purkayastha/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/soumik-purkayastha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veerabhadran Baladandayuthapani</title>
+      <link>/authors/veerabhadran-baladandayuthapani/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/veerabhadran-baladandayuthapani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiwang Zhou</title>
+      <link>/authors/yiwang-zhou/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yiwang-zhou/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -35,134 +171,6 @@
       <link>/authors/snigdha-panigrahi/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/snigdha-panigrahi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Veerabhadran Baladandayuthapani</title>
-      <link>/authors/veerabhadran-baladandayuthapani/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/veerabhadran-baladandayuthapani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexander Rix</title>
-      <link>/authors/alexander-rix/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/alexander-rix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aritra Halder</title>
-      <link>/authors/aritra-halder/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/aritra-halder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bhramar Mukherjee</title>
-      <link>/authors/bhramar-mukherjee/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/bhramar-mukherjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Barker</title>
-      <link>/authors/daniel-barker/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-barker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debashree Ray</title>
-      <link>/authors/debashree-ray/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/debashree-ray/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debraj Bose</title>
-      <link>/authors/debraj-bose/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/debraj-bose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lili Wang</title>
-      <link>/authors/lili-wang/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/lili-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maxwell Salvatore</title>
-      <link>/authors/maxwell-salvatore/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/maxwell-salvatore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Kleinsasser</title>
-      <link>/authors/michael-kleinsasser/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-kleinsasser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mousumi Banerjee</title>
-      <link>/authors/mousumi-banerjee/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/mousumi-banerjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parikshit Ghosh</title>
-      <link>/authors/parikshit-ghosh/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/parikshit-ghosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter Song</title>
-      <link>/authors/peter-song/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/peter-song/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rupam Bhattacharyya</title>
-      <link>/authors/rupam-bhattacharyya/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/rupam-bhattacharyya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Soumik Purkayastha</title>
-      <link>/authors/soumik-purkayastha/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/soumik-purkayastha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yiwang Zhou</title>
-      <link>/authors/yiwang-zhou/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/yiwang-zhou/</guid>
       <description></description>
     </item>
     

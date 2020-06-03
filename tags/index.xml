@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Journal Articles</title>
+      <link>/tags/journal-articles/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/journal-articles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Preprints</title>
@@ -41,14 +49,6 @@
       <link>/tags/workshops/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/tags/workshops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journal Articles</title>
-      <link>/tags/journal-articles/</link>
-      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/journal-articles/</guid>
       <description></description>
     </item>
     
