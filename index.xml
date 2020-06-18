@@ -304,6 +304,50 @@
     </item>
     
     <item>
+      <title></title>
+      <link>/more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/more/</guid>
+      <description>&lt;h1 id=&#34;awards&#34;&gt;Awards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Precision Health Scholars Award, University of Michigan&lt;/li&gt;
+&lt;li&gt;Doctoral Dissertation Fellowship, University of Connecticut&lt;/li&gt;
+&lt;li&gt;Doctoral Student Travel Award, University of Connecticut&lt;/li&gt;
+&lt;li&gt;Pre-Doctoral Dissertation Fellowship, University of Connecticut&lt;/li&gt;
+&lt;li&gt;Matthew M. Goldstein Graduate Fellowship, University of Connecticut&lt;/li&gt;
+&lt;li&gt;Chennai Mathematical Institute Medal of Excellence&lt;/li&gt;
+&lt;li&gt;Scholarship for Higher Education (2009-2014), Ministry of Science &amp;amp; Technology, Government of India&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;service&#34;&gt;Service&lt;/h1&gt;
+&lt;h2 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Biostatistics&lt;/li&gt;
+&lt;li&gt;Clinical Cancer Informatics&lt;/li&gt;
+&lt;li&gt;Journal of the American Medical Informatics Association&lt;/li&gt;
+&lt;li&gt;Hardvard Data Science Review&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;member&#34;&gt;Member&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;International Biometric Society: Eastern North American Region (ENAR)&lt;/li&gt;
+&lt;li&gt;International Society for Bayesian Analysis (ISBA)&lt;/li&gt;
+&lt;li&gt;International Indian Statistical Association (IISA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;leadership-roles&#34;&gt;Leadership Roles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Executive Committee Member
+&lt;ul&gt;
+&lt;li&gt;Statistics Graduate Student Committee, University of Connecticut&lt;/li&gt;
+&lt;li&gt;Tarang (South Asian cultural organisation), University of Connecticut&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Student Committee, 31th New England Statistics Symposium, University of Connecticut&lt;/li&gt;
+&lt;li&gt;Senator, UConn Graduate Student Senate, University of Connecticut&lt;/li&gt;
+&lt;li&gt;Member, Faculty Standards Committee, University of Connecticut Senate&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Talks</title>
       <link>/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -314,20 +358,27 @@
 &lt;li&gt;MIDAS COVID-19 Special Seminar Series, University of Michigan-Ann Arbor.  &lt;em&gt;June 2020&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Integrative Statistical Modeling Approaches for Imaging-Genomics Data&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Precision Health Seminar (Pharmacy 217), University of Michigan-Ann Arbor.  &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Tools and Technology Seminar, University of Michigan-Ann Arbor.  &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Radiogenomic Analysis Incorporating Tumor Heterogeneity in Imaging
 Through Densities&lt;/em&gt;
 &lt;ul&gt;
 &lt;li&gt;ENAR Spring Meeting, Nashville, Tennessee. (Invited) &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Tools and Technology Seminar, University of Michigan-Ann Arbor.  &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;IISA Annual Conference, Mumbai, India. (Invited) &lt;em&gt;December 2019&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Bayesian Variable Selection using Spike and Slab Prior with Application to High-Dimensional EEG Data by Local Modeling&lt;/em&gt;
+&lt;li&gt;&lt;em&gt;Bayesian Variable Selection using Spike and Slab Prior with Application to High-Dimensional EEG Data&lt;/em&gt;
 &lt;ul&gt;
 &lt;li&gt;ENAR Spring Meeting, Philadelphia, Pennsylvania. &lt;em&gt;March 2019&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Joint Statistical Meetings, Vancouver, Canada. &lt;em&gt;July 2018&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Symposium on Data Science and Statistics, Reston, Virginia. &lt;em&gt;May 2018&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;BayesComp 2018, Barcelona, Spain. (Poster) &lt;em&gt;March 2018&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;IISA Annual Conference, Hyderabad, India. &lt;em&gt;December 2017&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;34th Quality and Productivity Research Conference, University of Connecticut. (Poster) &lt;em&gt;June 2017&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Modeling of Large Insurance Claims and Occurrence Data&lt;/em&gt;
