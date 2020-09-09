@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,11 +15,75 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a postdoctoral research fellow in the Departments of &lt;em&gt;Biostatistics&lt;/em&gt; and &lt;em&gt;Computational Medicine and Bioinformatics&lt;/em&gt; at The University of Michigan-Ann Arbor. I am also a &lt;em&gt;&lt;a href=&#34;https://precisionhealth.umich.edu/grants/u-m-precision-health-scholars-awards/2019-scholars-awards/&#34;&gt;Precision Health Scholar&lt;/a&gt;&lt;/em&gt; at the University of Michigan Precision Health. I am jointly mentored by Dr. &lt;a href=&#34;https://bayesrx.github.io/&#34;&gt;Veerabhadran Baladandayuthapani&lt;/a&gt; and Dr. &lt;a href=&#34;https://medicine.umich.edu/dept/dcmb/arvind-rao-phd-0&#34;&gt;Arvind Rao&lt;/a&gt;. I obtained my PhD in Statistics from University of Connecticut under the supervision of Dr. &lt;a href=&#34;http://merlot.stat.uconn.edu/~dey/&#34;&gt;Dipak Dey&lt;/a&gt; and Dr. &lt;a href=&#34;https://sites.google.com/site/statyuping&#34;&gt;Yuping Zhang&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My research interests include Bayesian modeling, variable selection, geometric functional data analysis and applications to biomedical imaging data. My current research is focused on building statistical methods to address relevant questions in the context of cancer, by integrating data from multiple sources such as radiological-imaging and genomics.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Anand Shankar</title>
+      <link>/authors/anand-shankar/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/anand-shankar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arvind Rao</title>
+      <link>/authors/arvind-rao/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/arvind-rao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elisa Warner</title>
+      <link>/authors/elisa-warner/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/elisa-warner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Fernanda Abalem</title>
+      <link>/authors/maria-fernanda-abalem/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-fernanda-abalem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thiran Jayasundera</title>
+      <link>/authors/thiran-jayasundera/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/thiran-jayasundera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas W. Gardner</title>
+      <link>/authors/thomas-w.-gardner/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-w.-gardner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tingyang Li</title>
+      <link>/authors/tingyang-li/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/tingyang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xing D. Chen</title>
+      <link>/authors/xing-d.-chen/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/xing-d.-chen/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -171,14 +235,6 @@
       <link>/authors/yiwang-zhou/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/yiwang-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arvind Rao</title>
-      <link>/authors/arvind-rao/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/arvind-rao/</guid>
       <description></description>
     </item>
     

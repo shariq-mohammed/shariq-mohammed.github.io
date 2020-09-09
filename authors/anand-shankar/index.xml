@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arvind Rao | Shariq Mohammed</title>
-    <link>/authors/arvind-rao/</link>
-      <atom:link href="/authors/arvind-rao/index.xml" rel="self" type="application/rss+xml" />
-    <description>Arvind Rao</description>
+    <title>Anand Shankar | Shariq Mohammed</title>
+    <link>/authors/anand-shankar/</link>
+      <atom:link href="/authors/anand-shankar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anand Shankar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Arvind Rao</title>
-      <link>/authors/arvind-rao/</link>
+      <title>Anand Shankar</title>
+      <link>/authors/anand-shankar/</link>
     </image>
     
     <item>
@@ -20,18 +20,6 @@
       <description>&lt;p&gt;&lt;em&gt;Scientific Reports (Just Accepted)&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Diabetic retinopathy (DR) is a severe retinal disorder that can lead to vision loss, however, its underlying mechanism has not been fully understood. Previous studies have taken advantage of Optical Coherence Tomography (OCT) and shown that the thickness of individual retinal layers are affected in patients with DR. However, most studies analyzed the thickness by calculating summary statistics from retinal thickness maps of the macula region. This study aims to apply a density function-based statistical framework to the thickness data obtained through OCT, and to compare the predictive power of various retinal layers to assess the severity of DR. We used a prototype data set of 107 subjects which are comprised of 38 non-proliferative DR (NPDR), 28 without DR (NoDR), and 41 controls. Based on the thickness profiles, we constructed novel features which capture the variation in the distribution of the pixel-wise retinal layer thicknesses from OCT. We quantified the predictive power of each of the retinal layers to distinguish between all three pairwise comparisons of the severity in DR (NoDR vs NPDR, controls vs NPDR and controls vs NoDR). When applied to this preliminary DR data set, our density-based method demonstrated better predictive results compared with simple summary statistics. Furthermore, our results indicate considerable differences in retinal layer structuring based on the severity of DR. We found that: (a) the outer plexiform layer is the most discriminative layer for classifying NoDR vs NPDR; (b) the outer plexiform, inner nuclear and ganglion cell layers are the strongest biomarkers for discriminating controls from NPDR; and (c) the inner nuclear layer distinguishes best between controls and NoDR.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Integrative Bayesian models using post-selective inference: a case study in radiogenomics</title>
-      <link>/publication/panigrahi2020integrative/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/panigrahi2020integrative/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Identifying direct links between gene pathways and clinical endpoints for highly fatal diseases such as cancer is a formidable task. Integrative analyses play a crucial role in modeling these links by relying upon associations between a wealth of intermediary variables and genomic measurements. Motivated to harness phenotypic information about tumors towards a molecular characterization of low-grade gliomas, we develop a data driven Bayesian framework to define sharp models, and calibrate accurately and efficiently uncertainties associated with the promising biological findings.&lt;/p&gt;
-&lt;p&gt;The Bayesian methods we propose in the article (i) are amenable to a flexible class of adaptive models, determined via a complex interplay between signals sifted from variable selection algorithms and domain specific knowledge; (ii) have the advantage of computationally efficient high dimensional inference due to a focus on sharp models with fewer parameters, when compared to their non-adaptive counterparts; (iii) exhibit a significantly better reconciliation between model adaptivity and inferential power than state-of-art approaches, when constrained by the curse of dimensionality. Our main workforce involves a carefully constructed conditional likelihood and utilizes a reparameterization map to obtain compact formulae for a selection-corrected posterior. Deploying our methods to investigate radiogenomic characteristics for diffuse low-grade gliomas, we successfully uncover associations between several biologically important gene pathways and patient survival times.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
