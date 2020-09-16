@@ -246,14 +246,6 @@
     </item>
     
     <item>
-      <title>Bayesian 2D functional analysis in magnetic resonance imaging for gliomas</title>
-      <link>/research/chekouobayesian/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/research/chekouobayesian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spatial Tweedie exponential dispersion models</title>
       <link>/publication/halder2020spatial/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
@@ -265,11 +257,12 @@
     </item>
     
     <item>
-      <title>Applications of geometric functional data analysis in medical imaging</title>
+      <title>Geometric functional data analysis in biomedical imaging</title>
       <link>/research/mohammeddensity/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/research/mohammeddensity/</guid>
-      <description></description>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
     </item>
     
     <item>
@@ -277,7 +270,9 @@
       <link>/research/mohammedradiohead/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>/research/mohammedradiohead/</guid>
-      <description></description>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
     </item>
     
     <item>
@@ -320,7 +315,8 @@
       <link>/research/halderspatial/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <guid>/research/halderspatial/</guid>
-      <description></description>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
     </item>
     
     <item>
