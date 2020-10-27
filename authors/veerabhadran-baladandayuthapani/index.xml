@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veerabhadran Baladandayuthapani | Shariq Mohammed</title>
-    <link>/authors/veerabhadran-baladandayuthapani/</link>
-      <atom:link href="/authors/veerabhadran-baladandayuthapani/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shariq-mohammed.github.io/authors/veerabhadran-baladandayuthapani/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/veerabhadran-baladandayuthapani/index.xml" rel="self" type="application/rss+xml" />
     <description>Veerabhadran Baladandayuthapani</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Veerabhadran Baladandayuthapani</title>
-      <link>/authors/veerabhadran-baladandayuthapani/</link>
+      <link>https://shariq-mohammed.github.io/authors/veerabhadran-baladandayuthapani/</link>
     </image>
     
     <item>
       <title>Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms</title>
-      <link>/publication/ray2020predictions/</link>
+      <link>https://shariq-mohammed.github.io/publication/ray2020predictions/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ray2020predictions/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/ray2020predictions/</guid>
       <description>&lt;p&gt;&lt;em&gt;Harvard Data Science Review&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;With only 536 cases and 11 fatalities, India took the historic decision of a 21-day national lockdown on March 25. The lockdown was first extended to May 3 soon after the analysis of this paper was completed, and then to May 18 while this paper was being revised. In this paper, we use a Bayesian extension of the Susceptible-Infected-Removed (eSIR) model designed for intervention forecasting to study the short- and long-term impact of an initial 21-day lockdown on the total number of COVID-19 infections in India compared to other less severe non-pharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its healthcare and disease-monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown between 42-56 days is preferable to substantially “flatten the curve” when compared to 21-28 days of lockdown. Our models focus solely on projecting the number of COVID-19 infections and thus, inform policymakers about one aspect of this multi-faceted decision-making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods and tools that can enable data-driven policymaking during a pandemic. Our software products are available at &lt;a href=&#34;covind19.org&#34;&gt;covind19.org&lt;/a&gt;.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Integrative Bayesian models using post-selective inference: a case study in radiogenomics</title>
-      <link>/publication/panigrahi2020integrative/</link>
+      <link>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/panigrahi2020integrative/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Identifying direct links between gene pathways and clinical endpoints for highly fatal diseases such as cancer is a formidable task. Integrative analyses play a crucial role in modeling these links by relying upon associations between a wealth of intermediary variables and genomic measurements. Motivated to harness phenotypic information about tumors towards a molecular characterization of low-grade gliomas, we develop a data driven Bayesian framework to define sharp models, and calibrate accurately and efficiently uncertainties associated with the promising biological findings.&lt;/p&gt;
 &lt;p&gt;The Bayesian methods we propose in the article (i) are amenable to a flexible class of adaptive models, determined via a complex interplay between signals sifted from variable selection algorithms and domain specific knowledge; (ii) have the advantage of computationally efficient high dimensional inference due to a focus on sharp models with fewer parameters, when compared to their non-adaptive counterparts; (iii) exhibit a significantly better reconciliation between model adaptivity and inferential power than state-of-art approaches, when constrained by the curse of dimensionality. Our main workforce involves a carefully constructed conditional likelihood and utilizes a reparameterization map to obtain compact formulae for a selection-corrected posterior. Deploying our methods to investigate radiogenomic characteristics for diffuse low-grade gliomas, we successfully uncover associations between several biologically important gene pathways and patient survival times.&lt;/p&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>Regional contact networks and the pandemic spread of COVID-19 in India</title>
-      <link>/posts/bhattacharyya2020regional/</link>
+      <link>https://shariq-mohammed.github.io/posts/bhattacharyya2020regional/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/posts/bhattacharyya2020regional/</guid>
+      <guid>https://shariq-mohammed.github.io/posts/bhattacharyya2020regional/</guid>
       <description>&lt;p&gt;Predictions to enable State-level Surge Preparedness in moving from Containment to Mitigation.&lt;/p&gt;
 &lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@veerab_12080/regional-contact-networks-and-the-pandemic-spread-of-covid-19-in-india-28b3b3aa2161&#34;&gt;found here&lt;/a&gt;. To explore the results under different scenarios for the spread of infection, we have developed an R Shiny app which can be accessed &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Covid-19: India must urgently manage regional contact networks</title>
-      <link>/posts/baladandayuthapani2020covid/</link>
+      <link>https://shariq-mohammed.github.io/posts/baladandayuthapani2020covid/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/posts/baladandayuthapani2020covid/</guid>
+      <guid>https://shariq-mohammed.github.io/posts/baladandayuthapani2020covid/</guid>
       <description>&lt;p&gt;An Op-Ed on bloombergquint.com can be &lt;a href=&#34;https://www.bloombergquint.com/coronavirus-outbreak/covid-19-india-must-urgently-manage-regional-contact-networks&#34;&gt;found here&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -59,9 +59,9 @@
     
     <item>
       <title>Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of virus in India</title>
-      <link>/posts/salvatore2020historic/</link>
+      <link>https://shariq-mohammed.github.io/posts/salvatore2020historic/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/posts/salvatore2020historic/</guid>
+      <guid>https://shariq-mohammed.github.io/posts/salvatore2020historic/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/historic-lockdown-prediction-models-to-study-lockdown-effects-and-the-role-of-data-in-the-crisis-a0afeeec5a6&#34;&gt;found here&lt;/a&gt;. Daily updates of the plots can be found on the &lt;a href=&#34;https://umich-biostatistics.shinyapps.io/covid19/&#34;&gt;R shiny app here&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -69,9 +69,9 @@
     
     <item>
       <title>Predictions and role of interventions for COVID-19 outbreak in India</title>
-      <link>/posts/ray2020predictions/</link>
+      <link>https://shariq-mohammed.github.io/posts/ray2020predictions/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/posts/ray2020predictions/</guid>
+      <guid>https://shariq-mohammed.github.io/posts/ray2020predictions/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/predictions-and-role-of-interventions-for-covid-19-outbreak-in-india-52903e2544e6&#34;&gt;found here&lt;/a&gt;. The full report can be &lt;a href=&#34;https://sph.umich.edu/precision-health-data-science/research/pdf/COVReport_Final_20200320.pdf&#34;&gt;downloaded here&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>

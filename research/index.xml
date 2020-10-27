@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researches | Shariq Mohammed</title>
-    <link>/research/</link>
-      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shariq-mohammed.github.io/research/</link>
+      <atom:link href="https://shariq-mohammed.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Researches</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Researches</title>
-      <link>/research/</link>
+      <link>https://shariq-mohammed.github.io/research/</link>
     </image>
     
     <item>
       <title>Geometric functional data analysis in biomedical imaging</title>
-      <link>/research/mohammeddensity/</link>
+      <link>https://shariq-mohammed.github.io/research/mohammeddensity/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/research/mohammeddensity/</guid>
+      <guid>https://shariq-mohammed.github.io/research/mohammeddensity/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Radiogenomic analysis in gliomas</title>
-      <link>/research/mohammedradiohead/</link>
+      <link>https://shariq-mohammed.github.io/research/mohammedradiohead/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/research/mohammedradiohead/</guid>
+      <guid>https://shariq-mohammed.github.io/research/mohammedradiohead/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -33,9 +33,9 @@
     
     <item>
       <title>Spatial modeling of large insurance claims and occurrence data</title>
-      <link>/research/halderspatial/</link>
+      <link>https://shariq-mohammed.github.io/research/halderspatial/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/research/halderspatial/</guid>
+      <guid>https://shariq-mohammed.github.io/research/halderspatial/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>

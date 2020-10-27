@@ -2,95 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Shariq Mohammed</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shariq-mohammed.github.io/tags/</link>
+      <atom:link href="https://shariq-mohammed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://shariq-mohammed.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>Journal Articles</title>
-      <link>/tags/journal-articles/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/journal-articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preprints</title>
-      <link>/tags/preprints/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/preprints/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID-19</title>
-      <link>/tags/covid-19/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/covid-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book Chapters</title>
-      <link>/tags/book-chapters/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/book-chapters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workshops</title>
-      <link>/tags/workshops/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/workshops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Img</title>
-      <link>/tags/img/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/img/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ImgGen</title>
-      <link>/tags/imggen/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/imggen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>/tags/courses/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Misc</title>
-      <link>/tags/misc/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/misc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference Papers</title>
-      <link>/tags/conference-papers/</link>
-      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/conference-papers/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

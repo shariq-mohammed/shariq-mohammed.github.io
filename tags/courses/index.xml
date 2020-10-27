@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Shariq Mohammed</title>
-    <link>/tags/courses/</link>
-      <atom:link href="/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shariq-mohammed.github.io/tags/courses/</link>
+      <atom:link href="https://shariq-mohammed.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Courses</title>
-      <link>/tags/courses/</link>
+      <link>https://shariq-mohammed.github.io/tags/courses/</link>
     </image>
     
     <item>
       <title>STAT 3025 - Statistical Methods (Calculus Level II)</title>
-      <link>/teaching/stat3025-fall/</link>
+      <link>https://shariq-mohammed.github.io/teaching/stat3025-fall/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/teaching/stat3025-fall/</guid>
+      <guid>https://shariq-mohammed.github.io/teaching/stat3025-fall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>STAT 3025 - Statistical Methods (Calculus Level II)</title>
-      <link>/teaching/stat3025-summer/</link>
+      <link>https://shariq-mohammed.github.io/teaching/stat3025-summer/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/teaching/stat3025-summer/</guid>
+      <guid>https://shariq-mohammed.github.io/teaching/stat3025-summer/</guid>
       <description></description>
     </item>
     

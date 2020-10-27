@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thierry Chekouo | Shariq Mohammed</title>
-    <link>/authors/thierry-chekouo/</link>
-      <atom:link href="/authors/thierry-chekouo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shariq-mohammed.github.io/authors/thierry-chekouo/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/thierry-chekouo/index.xml" rel="self" type="application/rss+xml" />
     <description>Thierry Chekouo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Thierry Chekouo</title>
-      <link>/authors/thierry-chekouo/</link>
+      <link>https://shariq-mohammed.github.io/authors/thierry-chekouo/</link>
     </image>
     
     <item>
-      <title>A Bayesian 2D functional linear model for gray level co-occurrence matrices in texture analysis of lower grade gliomas</title>
-      <link>/publication/chekouo2020bayesian/</link>
+      <title>A Bayesian 2D functional linear model for gray-level co-occurrence matrices in texture analysis of lower grade gliomas</title>
+      <link>https://shariq-mohammed.github.io/publication/chekouo2020bayesian/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/chekouo2020bayesian/</guid>
-      <description>&lt;p&gt;&lt;em&gt;NeuroImage: Clinical (Just Accepted)&lt;/em&gt; (2020).&lt;/p&gt;
+      <guid>https://shariq-mohammed.github.io/publication/chekouo2020bayesian/</guid>
+      <description>&lt;p&gt;&lt;em&gt;NeuroImage: Clinical&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In cancer radiomics, textural features evaluated from image intensity-derived gray-level co-occurrence matrices (GLCMs) have been studied to evaluate gray-level spatial dependence within the regions of interest in the brain. Most of these analysis work with summary statistics (or texture-based features) constructed using the GLCM entries, and potentially overlook other structural properties in the GLCM.  In our proposed Bayesian framework, we treat each GLCM  as a realization of a two-dimensional stochastic functional process observed with error at discrete time points. The latent process is then combined with the outcome model to evaluate the prediction performance. We use simulation studies to assess the performance of our method and apply it to data collected from individuals with lower grade gliomas. We found our approach to outperform competing methods that use only summary statistics to predict isocitrate dehydrogenase (IDH) mutation status.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;

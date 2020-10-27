@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Shariq Mohammed</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shariq-mohammed.github.io/publication_types/2/</link>
+      <atom:link href="https://shariq-mohammed.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>https://shariq-mohammed.github.io/publication_types/2/</link>
     </image>
     
     <item>
-      <title>A Bayesian 2D functional linear model for gray level co-occurrence matrices in texture analysis of lower grade gliomas</title>
-      <link>/publication/chekouo2020bayesian/</link>
+      <title>A Bayesian 2D functional linear model for gray-level co-occurrence matrices in texture analysis of lower grade gliomas</title>
+      <link>https://shariq-mohammed.github.io/publication/chekouo2020bayesian/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/chekouo2020bayesian/</guid>
-      <description>&lt;p&gt;&lt;em&gt;NeuroImage: Clinical (Just Accepted)&lt;/em&gt; (2020).&lt;/p&gt;
+      <guid>https://shariq-mohammed.github.io/publication/chekouo2020bayesian/</guid>
+      <description>&lt;p&gt;&lt;em&gt;NeuroImage: Clinical&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In cancer radiomics, textural features evaluated from image intensity-derived gray-level co-occurrence matrices (GLCMs) have been studied to evaluate gray-level spatial dependence within the regions of interest in the brain. Most of these analysis work with summary statistics (or texture-based features) constructed using the GLCM entries, and potentially overlook other structural properties in the GLCM.  In our proposed Bayesian framework, we treat each GLCM  as a realization of a two-dimensional stochastic functional process observed with error at discrete time points. The latent process is then combined with the outcome model to evaluate the prediction performance. We use simulation studies to assess the performance of our method and apply it to data collected from individuals with lower grade gliomas. We found our approach to outperform competing methods that use only summary statistics to predict isocitrate dehydrogenase (IDH) mutation status.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Density-based classification in diabetic retinopathy through thickness of retinal layers from optical coherence tomography</title>
-      <link>/publication/mohammed2020density/</link>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2020density/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mohammed2020density/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Scientific Reports (Just Accepted)&lt;/em&gt; (2020).&lt;/p&gt;
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2020density/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Diabetic retinopathy (DR) is a severe retinal disorder that can lead to vision loss, however, its underlying mechanism has not been fully understood. Previous studies have taken advantage of Optical Coherence Tomography (OCT) and shown that the thickness of individual retinal layers are affected in patients with DR. However, most studies analyzed the thickness by calculating summary statistics from retinal thickness maps of the macula region. This study aims to apply a density function-based statistical framework to the thickness data obtained through OCT, and to compare the predictive power of various retinal layers to assess the severity of DR. We used a prototype data set of 107 subjects which are comprised of 38 non-proliferative DR (NPDR), 28 without DR (NoDR), and 41 controls. Based on the thickness profiles, we constructed novel features which capture the variation in the distribution of the pixel-wise retinal layer thicknesses from OCT. We quantified the predictive power of each of the retinal layers to distinguish between all three pairwise comparisons of the severity in DR (NoDR vs NPDR, controls vs NPDR and controls vs NoDR). When applied to this preliminary DR data set, our density-based method demonstrated better predictive results compared with simple summary statistics. Furthermore, our results indicate considerable differences in retinal layer structuring based on the severity of DR. We found that: (a) the outer plexiform layer is the most discriminative layer for classifying NoDR vs NPDR; (b) the outer plexiform, inner nuclear and ganglion cell layers are the strongest biomarkers for discriminating controls from NPDR; and (c) the inner nuclear layer distinguishes best between controls and NoDR.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>Scalable spatio-temporal Bayesian analysis of high-dimensional electroencephalography data</title>
-      <link>/publication/mohammed2020scalable/</link>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2020scalable/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mohammed2020scalable/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2020scalable/</guid>
       <description>&lt;p&gt;&lt;em&gt;The Canadian Journal of Statistics&lt;/em&gt; (2020) &lt;em&gt;(Just Accepted)&lt;/em&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;We present a scalable Bayesian modeling approach for identifying brain regions that respond to a certain stimulus and use them to classify subjects. We specifically deal with multi-subject electroencephalography (EEG) data with a binary response distinguishing between alcoholic and control groups. The covariates are matrix-variate with measurements taken for each subject at different locations across multiple time points. EEG data has a complex structure with both spatial and temporal attributes to it. We use a divide-and-conquer strategy to build multiple local models, that is, one model at each time point separately. We employ Bayesian variable selection approaches using a structured continuous spike-and-slab prior to identify the locations which respond to a certain stimulus. We incorporate the spatio-temporal structure through a Kronecker product of the spatial and temporal correlation matrices. We develop a highly scalable estimation algorithm using likelihood approximation to deal with large number of parameters in the model. Variable selection is done via clustering of the locations based on their duration of activation. We use scoring rules to evaluate the prediction performance. We perform simulation studies to demonstrate the efficiency of our scalable algorithm in terms of estimation and fast computation. We present results using our scalable approach for a case study on multi-subject EEG data.&lt;/p&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Classification of high-dimensional electroencephalography data with location selection using structured spike-and-slab prior</title>
-      <link>/publication/mohammed2020classification/</link>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2020classification/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mohammed2020classification/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2020classification/</guid>
       <description>&lt;p&gt;&lt;em&gt;Statistical Analysis and Data Mining: The ASA Data Science Journal&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;With the advent of modern technologies, it is increasingly common to deal with data of large dimensions in various scientific fields of study. In this paper, we develop a Bayesian approach for the classification of multi-subject high-dimensional electroencephalography (EEG) data. In this EEG data, we have a matrix of covariates corresponding to each subject from either the alcoholic or control group. The matrix covariates have a natural spatial correlation based on the locations of the brain, and temporal correlation as the measurements are taken over time. We employ a divide and conquer strategy by building multiple local Bayesian models at each time point separately. We incorporate the spatial structure through the structured spike-and-slab prior, which has inherent variable selection properties. The temporal structure is incorporated within the prior by learning from the local model from the previ- ous time point. We pool the information from the local models and use a weighted average to design a prediction method. We perform simulation studies to show the efficiency of our approach and demonstrate the local Bayesian modeling with a case study on EEG data.&lt;/p&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms</title>
-      <link>/publication/ray2020predictions/</link>
+      <link>https://shariq-mohammed.github.io/publication/ray2020predictions/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ray2020predictions/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/ray2020predictions/</guid>
       <description>&lt;p&gt;&lt;em&gt;Harvard Data Science Review&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;With only 536 cases and 11 fatalities, India took the historic decision of a 21-day national lockdown on March 25. The lockdown was first extended to May 3 soon after the analysis of this paper was completed, and then to May 18 while this paper was being revised. In this paper, we use a Bayesian extension of the Susceptible-Infected-Removed (eSIR) model designed for intervention forecasting to study the short- and long-term impact of an initial 21-day lockdown on the total number of COVID-19 infections in India compared to other less severe non-pharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its healthcare and disease-monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown between 42-56 days is preferable to substantially “flatten the curve” when compared to 21-28 days of lockdown. Our models focus solely on projecting the number of COVID-19 infections and thus, inform policymakers about one aspect of this multi-faceted decision-making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods and tools that can enable data-driven policymaking during a pandemic. Our software products are available at &lt;a href=&#34;covind19.org&#34;&gt;covind19.org&lt;/a&gt;.&lt;/p&gt;
@@ -74,10 +74,10 @@
     
     <item>
       <title>Bayesian variable selection using spike-and-slab priors with application to high dimensional electroencephalography data by local modelling</title>
-      <link>/publication/mohammed2019bayesian/</link>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2019bayesian/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mohammed2019bayesian/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Journal of the Royal Statistical Society: Series C (Applied Statistics), 68&lt;/em&gt;(5), (2019).&lt;/p&gt;
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2019bayesian/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Journal of the Royal Statistical Society: Series C (Applied Statistics)&lt;/em&gt; (2019).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Because of the immense technological advances, very often we encounter data in high dimensions. Any set of measurements taken at multiple time points for multiple subjects leads to data of more than two dimensions (a matrix of covariates for each subject). We present a Bayesian variable‐selection method to identify the active regions in the brain as a response to a certain stimulus. We build binary classification models of subject level responses by using binary regression with Gaussian models on the latent variables. We also study the scaled normal priors on the latent variables, as they cover a large family of distributions. We use continuous spike‐and‐slab priors to incorporate variable selection within the modelling. Because of the computational complexity, we build many local (at different time points) models and make predictions by utilizing the temporal structure between the local models. We perform two‐stage variable selection for each of these local models. We demonstrate the effectiveness of such modelling through the results of a simulation study. We then present the performance of these models on multisubject neuroimaging (electroencephalography) data to study the effects on the functional states of the frontal cortex and parietal lobe for chronic exposure of alcohol.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -86,10 +86,10 @@
     
     <item>
       <title>Assessing malaria using neutral zone classifiers with mixture discriminant analysis on 2D images of red blood cells</title>
-      <link>/publication/mohammed2019assessing/</link>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2019assessing/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mohammed2019assessing/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Journal of Biostatistics and Epidemiology, 5&lt;/em&gt;(1), (2019).&lt;/p&gt;
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2019assessing/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Journal of Biostatistics and Epidemiology&lt;/em&gt; (2019).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Background and Aim: We aim to build a classifier to distinguish between malaria-infected red blood cells (RBCs) and healthy cells using the two-dimensional (2D) microscopic images of RBCs. We demonstrate the process of cell segmentation and feature extraction from the 2D images.&lt;/p&gt;
 &lt;p&gt;Methods and Materials: We describe an approach to address the problem using mixture discriminant analysis (MDA) on the 2D image profiles of the RBCs. The extracted features are used with Gaussian MDA to distinguish between healthy and malaria infected cells. We also use the neutral zone classifiers where ambiguous cases are identified separately by the classifier.&lt;/p&gt;
