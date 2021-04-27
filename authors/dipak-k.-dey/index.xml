@@ -5,12 +5,24 @@
     <link>https://shariq-mohammed.github.io/authors/dipak-k.-dey/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/dipak-k.-dey/index.xml" rel="self" type="application/rss+xml" />
     <description>Dipak K. Dey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Dipak K. Dey</title>
       <link>https://shariq-mohammed.github.io/authors/dipak-k.-dey/</link>
     </image>
+    
+    <item>
+      <title>Spatial Tweedie exponential dispersion models: An application to insurance rate-making</title>
+      <link>https://shariq-mohammed.github.io/publication/halder2020spatial/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/halder2020spatial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scandinavian Actuarial Journal&lt;/em&gt; (2021). &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;In this paper we propose a statistical modeling framework that contributes to advancing methods for modeling insurance policy premium in the actuarial literature. Specification of separate frequency and severity models, accounting for territorial risk and performing accurate inference are some of the challenges actuaries face while modeling policy premium. We focus on building a methodology that builds parsimonious and interpretable models for modeling policy premium. Policy premiums are characterized to follow a semi-continuous probability distribution, featuring a non-zero probability mass at zero along with a positive continuous support. Interpretability is a concern when quantifying risks that policy premium face from spatial variation. Risk conferred from spatial sources is often treated as an unobserved. Commonly used strategies in the literature are known to successfully quantify the variation, but do not necessarily produce interpretable estimates. Furthermore, resorting to two-part frequency-severity models leaves the actuary indecisive about the specification of covariates and spatial effects. The proposed methods in the paper considers a more parsimonious approach by resorting to zero-adjusted models for policy premium, that models both the mean policy-premium and the associated dispersion around the mean. Quantification of variation from spatial sources is proposed for the mean model. Allowing for a non-constant dispersion across observations results in a better estimate of the underlying variability, producing superior estimates for coefficients. The novelty of the proposed approach lies in the framework developed, that allows for joint estimation of effect of policy or individual characteristics on both the mean policy premium and dispersion, while quantifying spatial variability in the mean model. The developed methods are applied to a database featuring policy premiums arising from the collision coverage in insurance policies for motor vehicles within the state of Connecticut, USA for the year 2008.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Scalable spatio-temporal Bayesian analysis of high-dimensional electroencephalography data</title>
@@ -70,17 +82,6 @@
 &lt;p&gt;Methods and Materials: We describe an approach to address the problem using mixture discriminant analysis (MDA) on the 2D image profiles of the RBCs. The extracted features are used with Gaussian MDA to distinguish between healthy and malaria infected cells. We also use the neutral zone classifiers where ambiguous cases are identified separately by the classifier.&lt;/p&gt;
 &lt;p&gt;Results: We compare the classification results from the regular classifiers such as linear discriminant analysis (LDA) or MDA and the methods where neutral zone classifiers are used. We see that including the neutral zone improves the classification results by controlling the false positive and false negatives. The number of misclassifications are seen to be lower than the case without neutral zone classifiers.&lt;/p&gt;
 &lt;p&gt;Conclusion: This paper presents an alternative approach for classification by incorporating neutral zone classifier approach, where a prediction is not made for the ambiguous cases. From the data analysis we see that this approach based on neutral zone classifiers presents a useful alternative in classification problems for various applications.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spatial Tweedie exponential dispersion models</title>
-      <link>https://shariq-mohammed.github.io/publication/halder2020spatial/</link>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/halder2020spatial/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;This paper proposes a general modeling framework that allows for uncertainty quantification at the individual covariate level and spatial referencing, operating withing a double generalized linear model (DGLM). DGLMs provide a general modeling framework allowing dispersion to depend in a link-linear fashion on chosen covariates. We focus on working with Tweedie exponential dispersion models while considering DGLMs, the reason being their recent wide-spread use for modeling mixed response types. Adopting a regularization based approach, we suggest a class of flexible convex penalties derived from an un-directed graph that facilitates estimation of the unobserved spatial effect. Developments are concisely showcased by proposing a co-ordinate descent algorithm that jointly explains variation from covariates in mean and dispersion through estimation of respective model coefficients while estimating the unobserved spatial effect. Simulations performed show that proposed approach is superior to competitors like the ridge and un-penalized versions. Finally, a real data application is considered while modeling insurance losses arising from automobile collisions in the state of Connecticut, USA for the year 2008.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
