@@ -1,527 +1,332 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://shariq-mohammed.github.io/authors/admin/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/publication_types/2/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/authors/arvind-rao/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/authors/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/authors/elisa-warner/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/publication_types/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/publication/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/authors/rajan-jain/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/tags/selected-journal-articles/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/authors/sohil-h-patel/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/authors/spyridon-bakas/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/tags/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/authors/visweswaran-ravikumar/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication_types/3/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq-mohammed.github.io/authors/arvind-rao/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq-mohammed.github.io/authors/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/karthik-bharath/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/preprints/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq-mohammed.github.io/publication_types/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq-mohammed.github.io/publication/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/sebastian-kurtek/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq-mohammed.github.io/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq-mohammed.github.io/tags/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/veerabhadran-baladandayuthapani/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/aritra-halder/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/dipak-k.-dey/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/kun-chen/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq-mohammed.github.io/tags/selected-journal-articles/</loc>
-    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/halder2020spatial/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq-mohammed.github.io/publication_types/2/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/rupam-bhattacharyya/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/sayantan-banerjee/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/mohammed2021scalable/</loc>
     <lastmod>2021-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/ashok-srinivasan/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/lee2020discriminating/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/eric-liao/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/jayapalli-bapuraj/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/john-kim/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/joonsang-lee/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/journal-articles/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/larry-junck/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/michelle-kim/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/nicholas-wang/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/remy-lobo/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/sandra-camelo-piragua/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/sevcan-turk/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/chekouo2020bayesian/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/thierry-chekouo/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/anand-shankar/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/mohammed2020density/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq-mohammed.github.io/authors/elisa-warner/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/maria-fernanda-abalem/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/thiran-jayasundera/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/thomas-w.-gardner/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/tingyang-li/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/xing-d.-chen/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/mohammed2020classification/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/yuping-zhang/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/alexander-rix/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/bhramar-mukherjee/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/daniel-barker/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/debashree-ray/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/debraj-bose/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/jiacong-du/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/lili-wang/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/maxwell-salvatore/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/michael-kleinsasser/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/mousumi-banerjee/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/parikshit-ghosh/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/peter-song/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/ray2020predictions/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/soumik-purkayastha/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/yiwang-zhou/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/snigdha-panigrahi/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/covid-19/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/posts/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/posts/bhattacharyya2020regional/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/syanatan-banerjee/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/upali-nanda/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/posts/baladandayuthapani2020covid/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication_types/6/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/matuk2020biomedical/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/book-chapters/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/james-matuk/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/posts/salvatore2020historic/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/posts/ray2020predictions/</loc>
     <lastmod>2020-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/halder2019spatial/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/teaching/cbsa2019/</loc>
     <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/teaching/</loc>
     <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/workshops/</loc>
     <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/mohammed2019bayesian/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/mohammed2019assessing/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/research/mohammeddensity/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/img/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/research/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/imggen/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/research/mohammedradiohead/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/teaching/uconnrshiny/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/courses/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/teaching/stat3025-fall/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/misc/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/research/halderspatial/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/teaching/stat3025-summer/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/teaching-assistant/</loc>
     <lastmod>2016-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/teaching/ta/</loc>
     <lastmod>2016-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication_types/1/</loc>
     <lastmod>2016-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/publication/bhat2016dynamical/</loc>
     <lastmod>2016-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/conference-papers/</loc>
     <lastmod>2016-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/m.-uday-kumar/</loc>
     <lastmod>2016-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/authors/sanjay-p.-bhat/</loc>
     <lastmod>2016-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/awards_service/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/talks/</loc>
   </url>
-  
 </urlset>

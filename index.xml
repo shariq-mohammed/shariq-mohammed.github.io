@@ -5,12 +5,27 @@
     <link>https://shariq-mohammed.github.io/</link>
       <atom:link href="https://shariq-mohammed.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shariq Mohammed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Shariq Mohammed</title>
       <link>https://shariq-mohammed.github.io/</link>
     </image>
+    
+    <item>
+      <title>Quantifying T2-FLAIR mismatch using geographically weighted regression and predicting molecular status in lower-grade gliomas</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</guid>
+      <description>&lt;p&gt;&lt;em&gt;American Journal of Neuroradiology&lt;/em&gt; (2021). &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Background and Purpose&lt;/em&gt;. T2-FLAIR mismatch sign is a validated imaging sign of IDH-mutant 1p/19q non-codeleted gliomas. It is identified by radiologists through visual inspection of pre-operative MRI scans, and has been shown to identify IDH-mutant 1p/19q non-codeleted gliomas with high positive predictive value. We have developed an approach to quantify the T2-FLAIR mismatch signature, and use it to predict molecular status of lower-grade gliomas (LGG).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Materials and Methods&lt;/em&gt;. We used multi-parametric MRI scans and segmentation labels of 108 pre-operative LGG tumors from The Cancer Imaging Archive. Clinical information and T2-FLAIR mismatch sign labels were obtained from supplementary material of relevant publications. We adopted an objective analytical approach to estimate this sign through a geographically weighted regression (GWR), and use the residuals for each case to construct a probability density function (serving as residual signature). These functions are then analyzed using an appropriate statistical framework.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;. We observe statistically significant (p-value = 0.05) differences between the averages of residual signatures for IDH-mutated 1p/19q non-codeleted class of tumors versus other categories. Our classifier predicts these cases with area under the curve (AUC) of 0.98, high specificity and sensitivity. It also predicts T2-FLAIR mismatch sign within these cases with an AUC of 0.93.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;. Based on this retrospective study, we show that GWR-based residual signatures are highly informative of T2-FLAIR mismatch sign, and can identify IDH mutation and 1p/19q codeletion status with high predictive power. The utility of proposed quantification of T2-FLAIR mismatch sign can be potentially validated through a prospective multi-institutional study.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Tumor radiogenomics with Bayesian layered variable selection</title>
@@ -111,7 +126,8 @@
       <link>https://shariq-mohammed.github.io/publication/mohammed2020classification/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2020classification/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Statistical Analysis and Data Mining: The ASA Data Science Journal&lt;/em&gt; (2020).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;&lt;em&gt;Invited for Statistical Analysis and Data Mining Best Paper Session at Joint Statistical Meetings 2022.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Statistical Analysis and Data Mining: The ASA Data Science Journal&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;With the advent of modern technologies, it is increasingly common to deal with data of large dimensions in various scientific fields of study. In this paper, we develop a Bayesian approach for the classification of multi-subject high-dimensional electroencephalography (EEG) data. In this EEG data, we have a matrix of covariates corresponding to each subject from either the alcoholic or control group. The matrix covariates have a natural spatial correlation based on the locations of the brain, and temporal correlation as the measurements are taken over time. We employ a divide and conquer strategy by building multiple local Bayesian models at each time point separately. We incorporate the spatial structure through the structured spike-and-slab prior, which has inherent variable selection properties. The temporal structure is incorporated within the prior by learning from the local model from the previ- ous time point. We pool the information from the local models and use a weighted average to design a prediction method. We perform simulation studies to show the efficiency of our approach and demonstrate the local Bayesian modeling with a case study on EEG data.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
