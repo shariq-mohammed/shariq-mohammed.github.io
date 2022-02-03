@@ -5,12 +5,20 @@
     <link>https://shariq-mohammed.github.io/teaching/</link>
       <atom:link href="https://shariq-mohammed.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Teachings</title>
       <link>https://shariq-mohammed.github.io/teaching/</link>
     </image>
+    
+    <item>
+      <title>BS 730 - Introduction to R: Software for Statistical Computing</title>
+      <link>https://shariq-mohammed.github.io/teaching/bs730/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/bs730/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computational Biotatistics and Survival Analysis</title>

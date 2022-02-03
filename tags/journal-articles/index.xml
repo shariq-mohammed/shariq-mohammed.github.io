@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/tags/journal-articles/</link>
       <atom:link href="https://shariq-mohammed.github.io/tags/journal-articles/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal Articles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Journal Articles</title>
@@ -13,11 +13,23 @@
     </image>
     
     <item>
+      <title>Network-based Modeling of COVID-19 Dynamics: Early Pandemic Spread in India</title>
+      <link>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Journal of the Indian Statistical Association &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Modeling the dynamics of COVID-19 pandemic spread is a challenging and relevant problem.  Established models for the epidemic spread such as compartmental epidemiological models e.g. Susceptible-Infected-Recovered (SIR) models and its variants, have been discussed extensively in the literature and utilized to forecast the growth of the pandemic across different hot-spots in the world. The standard formulations of SIR models rely upon summary-level data, which may not be  able to fully capture the complete dynamics of the pandemic growth. Since the disease spreads from carriers to susceptible individuals via some form of contact, it inherently relies upon a network of individuals for its growth, with edges established via direct interaction, such as shared physical proximity. Using spatial and individual-level COVID-19 data from the early days (January 30 to April 15, 2020) of the pandemic in India, and under a network-based SIR model framework, we performed state-specific forecasting under multiple scenarios characterized by the basic reproduction number of COVID-19 across 34 Indian states and union territories. We validated our short-term projections using observed case counts and the long-term projections using national sero-survey findings. Based on healthcare availability data, we also performed projections to assess the burdens on the infrastructure along the spectrum of the pandemic growth. We have developed an &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;interactive dashboard&lt;/a&gt; summarizing our results. Our predictions successfully identified the initial hot-spots of India such as Maharashtra and Delhi, and those that emerged later, such as Madhya Pradesh and Kerala. These models have the potential to inform appropriate policies for isolation and mitigation strategies to contain the pandemic, through a phased approach  by appropriate resource prioritization and allocation.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Discriminating pseudoprogression and true progression in diffuse infiltrating glioma using multi-parametric MRI data through deep learning</title>
       <link>https://shariq-mohammed.github.io/publication/lee2020discriminating/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/lee2020discriminating/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (Just Accepted).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Differentiating pseudoprogression from true tumor progression has become a significant challenge in follow-up of diffuse infiltrating gliomas, particularly high grade, which leads to a potential treatment delay for patients with early glioma recurrence. In this study, we proposed to use a multiparametric MRI data as a sequence input for the convolutional neural network with the recurrent neural network based deep learning structure to discriminate between pseudoprogression and true tumor progression. In this study, 43 biopsy-proven patient data identified as diffuse infiltrating glioma patients whose disease progressed/recurred were used. The dataset consists of five original MRI sequences; pre-contrast T1-weighted, post-contrast T1-weighted, T2-weighted, FLAIR, and ADC images as well as two engineered sequences; T1post – T1pre and T2 – FLAIR. Next, we used three CNN-LSTM models with a different set of sequences as input sequences to pass through CNN-LSTM layers. We performed 3-fold cross-validation in the training dataset and generated the boxplot, accuracy, and ROC curve, AUC from each trained model with the test dataset to evaluate models. The mean accuracy for VGG16 models ranged from 0.44 to 0.60 and the mean AUC ranged from 0.47 to 0.59. For CNN-LSTM model, the mean accuracy ranged from 0.62 to 0.75 and the mean AUC ranged from 0.64 to 0.81. The performance of the proposed CNN-LSTM with multiparametric sequence data was found to outperform the popular convolutional CNN with a single MRI sequence. In conclusion, incorporating all available MRI sequences into a sequence input for a CNN-LSTM model improved diagnostic performance for discriminating between pseudoprogression and true tumor progression.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;

@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/tags/selected-journal-articles/</link>
       <atom:link href="https://shariq-mohammed.github.io/tags/selected-journal-articles/index.xml" rel="self" type="application/rss+xml" />
     <description>Selected Journal Articles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Selected Journal Articles</title>
@@ -13,11 +13,23 @@
     </image>
     
     <item>
+      <title>GaWRDenMap: A quantitative framework to study the local variation in cell-cell interactions in pancreatic disease subtypes</title>
+      <link>https://shariq-mohammed.github.io/publication/krishnan2022gawrdenmap/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/krishnan2022gawrdenmap/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Spatial pattern modelling concepts are being increasingly used in capturing disease heterogeneity. Quantification of heterogeneity in the tumor microenvironment is extremely important in pancreatic ductal adenocarcinoma (PDAC), which has been shown to co-occur with other pancreatic diseases and neoplasms with certain attributes that make visual discrimination difficult. In this paper, we propose the GaWRDenMap framework, that utilizes the concepts of geographically weighted regression (GWR) and a density function-based classification model, and apply it to a cohort of multiplex immunofluorescence images from patients belonging to six different pancreatic diseases. We used an internal cohort of 228 patients comprised of 34 Chronic Pancreatitis (CP), 71 PDAC, 70 intraductal papillary mucinous neoplasm (IPMN), 16 mucinous cystic neoplasm (MCN), 29 pancreatic intraductal neoplasia (PanIN) and 8  IPMN-associated PDAC patients. We utilize GWR to model the relationship between epithelial cells and immune cells on a spatial grid. The GWR model estimates were used to generate density signatures which were used in subsequent pairwise classification models to distinguish between any two pairs of disease groups. Image-level, as well as subject-level analysis, were performed. When applied to this dataset, our classification model showed significant discrimination ability in multiple pairwise comparisons, in comparison to commonly used abundance-based metrics, like the Morisita-Horn index. The model was able to  best discriminate between CP and PDAC at both the subject- and image-levels. It was also able to reasonably discriminate between PDAC and IPMN. These results point to a potential difference in the spatial arrangement of epithelial and immune cells between CP, PDAC and IPMN, that could be of high  diagnostic significance. Further validation on a more comprehensive dataset would be warranted.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Quantifying T2-FLAIR mismatch using geographically weighted regression and predicting molecular status in lower-grade gliomas</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</guid>
-      <description>&lt;p&gt;&lt;em&gt;American Journal of Neuroradiology&lt;/em&gt; (2021). &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;American Journal of Neuroradiology&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Background and Purpose&lt;/em&gt;. T2-FLAIR mismatch sign is a validated imaging sign of IDH-mutant 1p/19q non-codeleted gliomas. It is identified by radiologists through visual inspection of pre-operative MRI scans, and has been shown to identify IDH-mutant 1p/19q non-codeleted gliomas with high positive predictive value. We have developed an approach to quantify the T2-FLAIR mismatch signature, and use it to predict molecular status of lower-grade gliomas (LGG).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Materials and Methods&lt;/em&gt;. We used multi-parametric MRI scans and segmentation labels of 108 pre-operative LGG tumors from The Cancer Imaging Archive. Clinical information and T2-FLAIR mismatch sign labels were obtained from supplementary material of relevant publications. We adopted an objective analytical approach to estimate this sign through a geographically weighted regression (GWR), and use the residuals for each case to construct a probability density function (serving as residual signature). These functions are then analyzed using an appropriate statistical framework.&lt;/p&gt;
@@ -32,7 +44,7 @@
       <link>https://shariq-mohammed.github.io/publication/halder2020spatial/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/halder2020spatial/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Scandinavian Actuarial Journal&lt;/em&gt; (2021). &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Scandinavian Actuarial Journal&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In this paper we propose a statistical modeling framework that contributes to advancing methods for modeling insurance policy premium in the actuarial literature. Specification of separate frequency and severity models, accounting for territorial risk and performing accurate inference are some of the challenges actuaries face while modeling policy premium. We focus on building a methodology that builds parsimonious and interpretable models for modeling policy premium. Policy premiums are characterized to follow a semi-continuous probability distribution, featuring a non-zero probability mass at zero along with a positive continuous support. Interpretability is a concern when quantifying risks that policy premium face from spatial variation. Risk conferred from spatial sources is often treated as an unobserved. Commonly used strategies in the literature are known to successfully quantify the variation, but do not necessarily produce interpretable estimates. Furthermore, resorting to two-part frequency-severity models leaves the actuary indecisive about the specification of covariates and spatial effects. The proposed methods in the paper considers a more parsimonious approach by resorting to zero-adjusted models for policy premium, that models both the mean policy-premium and the associated dispersion around the mean. Quantification of variation from spatial sources is proposed for the mean model. Allowing for a non-constant dispersion across observations results in a better estimate of the underlying variability, producing superior estimates for coefficients. The novelty of the proposed approach lies in the framework developed, that allows for joint estimation of effect of policy or individual characteristics on both the mean policy premium and dispersion, while quantifying spatial variability in the mean model. The developed methods are applied to a database featuring policy premiums arising from the collision coverage in insurance policies for motor vehicles within the state of Connecticut, USA for the year 2008.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -44,7 +56,7 @@
       <link>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Annals of Applied Statistics&lt;/em&gt; (2021). &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Annals of Applied Statistics&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Recent technological advancements have enabled detailed investigation of associations between the molecular architecture and tumor heterogeneity, through multi-source integration of radiological imaging and genomic (radiogenomic) data. In this paper, we integrate and harness radiogenomic data in patients with lower grade gliomas (LGG), a type of brain cancer, in order to develop a regression framework called RADIOHEAD (RADIOgenomic analysis incorporating tumor HEterogeneity in imAging through Densities) to identify radiogenomic associations. Imaging data is represented through voxel intensity probability density functions of tumor sub-regions obtained from multimodal magnetic resonance imaging, and genomic data through molecular signatures in the form of pathway enrichment scores corresponding to their gene expression profiles. Employing a Riemannian-geometric framework for principal component analysis on the set of probability densities functions, we map each probability density to a vector of principal component scores, which are then included as predictors in a Bayesian regression model with the pathway enrichment scores as the response. Variable selection compatible with the grouping structure amongst the predictors induced through the tumor sub-regions is carried out under a group spike-and-slab prior. A Bayesian false discovery rate mechanism is then used to infer significant associations based on the posterior distribution of the regression coefficients. Our analyses reveal several pathways relevant to LGG etiology (such as synaptic transmission, nerve impulse and neurotransmitter pathways), to have significant associations with the corresponding imaging-based predictors.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
