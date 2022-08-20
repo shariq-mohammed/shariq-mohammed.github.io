@@ -25,6 +25,42 @@
     </item>
     
     <item>
+      <title>GaWRDenMap: A quantitative framework to study the local variation in cell-cell interactions in pancreatic disease subtypes</title>
+      <link>https://shariq-mohammed.github.io/publication/krishnan2022gawrdenmap/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/krishnan2022gawrdenmap/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2022)&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Spatial pattern modelling concepts are being increasingly used in capturing disease heterogeneity. Quantification of heterogeneity in the tumor microenvironment is extremely important in pancreatic ductal adenocarcinoma (PDAC), which has been shown to co-occur with other pancreatic diseases and neoplasms with certain attributes that make visual discrimination difficult. In this paper, we propose the GaWRDenMap framework, that utilizes the concepts of geographically weighted regression (GWR) and a density function-based classification model, and apply it to a cohort of multiplex immunofluorescence images from patients belonging to six different pancreatic diseases. We used an internal cohort of 228 patients comprised of 34 Chronic Pancreatitis (CP), 71 PDAC, 70 intraductal papillary mucinous neoplasm (IPMN), 16 mucinous cystic neoplasm (MCN), 29 pancreatic intraductal neoplasia (PanIN) and 8  IPMN-associated PDAC patients. We utilize GWR to model the relationship between epithelial cells and immune cells on a spatial grid. The GWR model estimates were used to generate density signatures which were used in subsequent pairwise classification models to distinguish between any two pairs of disease groups. Image-level, as well as subject-level analysis, were performed. When applied to this dataset, our classification model showed significant discrimination ability in multiple pairwise comparisons, in comparison to commonly used abundance-based metrics, like the Morisita-Horn index. The model was able to  best discriminate between CP and PDAC at both the subject- and image-levels. It was also able to reasonably discriminate between PDAC and IPMN. These results point to a potential difference in the spatial arrangement of epithelial and immune cells between CP, PDAC and IPMN, that could be of high  diagnostic significance. Further validation on a more comprehensive dataset would be warranted.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial Tweedie exponential dispersion models: An application to insurance rate-making</title>
+      <link>https://shariq-mohammed.github.io/publication/halder2020spatial/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/halder2020spatial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scandinavian Actuarial Journal&lt;/em&gt; (2021).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;In this paper we propose a statistical modeling framework that contributes to advancing methods for modeling insurance policy premium in the actuarial literature. Specification of separate frequency and severity models, accounting for territorial risk and performing accurate inference are some of the challenges actuaries face while modeling policy premium. We focus on building a methodology that builds parsimonious and interpretable models for modeling policy premium. Policy premiums are characterized to follow a semi-continuous probability distribution, featuring a non-zero probability mass at zero along with a positive continuous support. Interpretability is a concern when quantifying risks that policy premium face from spatial variation. Risk conferred from spatial sources is often treated as an unobserved. Commonly used strategies in the literature are known to successfully quantify the variation, but do not necessarily produce interpretable estimates. Furthermore, resorting to two-part frequency-severity models leaves the actuary indecisive about the specification of covariates and spatial effects. The proposed methods in the paper considers a more parsimonious approach by resorting to zero-adjusted models for policy premium, that models both the mean policy-premium and the associated dispersion around the mean. Quantification of variation from spatial sources is proposed for the mean model. Allowing for a non-constant dispersion across observations results in a better estimate of the underlying variability, producing superior estimates for coefficients. The novelty of the proposed approach lies in the framework developed, that allows for joint estimation of effect of policy or individual characteristics on both the mean policy premium and dispersion, while quantifying spatial variability in the mean model. The developed methods are applied to a database featuring policy premiums arising from the collision coverage in insurance policies for motor vehicles within the state of Connecticut, USA for the year 2008.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scalable spatio-temporal Bayesian analysis of high-dimensional electroencephalography data</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2021scalable/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2021scalable/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Canadian Journal of Statistics&lt;/em&gt; (2021).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;We present a scalable Bayesian modeling approach for identifying brain regions that respond to a certain stimulus and use them to classify subjects. We specifically deal with multi-subject electroencephalography (EEG) data with a binary response distinguishing between alcoholic and control groups. The covariates are matrix-variate with measurements taken for each subject at different locations across multiple time points. EEG data has a complex structure with both spatial and temporal attributes to it. We use a divide-and-conquer strategy to build multiple local models, that is, one model at each time point separately. We employ Bayesian variable selection approaches using a structured continuous spike-and-slab prior to identify the locations which respond to a certain stimulus. We incorporate the spatio-temporal structure through a Kronecker product of the spatial and temporal correlation matrices. We develop a highly scalable estimation algorithm using likelihood approximation to deal with large number of parameters in the model. Variable selection is done via clustering of the locations based on their duration of activation. We use scoring rules to evaluate the prediction performance. We perform simulation studies to demonstrate the efficiency of our scalable algorithm in terms of estimation and fast computation. We present results using our scalable approach for a case study on multi-subject EEG data.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Discriminating pseudoprogression and true progression in diffuse infiltrating glioma using multi-parametric MRI data through deep learning</title>
       <link>https://shariq-mohammed.github.io/publication/lee2020discriminating/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
@@ -44,6 +80,18 @@
       <description>&lt;p&gt;&lt;em&gt;NeuroImage: Clinical&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In cancer radiomics, textural features evaluated from image intensity-derived gray-level co-occurrence matrices (GLCMs) have been studied to evaluate gray-level spatial dependence within the regions of interest in the brain. Most of these analysis work with summary statistics (or texture-based features) constructed using the GLCM entries, and potentially overlook other structural properties in the GLCM.  In our proposed Bayesian framework, we treat each GLCM  as a realization of a two-dimensional stochastic functional process observed with error at discrete time points. The latent process is then combined with the outcome model to evaluate the prediction performance. We use simulation studies to assess the performance of our method and apply it to data collected from individuals with lower grade gliomas. We found our approach to outperform competing methods that use only summary statistics to predict isocitrate dehydrogenase (IDH) mutation status.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Density-based classification in diabetic retinopathy through thickness of retinal layers from optical coherence tomography</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2020density/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2020density/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2020).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Diabetic retinopathy (DR) is a severe retinal disorder that can lead to vision loss, however, its underlying mechanism has not been fully understood. Previous studies have taken advantage of Optical Coherence Tomography (OCT) and shown that the thickness of individual retinal layers are affected in patients with DR. However, most studies analyzed the thickness by calculating summary statistics from retinal thickness maps of the macula region. This study aims to apply a density function-based statistical framework to the thickness data obtained through OCT, and to compare the predictive power of various retinal layers to assess the severity of DR. We used a prototype data set of 107 subjects which are comprised of 38 non-proliferative DR (NPDR), 28 without DR (NoDR), and 41 controls. Based on the thickness profiles, we constructed novel features which capture the variation in the distribution of the pixel-wise retinal layer thicknesses from OCT. We quantified the predictive power of each of the retinal layers to distinguish between all three pairwise comparisons of the severity in DR (NoDR vs NPDR, controls vs NPDR and controls vs NoDR). When applied to this preliminary DR data set, our density-based method demonstrated better predictive results compared with simple summary statistics. Furthermore, our results indicate considerable differences in retinal layer structuring based on the severity of DR. We found that: (a) the outer plexiform layer is the most discriminative layer for classifying NoDR vs NPDR; (b) the outer plexiform, inner nuclear and ganglion cell layers are the strongest biomarkers for discriminating controls from NPDR; and (c) the inner nuclear layer distinguishes best between controls and NoDR.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/authors/shariq-mohammed/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/shariq-mohammed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shariq Mohammed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Shariq Mohammed</title>
+      <link>https://shariq-mohammed.github.io/authors/shariq-mohammed/</link>
+    </image>
+    
+    <item>
+      <title>Comparative study of radiologists vs machine learning in differentiating biopsy-proven pseudoprogression and true progression in diffuse gliomas</title>
+      <link>https://shariq-mohammed.github.io/publication/turk2022comparative/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/turk2022comparative/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Neuroscience Informatics&lt;/em&gt; (2022).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Background and Purpose&lt;/strong&gt; MRI features of tumor progression and
+pseudoprogression may be indistinguishable especially without enhancing
+portion of the diffuse gliomas. Our aim is to discriminate these two
+conditions using radiomics and machine learning algorithm and to compare
+them with human observations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Materials and Methods&lt;/strong&gt; Three consecutive MRI studies before a
+definitive biopsy in 43 diffuse glioma patients (7 pseudoprogression and
+36 true progression cases) who underwent treatment were evaluated. Two
+neuroradiologists reviewed pre- and post-contrast T1, T2, FLAIR, ADC,
+rCBV, rCBF, K2, and MTT maps. Patterns of enhancement, ADC maps, rCBV,
+rCBF, MTT, K2 values, and perilesional FLAIR signal intensity changes
+were recorded. Odds ratios (OR) for each descriptor, raters&#39; success in
+predicting true and pseudoprogression, and inter-observer reliability
+were calculated using the R statistics software. Unpaired Student&amp;rsquo;s
+t-test and receiver operating characteristic (ROC) analysis were applied
+to compare the texture parameters and histogram analysis of pseudo- and
+true progression groups. All first-order and second-order image texture
+features and shape features were used to train and test the Random
+Forest classifier (RFC). Observers&#39; success and RFC were compared.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt; Observers could not identify true progression in the first
+visit. However, accuracy of the RFC model was 81%. For the second and
+third visits, the rater&amp;rsquo;s success of prediction was between 62% and 72%.
+The accuracy for the second and last visit with RFC was 75% and 81%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt; Random Forest classifier was more successful than human
+observations in predicting pseudoprogression using MRI.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cellular engagement and interaction in the tumor microenvironment predict non-response to PD-1/PD-L1 inhibitors in metastatic non-small cell lung cancer</title>
+      <link>https://shariq-mohammed.github.io/publication/qin2022cellular/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/qin2022cellular/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2021).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Immune checkpoint inhibitors (ICI) with anti-PD-1/PD-L1 agents have improved the survival of patients with metastatic non-small cell lung cancer (mNSCLC). Tumor PD-L1 expression is an imperfect biomarker as it does not capture the complex interactions between constituents of the tumor microenvironment (TME). Using multiplex fluorescent immunohistochemistry (mfIHC), we modeled the TME to study the influence of cellular distribution and engagement on response to ICI in mNSCLC. We performed mfIHC on pretreatment tissue from patients with mNSCLC who received ICI. We used primary antibodies against CD3, CD8, CD163, PD-L1, pancytokeratin, and FOXP3; simple and complex phenotyping as well as spatial analyses was performed. We analyzed 68 distinct samples from 52 patients with mNSCLC. Patients were 39&amp;ndash;79 years old (median 67); 44% were male and 75% had adenocarcinoma histology. The most used ICI was atezolizumab (48%). The percentage of PD-L1 positive epithelial tumor cells (EC), degree of cytotoxic T lymphocyte (CTL) engagement with EC, and degree of CTL engagement with helper T lymphocytes (HTL) were significantly lower in non-responders versus responders (p = 0.0163, p = 0.0026 and p = 0.0006, respectively). The combination of these 3 characteristics generated the best sensitivity and specificity to predict non-response to ICI and was also associated with shortened overall survival (p = 0.0271). The combination of low CTL engagement with EC and HTL along with low expression of EC PD-L1 represents a state of impaired endogenous immune reactivity. Together, they more precisely identified non-responders to ICI compared to PD-L1 alone and illustrate the importance of cellular interactions in the TME.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

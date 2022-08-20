@@ -5,12 +5,95 @@
     <link>https://shariq-mohammed.github.io/</link>
       <atom:link href="https://shariq-mohammed.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shariq Mohammed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Shariq Mohammed</title>
       <link>https://shariq-mohammed.github.io/</link>
     </image>
+    
+    <item>
+      <title>Imaging and complex-structured data applications</title>
+      <link>https://shariq-mohammed.github.io/research/applications/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/research/applications/</guid>
+      <description>&lt;p&gt;We are developing statistical models to (i) identify associations between complex-structured data (imaging, spatial-genomic, geospatial, digital) from multi-platform data sources, (ii) predict clinical characteristics of interest by integrating biomarkers generated from complex-structured data, and (iii) understand the biological relevance and implications of our findings. Our methods are developed in the context of various diseases such as cancer and neurodegenerative (Alzheimer&amp;rsquo;s) diseases.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical methods for the analysis of complex-structured biomedical data</title>
+      <link>https://shariq-mohammed.github.io/research/methods/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/research/methods/</guid>
+      <description>&lt;p&gt;We develop innovative statistical methodology that leverages structural and biological information in the data. To address the challenges of handling complex-structured data, we develop and employ methods at the interface of hierarchical Bayesian modeling, variable selection, geometric/functional data analysis and spatial statistics.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrative Bayesian models using post-selective inference: a case study in radiogenomics</title>
+      <link>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Biometrics (Just Accepted)&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Identifying direct links between gene pathways and clinical endpoints for highly fatal diseases such as cancer is a formidable task. Integrative analyses play a crucial role in modeling these links by relying upon associations between a wealth of intermediary variables and genomic measurements. Motivated to harness phenotypic information about tumors towards a molecular characterization of low-grade gliomas, we develop a data driven Bayesian framework to define sharp models, and calibrate accurately and efficiently uncertainties associated with the promising biological findings.&lt;/p&gt;
+&lt;p&gt;The Bayesian methods we propose in the article (i) are amenable to a flexible class of adaptive models, determined via a complex interplay between signals sifted from variable selection algorithms and domain specific knowledge; (ii) have the advantage of computationally efficient high dimensional inference due to a focus on sharp models with fewer parameters, when compared to their non-adaptive counterparts; (iii) exhibit a significantly better reconciliation between model adaptivity and inferential power than state-of-art approaches, when constrained by the curse of dimensionality. Our main workforce involves a carefully constructed conditional likelihood and utilizes a reparameterization map to obtain compact formulae for a selection-corrected posterior. Deploying our methods to investigate radiogenomic characteristics for diffuse low-grade gliomas, we successfully uncover associations between several biologically important gene pathways and patient survival times.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparative study of radiologists vs machine learning in differentiating biopsy-proven pseudoprogression and true progression in diffuse gliomas</title>
+      <link>https://shariq-mohammed.github.io/publication/turk2022comparative/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/turk2022comparative/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Neuroscience Informatics&lt;/em&gt; (2022).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Background and Purpose&lt;/strong&gt; MRI features of tumor progression and
+pseudoprogression may be indistinguishable especially without enhancing
+portion of the diffuse gliomas. Our aim is to discriminate these two
+conditions using radiomics and machine learning algorithm and to compare
+them with human observations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Materials and Methods&lt;/strong&gt; Three consecutive MRI studies before a
+definitive biopsy in 43 diffuse glioma patients (7 pseudoprogression and
+36 true progression cases) who underwent treatment were evaluated. Two
+neuroradiologists reviewed pre- and post-contrast T1, T2, FLAIR, ADC,
+rCBV, rCBF, K2, and MTT maps. Patterns of enhancement, ADC maps, rCBV,
+rCBF, MTT, K2 values, and perilesional FLAIR signal intensity changes
+were recorded. Odds ratios (OR) for each descriptor, raters&#39; success in
+predicting true and pseudoprogression, and inter-observer reliability
+were calculated using the R statistics software. Unpaired Student&amp;rsquo;s
+t-test and receiver operating characteristic (ROC) analysis were applied
+to compare the texture parameters and histogram analysis of pseudo- and
+true progression groups. All first-order and second-order image texture
+features and shape features were used to train and test the Random
+Forest classifier (RFC). Observers&#39; success and RFC were compared.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt; Observers could not identify true progression in the first
+visit. However, accuracy of the RFC model was 81%. For the second and
+third visits, the rater&amp;rsquo;s success of prediction was between 62% and 72%.
+The accuracy for the second and last visit with RFC was 75% and 81%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt; Random Forest classifier was more successful than human
+observations in predicting pseudoprogression using MRI.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cellular engagement and interaction in the tumor microenvironment predict non-response to PD-1/PD-L1 inhibitors in metastatic non-small cell lung cancer</title>
+      <link>https://shariq-mohammed.github.io/publication/qin2022cellular/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/qin2022cellular/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2021).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Immune checkpoint inhibitors (ICI) with anti-PD-1/PD-L1 agents have improved the survival of patients with metastatic non-small cell lung cancer (mNSCLC). Tumor PD-L1 expression is an imperfect biomarker as it does not capture the complex interactions between constituents of the tumor microenvironment (TME). Using multiplex fluorescent immunohistochemistry (mfIHC), we modeled the TME to study the influence of cellular distribution and engagement on response to ICI in mNSCLC. We performed mfIHC on pretreatment tissue from patients with mNSCLC who received ICI. We used primary antibodies against CD3, CD8, CD163, PD-L1, pancytokeratin, and FOXP3; simple and complex phenotyping as well as spatial analyses was performed. We analyzed 68 distinct samples from 52 patients with mNSCLC. Patients were 39&amp;ndash;79 years old (median 67); 44% were male and 75% had adenocarcinoma histology. The most used ICI was atezolizumab (48%). The percentage of PD-L1 positive epithelial tumor cells (EC), degree of cytotoxic T lymphocyte (CTL) engagement with EC, and degree of CTL engagement with helper T lymphocytes (HTL) were significantly lower in non-responders versus responders (p = 0.0163, p = 0.0026 and p = 0.0006, respectively). The combination of these 3 characteristics generated the best sensitivity and specificity to predict non-response to ICI and was also associated with shortened overall survival (p = 0.0271). The combination of low CTL engagement with EC and HTL along with low expression of EC PD-L1 represents a state of impaired endogenous immune reactivity. Together, they more precisely identified non-responders to ICI compared to PD-L1 alone and illustrate the importance of cellular interactions in the TME.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Network-based Modeling of COVID-19 Dynamics: Early Pandemic Spread in India</title>
@@ -29,7 +112,7 @@
       <link>https://shariq-mohammed.github.io/publication/krishnan2022gawrdenmap/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/krishnan2022gawrdenmap/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Scientific Reports &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2022)&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Spatial pattern modelling concepts are being increasingly used in capturing disease heterogeneity. Quantification of heterogeneity in the tumor microenvironment is extremely important in pancreatic ductal adenocarcinoma (PDAC), which has been shown to co-occur with other pancreatic diseases and neoplasms with certain attributes that make visual discrimination difficult. In this paper, we propose the GaWRDenMap framework, that utilizes the concepts of geographically weighted regression (GWR) and a density function-based classification model, and apply it to a cohort of multiplex immunofluorescence images from patients belonging to six different pancreatic diseases. We used an internal cohort of 228 patients comprised of 34 Chronic Pancreatitis (CP), 71 PDAC, 70 intraductal papillary mucinous neoplasm (IPMN), 16 mucinous cystic neoplasm (MCN), 29 pancreatic intraductal neoplasia (PanIN) and 8  IPMN-associated PDAC patients. We utilize GWR to model the relationship between epithelial cells and immune cells on a spatial grid. The GWR model estimates were used to generate density signatures which were used in subsequent pairwise classification models to distinguish between any two pairs of disease groups. Image-level, as well as subject-level analysis, were performed. When applied to this dataset, our classification model showed significant discrimination ability in multiple pairwise comparisons, in comparison to commonly used abundance-based metrics, like the Morisita-Horn index. The model was able to  best discriminate between CP and PDAC at both the subject- and image-levels. It was also able to reasonably discriminate between PDAC and IPMN. These results point to a potential difference in the spatial arrangement of epithelial and immune cells between CP, PDAC and IPMN, that could be of high  diagnostic significance. Further validation on a more comprehensive dataset would be warranted.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -164,18 +247,6 @@
       <description>&lt;p&gt;&lt;em&gt;Harvard Data Science Review&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;With only 536 cases and 11 fatalities, India took the historic decision of a 21-day national lockdown on March 25. The lockdown was first extended to May 3 soon after the analysis of this paper was completed, and then to May 18 while this paper was being revised. In this paper, we use a Bayesian extension of the Susceptible-Infected-Removed (eSIR) model designed for intervention forecasting to study the short- and long-term impact of an initial 21-day lockdown on the total number of COVID-19 infections in India compared to other less severe non-pharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its healthcare and disease-monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown between 42-56 days is preferable to substantially “flatten the curve” when compared to 21-28 days of lockdown. Our models focus solely on projecting the number of COVID-19 infections and thus, inform policymakers about one aspect of this multi-faceted decision-making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods and tools that can enable data-driven policymaking during a pandemic. Our software products are available at &lt;a href=&#34;covind19.org&#34;&gt;covind19.org&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Integrative Bayesian models using post-selective inference: a case study in radiogenomics</title>
-      <link>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Identifying direct links between gene pathways and clinical endpoints for highly fatal diseases such as cancer is a formidable task. Integrative analyses play a crucial role in modeling these links by relying upon associations between a wealth of intermediary variables and genomic measurements. Motivated to harness phenotypic information about tumors towards a molecular characterization of low-grade gliomas, we develop a data driven Bayesian framework to define sharp models, and calibrate accurately and efficiently uncertainties associated with the promising biological findings.&lt;/p&gt;
-&lt;p&gt;The Bayesian methods we propose in the article (i) are amenable to a flexible class of adaptive models, determined via a complex interplay between signals sifted from variable selection algorithms and domain specific knowledge; (ii) have the advantage of computationally efficient high dimensional inference due to a focus on sharp models with fewer parameters, when compared to their non-adaptive counterparts; (iii) exhibit a significantly better reconciliation between model adaptivity and inferential power than state-of-art approaches, when constrained by the curse of dimensionality. Our main workforce involves a carefully constructed conditional likelihood and utilizes a reparameterization map to obtain compact formulae for a selection-corrected posterior. Deploying our methods to investigate radiogenomic characteristics for diffuse low-grade gliomas, we successfully uncover associations between several biologically important gene pathways and patient survival times.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
@@ -342,25 +413,6 @@
     </item>
     
     <item>
-      <title>Geometric functional data analysis in biomedical imaging</title>
-      <link>https://shariq-mohammed.github.io/research/mohammeddensity/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/research/mohammeddensity/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Radiogenomic analysis in gliomas</title>
-      <link>https://shariq-mohammed.github.io/research/mohammedradiohead/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/research/mohammedradiohead/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Data Visualization with R Shiny</title>
       <link>https://shariq-mohammed.github.io/teaching/uconnrshiny/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
@@ -375,15 +427,6 @@
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/teaching/stat3025-fall/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial modeling of large insurance claims and occurrence data</title>
-      <link>https://shariq-mohammed.github.io/research/halderspatial/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/research/halderspatial/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-</description>
     </item>
     
     <item>
@@ -449,6 +492,7 @@
 &lt;li&gt;Biostatistics&lt;/li&gt;
 &lt;li&gt;Clinical Cancer Informatics&lt;/li&gt;
 &lt;li&gt;Harvard Data Science Review&lt;/li&gt;
+&lt;li&gt;Journal of the American Heart Association&lt;/li&gt;
 &lt;li&gt;Journal of the American Medical Informatics Association&lt;/li&gt;
 &lt;li&gt;Spatial Statistics&lt;/li&gt;
 &lt;li&gt;STAT&lt;/li&gt;
@@ -463,6 +507,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;organizer-invited-sessions&#34;&gt;Organizer (Invited Sessions)&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;International Indian Statistical Association Annual Conference 2022&lt;/li&gt;
 &lt;li&gt;Joint Statistical Meetings 2022&lt;/li&gt;
 &lt;li&gt;New England Statistics Symposium 2022&lt;/li&gt;
 &lt;li&gt;Joint Statistical Meetings 2021&lt;/li&gt;
@@ -474,6 +519,9 @@
 &lt;li&gt;&lt;em&gt;Founding Co-Organizer&lt;/em&gt;, IISA Statistics and Data Science Innovations Webinar Series&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Co-Organizer&lt;/em&gt;, Biostatistics Department Seminar, Boston University&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Member&lt;/em&gt;, IISA Membership &amp;amp; Outreach Committee&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;previous&#34;&gt;Previous&lt;/h4&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Executive Committee Member&lt;/em&gt;
 &lt;ul&gt;
 &lt;li&gt;Statistics Graduate Student Committee, University of Connecticut&lt;/li&gt;
@@ -493,6 +541,22 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/talks/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Classification of high-dimensional electroencephalography data with location selection using structured spike-and-slab prior&lt;/em&gt; (Poster)
+&lt;ul&gt;
+&lt;li&gt;Joint Statistical Meetings 2022, Washington, DC &lt;em&gt;August 2021&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Density-based classification in diabetic retinopathy through thickness of retinal layers from optical coherence tomography&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Joint Statistical Meetings 2022, Washington, DC &lt;em&gt;August 2021&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Quantifying T2-FLAIR Mismatch in Gliomas Using Geographically Weighted Regression and Density Functions&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;22nd Meeting of New Researchers in Statistics and Probability, George Mason University, Fairfax, Virginia &lt;em&gt;August 2022&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;35th New England Statistics Symposium, UConn &lt;em&gt;May 2022&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Statistical methods for biomedical imaging and digital data analysis&lt;/em&gt;
 &lt;ul&gt;
 &lt;li&gt;BU Biostatistics Research Blitz, Boston, Massachusetts &lt;em&gt;March 2022&lt;/em&gt;&lt;/li&gt;
@@ -510,10 +574,9 @@
 &lt;li&gt;Tech Talks 1.0 by Student&amp;rsquo;s Association of Artificial Intelligence and Data Science, G H Raisoni College of Engineering and Management, Pune, India - Virtual &lt;em&gt;February 2022&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;RADIOHEAD: Radiogenomic analysis incorporating tumor heterogeneity in imaging
-through densities&lt;/em&gt;
+&lt;li&gt;&lt;em&gt;RADIOHEAD: Radiogenomic analysis incorporating tumor heterogeneity in imaging through densities&lt;/em&gt;
 &lt;ul&gt;
-&lt;li&gt;The Fifth Eastern Asia Chapter–The International Society for Bayesian Analysis Conference: A Satellite Meeting of the 2020 ISBA World Meeting to Celebrate James O Berger’s 70th Birthday&amp;quot; - Virtual &lt;em&gt;November 2021&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;The Fifth Eastern Asia Chapter&amp;ndash;The International Society for Bayesian Analysis Conference: A Satellite Meeting of the 2020 ISBA World Meeting to Celebrate James O Berger&amp;rsquo;s 70th Birthday&amp;quot; - Virtual &lt;em&gt;November 2021&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Biostatistics Student Association Seminar, Boston, Massachusetts &lt;em&gt;November 2021&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Center for Computational Mathematics Seminar, Flatiron Institute, Simons Foundation, New York - Virtual &lt;em&gt;June 2021&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Statistical Methods in Imaging Conference - Virtual. &lt;em&gt;May 2021&lt;/em&gt;&lt;/li&gt;
@@ -523,30 +586,30 @@ through densities&lt;/em&gt;
 &lt;li&gt;IISA Annual Conference, Mumbai, India. &lt;em&gt;December 2019&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Biostatistics Career Development panel discussion on ‘Academic Career Path’&lt;/em&gt;
+&lt;li&gt;&lt;em&gt;Biostatistics Career Development panel discussion on &amp;lsquo;Academic Career Path&amp;rsquo;&lt;/em&gt;
 &lt;ul&gt;
-&lt;li&gt;Department of Biostatistics, Boston University, Boston.  &lt;em&gt;October 2021&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Department of Biostatistics, Boston University, Boston. &lt;em&gt;October 2021&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Density-based classification using images: Application to diabetic retinopathy&lt;/em&gt;
 &lt;ul&gt;
-&lt;li&gt;Precision Health Seminar (Pharmacy 217), University of Michigan-Ann Arbor.  &lt;em&gt;February 2021&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Precision Health Seminar (Pharmacy 217), University of Michigan-Ann Arbor. &lt;em&gt;February 2021&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;em&gt;StatChat 2020: Panel discussions with undergraduate and masters students on career and academic perspectives in statistics and data science&lt;/em&gt;
 &lt;ul&gt;
-&lt;li&gt;NMIMS Sunandan Divatia School of Science - Virtual.  &lt;em&gt;August &amp;amp; September 2020&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;NMIMS Sunandan Divatia School of Science - Virtual. &lt;em&gt;August &amp;amp; September 2020&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Understanding COVID-19 dynamics via individual-level temporal and network modeling: Lessons from India and China&lt;/em&gt; (joint presentation with Dr. Zhenke Wu, Rupam Bhattacharyya and Dr. Veerabhadran Baladandayuthapani)
 &lt;ul&gt;
-&lt;li&gt;MIDAS COVID-19 Special Seminar Series, University of Michigan-Ann Arbor.  &lt;em&gt;June 2020&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;MIDAS COVID-19 Special Seminar Series, University of Michigan-Ann Arbor. &lt;em&gt;June 2020&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Integrative statistical modeling approaches for imaging-genomics data&lt;/em&gt;
 &lt;ul&gt;
-&lt;li&gt;Precision Health Seminar (Pharmacy 217), University of Michigan-Ann Arbor.  &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Tools and Technology Seminar, University of Michigan-Ann Arbor.  &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Precision Health Seminar (Pharmacy 217), University of Michigan-Ann Arbor. &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Tools and Technology Seminar, University of Michigan-Ann Arbor. &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Bayesian variable selection using spike-and-slab prior with application to high-dimensional EEG data&lt;/em&gt;

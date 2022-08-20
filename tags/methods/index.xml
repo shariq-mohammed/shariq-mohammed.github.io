@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/tags/methods/</link>
+      <atom:link href="https://shariq-mohammed.github.io/tags/methods/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methods</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Methods</title>
+      <link>https://shariq-mohammed.github.io/tags/methods/</link>
+    </image>
+    
+    <item>
+      <title>Statistical methods for the analysis of complex-structured biomedical data</title>
+      <link>https://shariq-mohammed.github.io/research/methods/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/research/methods/</guid>
+      <description>&lt;p&gt;We develop innovative statistical methodology that leverages structural and biological information in the data. To address the challenges of handling complex-structured data, we develop and employ methods at the interface of hierarchical Bayesian modeling, variable selection, geometric/functional data analysis and spatial statistics.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

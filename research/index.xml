@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/research/</link>
       <atom:link href="https://shariq-mohammed.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Researches</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Researches</title>
@@ -13,30 +13,24 @@
     </image>
     
     <item>
-      <title>Geometric functional data analysis in biomedical imaging</title>
-      <link>https://shariq-mohammed.github.io/research/mohammeddensity/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/research/mohammeddensity/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Radiogenomic analysis in gliomas</title>
-      <link>https://shariq-mohammed.github.io/research/mohammedradiohead/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/research/mohammedradiohead/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <title>Imaging and complex-structured data applications</title>
+      <link>https://shariq-mohammed.github.io/research/applications/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/research/applications/</guid>
+      <description>&lt;p&gt;We are developing statistical models to (i) identify associations between complex-structured data (imaging, spatial-genomic, geospatial, digital) from multi-platform data sources, (ii) predict clinical characteristics of interest by integrating biomarkers generated from complex-structured data, and (iii) understand the biological relevance and implications of our findings. Our methods are developed in the context of various diseases such as cancer and neurodegenerative (Alzheimer&amp;rsquo;s) diseases.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
-      <title>Spatial modeling of large insurance claims and occurrence data</title>
-      <link>https://shariq-mohammed.github.io/research/halderspatial/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/research/halderspatial/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <title>Statistical methods for the analysis of complex-structured biomedical data</title>
+      <link>https://shariq-mohammed.github.io/research/methods/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/research/methods/</guid>
+      <description>&lt;p&gt;We develop innovative statistical methodology that leverages structural and biological information in the data. To address the challenges of handling complex-structured data, we develop and employ methods at the interface of hierarchical Bayesian modeling, variable selection, geometric/functional data analysis and spatial statistics.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
