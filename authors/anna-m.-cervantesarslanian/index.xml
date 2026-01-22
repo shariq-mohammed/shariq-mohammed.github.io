@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna M. Cervantes‑Arslanian | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/authors/anna-m.-cervantesarslanian/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/anna-m.-cervantesarslanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna M. Cervantes‑Arslanian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Anna M. Cervantes‑Arslanian</title>
+      <link>https://shariq-mohammed.github.io/authors/anna-m.-cervantesarslanian/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Pupillometry Predicts Neurologic Deterioration in Patients with Large Middle Cerebral Artery Stroke</title>
+      <link>https://shariq-mohammed.github.io/publication/du2025quantitative/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/du2025quantitative/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Annals of Neurology&lt;/em&gt; (2025).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Objective: This study assesses whether longitudinal quantitative pupillometry predicts neurological deterioration after large middle cerebral artery (MCA) stroke and determines how early changes are detectable. Methods: This prospective, single‑center observational cohort study included patients with large MCA stroke admitted to Boston Medical Center’s intensive care unit (2019–2024). Associations between time‑to‑neurologic deterioration and quantitative pupillometry, including Neurological Pupil Index (NPi), were assessed using Cox proportional hazards models with time‑dependent covariates adjusted for age, sex, and Alberta Stroke Program Early CT Score. Models using dilation velocity were compared with partial likelihood ratio tests. Pupillometric changes over 2‑hour intervals in the 12 hours preceding deterioration were analyzed with linear mixed‑effects modeling and Tukey’s test. Matched referents were used for comparison. Results: Among 71 patients, 32 (45.1%) experienced deterioration. A 1‑unit decrease in NPi was associated with higher hazard of deterioration (HR 2.46; 95% CI 1.68–3.61). Dilation velocity improved model performance compared to NPi alone. NPi was significantly lower at 0–2 and 2–4 hours before deterioration compared to 10–12 hours prior. Interpretation: Quantitative pupillometry predicts neurological deterioration in MCA stroke, with declines detectable up to 12 hours prior; dilation velocity shows promise as a biomarker.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

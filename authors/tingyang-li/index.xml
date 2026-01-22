@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/tingyang-li/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/tingyang-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Tingyang Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Tingyang Li</title>
@@ -15,12 +15,11 @@
     <item>
       <title>Density-based classification in diabetic retinopathy through thickness of retinal layers from optical coherence tomography</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2020density/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2020density/</guid>
       <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Diabetic retinopathy (DR) is a severe retinal disorder that can lead to vision loss, however, its underlying mechanism has not been fully understood. Previous studies have taken advantage of Optical Coherence Tomography (OCT) and shown that the thickness of individual retinal layers are affected in patients with DR. However, most studies analyzed the thickness by calculating summary statistics from retinal thickness maps of the macula region. This study aims to apply a density function-based statistical framework to the thickness data obtained through OCT, and to compare the predictive power of various retinal layers to assess the severity of DR. We used a prototype data set of 107 subjects which are comprised of 38 non-proliferative DR (NPDR), 28 without DR (NoDR), and 41 controls. Based on the thickness profiles, we constructed novel features which capture the variation in the distribution of the pixel-wise retinal layer thicknesses from OCT. We quantified the predictive power of each of the retinal layers to distinguish between all three pairwise comparisons of the severity in DR (NoDR vs NPDR, controls vs NPDR and controls vs NoDR). When applied to this preliminary DR data set, our density-based method demonstrated better predictive results compared with simple summary statistics. Furthermore, our results indicate considerable differences in retinal layer structuring based on the severity of DR. We found that: (a) the outer plexiform layer is the most discriminative layer for classifying NoDR vs NPDR; (b) the outer plexiform, inner nuclear and ganglion cell layers are the strongest biomarkers for discriminating controls from NPDR; and (c) the inner nuclear layer distinguishes best between controls and NoDR.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

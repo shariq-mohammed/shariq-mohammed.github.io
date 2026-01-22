@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/sayantan-banerjee/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/sayantan-banerjee/index.xml" rel="self" type="application/rss+xml" />
     <description>Sayantan Banerjee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Sayantan Banerjee</title>
@@ -15,12 +15,30 @@
     <item>
       <title>Network-based Modeling of COVID-19 Dynamics: Early Pandemic Spread in India</title>
       <link>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Journal of the Indian Statistical Association &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Journal of the Indian Statistical Association&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Modeling the dynamics of COVID-19 pandemic spread is a challenging and relevant problem.  Established models for the epidemic spread such as compartmental epidemiological models e.g. Susceptible-Infected-Recovered (SIR) models and its variants, have been discussed extensively in the literature and utilized to forecast the growth of the pandemic across different hot-spots in the world. The standard formulations of SIR models rely upon summary-level data, which may not be  able to fully capture the complete dynamics of the pandemic growth. Since the disease spreads from carriers to susceptible individuals via some form of contact, it inherently relies upon a network of individuals for its growth, with edges established via direct interaction, such as shared physical proximity. Using spatial and individual-level COVID-19 data from the early days (January 30 to April 15, 2020) of the pandemic in India, and under a network-based SIR model framework, we performed state-specific forecasting under multiple scenarios characterized by the basic reproduction number of COVID-19 across 34 Indian states and union territories. We validated our short-term projections using observed case counts and the long-term projections using national sero-survey findings. Based on healthcare availability data, we also performed projections to assess the burdens on the infrastructure along the spectrum of the pandemic growth. We have developed an &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;interactive dashboard&lt;/a&gt; summarizing our results. Our predictions successfully identified the initial hot-spots of India such as Maharashtra and Delhi, and those that emerged later, such as Madhya Pradesh and Kerala. These models have the potential to inform appropriate policies for isolation and mitigation strategies to contain the pandemic, through a phased approach  by appropriate resource prioritization and allocation.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Modeling the dynamics of COVID-19 pandemic spread is a challenging and relevant problem. Established models for the epidemic spread such as compartmental epidemiological models e.g. Susceptible-Infected-Recovered (SIR) models and its variants, have been discussed extensively in the literature and utilized to forecast the growth of the pandemic across different hot-spots in the world. The standard formulations of SIR models rely upon summary-level data, which may not be able to fully capture the complete dynamics of the pandemic growth. Since the disease spreads from carriers to susceptible individuals via some form of contact, it inherently relies upon a network of individuals for its growth, with edges established via direct interaction, such as shared physical proximity. Using spatial and individual-level COVID-19 data from the early days (January 30 to April 15, 2020) of the pandemic in India, and under a network-based SIR model framework, we performed state-specific forecasting under multiple scenarios characterized by the basic reproduction number of COVID-19 across 34 Indian states and union territories. We validated our short-term projections using observed case counts and the long-term projections using national sero-survey findings. Based on healthcare availability data, we also performed projections to assess the burdens on the infrastructure along the spectrum of the pandemic growth. We have developed an [interactivedashboard summarizing our results. Our predictions successfully identified the initial hot-spots of India such as Maharashtra and Delhi, and those that emerged later, such as Madhya Pradesh and Kerala. These models have the potential to inform appropriate policies for isolation and mitigation strategies to contain the pandemic, through a phased approach by appropriate resource prioritization and allocation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regional contact networks and the pandemic spread of COVID-19 in India</title>
+      <link>https://shariq-mohammed.github.io/publication/bhattacharyya2020regional_post/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/bhattacharyya2020regional_post/</guid>
+      <description>&lt;p&gt;Predictions to enable State-level Surge Preparedness in moving from Containment to Mitigation.&lt;/p&gt;
+&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@veerab_12080/regional-contact-networks-and-the-pandemic-spread-of-covid-19-in-india-28b3b3aa2161&#34;&gt;found here&lt;/a&gt;. To explore the results under different scenarios for the spread of infection, we have developed an R Shiny app which can be accessed &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Covid-19: India must urgently manage regional contact networks</title>
+      <link>https://shariq-mohammed.github.io/publication/baladandayuthapani2020covid_post/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/baladandayuthapani2020covid_post/</guid>
+      <description>&lt;p&gt;An Op-Ed on bloombergquint.com can be &lt;a href=&#34;https://www.bloombergquint.com/coronavirus-outbreak/covid-19-india-must-urgently-manage-regional-contact-networks&#34;&gt;found here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

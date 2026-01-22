@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keith R. Spangler | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/authors/keith-r.-spangler/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/keith-r.-spangler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keith R. Spangler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Keith R. Spangler</title>
+      <link>https://shariq-mohammed.github.io/authors/keith-r.-spangler/</link>
+    </image>
+    
+    <item>
+      <title>Modeling health and well-being measures using ZIP code spatial neighborhood patterns</title>
+      <link>https://shariq-mohammed.github.io/publication/jain2024modeling/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/jain2024modeling/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2024).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Individual-level assessment of health and well-being permits analysis of community well-being and health risk evaluations across several dimensions of health. It also enables comparison and rankings of reported health and well-being for large geographical areas such as states, metropolitan areas, and counties. However, there is large variation in reported well-being within such large spatial units underscoring the importance of analyzing well-being at more granular levels, such as ZIP codes. In this paper, we model well-being data to generate ZIP code tabulation area (ZCTA)-level rankings through spatially informed statistical modeling. We build regression models for individual-level overall well-being index and scores from five subscales (Physical, Financial, Social, Community, Purpose) using individual-level demographic characteristics as predictors while including a ZCTA-level spatial effect using a graph Laplacian. Deployed on data from Massachusetts and Georgia, the model captures demographic effects and yields spatial effect estimates for all ZCTAs (including some without observations), enabling community‑level rankings.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

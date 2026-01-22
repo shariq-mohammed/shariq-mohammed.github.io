@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/veerabhadran-baladandayuthapani/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/veerabhadran-baladandayuthapani/index.xml" rel="self" type="application/rss+xml" />
     <description>Veerabhadran Baladandayuthapani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Veerabhadran Baladandayuthapani</title>
@@ -13,103 +13,116 @@
     </image>
     
     <item>
-      <title>Integrative Bayesian models using post-selective inference: a case study in radiogenomics</title>
-      <link>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Biometrics (Just Accepted)&lt;/em&gt;&lt;/p&gt;
+      <title>Statistical Analysis of Quantitative Cancer Imaging Data</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2024statistical/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2024statistical/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Statistics and Data Science in Imaging&lt;/em&gt; (2024).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Recent advances in medical imaging technologies have led to the proliferation of multimodal quantitative imaging data in cancer. Quantitative medical imaging data—numerical representations derived from radiology and pathology—enable precise characterization of tumor biology to assess progression, therapy response, and prognosis. However, analytical challenges arise due to high dimensionality, structural correlations, and heterogeneity. This review summarizes state‑of‑the‑art statistical methods for quantitative imaging—including topological, functional, and shape analyses; spatial process models; and modern ML—highlighting clinical applications in oncology and open problems for future research.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian group selection with compositional responses for analysis of radiologic tumor proportions and their genomic determinants</title>
+      <link>https://shariq-mohammed.github.io/publication/chekouo2023bayesian/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/chekouo2023bayesian/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Annals of Applied Statistics&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Volumetric imaging features are used in cancer research to determine the size and the composition of a tumor and have been shown to be prognostic of overall survival. In this paper we focus on the analysis of tumor component proportions of brain cancer patients collected through The Cancer Genome Atlas (TCGA) project. Our main goal is to identify pathways and corresponding genes that can explain the heterogeneity of the composition of a brain tumor. In particular, we focus on the glioblastoma multiform (GBM), as it is the most common malignant brain neoplasm, accounting for 23% of all primary brain tumors for which it still has very poor prognosis. We propose a Bayesian hierarchical model for variable selection with a group structure in the context of correlated multivariate compositional response variables. More specifically, we model the proportions of the tumor components within the tumor using a Dirichlet model by allowing for straightforward incorporation of available high-dimensional covariate information within a log-linear regression framework. We impose prior distributions that account for the overlapping structure between groups of covariates. Simulations and application to GBM disease show the importance of our approach. We have identified associations between tumor component volume-based features and several important pathways and genes. Some of these genes have previously been shown to be prognostic indicators of overall survival time in GBM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tumor radiogenomics in gliomas with Bayesian layered variable selection</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Medical Image Analysis&lt;/em&gt; (2023).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Identifying direct links between gene pathways and clinical endpoints for highly fatal diseases such as cancer is a formidable task. Integrative analyses play a crucial role in modeling these links by relying upon associations between a wealth of intermediary variables and genomic measurements. Motivated to harness phenotypic information about tumors towards a molecular characterization of low-grade gliomas, we develop a data driven Bayesian framework to define sharp models, and calibrate accurately and efficiently uncertainties associated with the promising biological findings.&lt;/p&gt;
-&lt;p&gt;The Bayesian methods we propose in the article (i) are amenable to a flexible class of adaptive models, determined via a complex interplay between signals sifted from variable selection algorithms and domain specific knowledge; (ii) have the advantage of computationally efficient high dimensional inference due to a focus on sharp models with fewer parameters, when compared to their non-adaptive counterparts; (iii) exhibit a significantly better reconciliation between model adaptivity and inferential power than state-of-art approaches, when constrained by the curse of dimensionality. Our main workforce involves a carefully constructed conditional likelihood and utilizes a reparameterization map to obtain compact formulae for a selection-corrected posterior. Deploying our methods to investigate radiogenomic characteristics for diffuse low-grade gliomas, we successfully uncover associations between several biologically important gene pathways and patient survival times.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;We propose a statistical framework to analyze radiological magnetic resonance imaging (MRI) and genomic data to identify the underlying radiogenomic associations in lower grade gliomas (LGG). We devise a novel imaging phenotype by dividing the tumor region into concentric spherical layers that mimics the tumor evolution process. MRI data within each layer is represented by voxel–intensity-based probability density functions which capture the complete information about tumor heterogeneity. Under a Riemannian-geometric framework these densities are mapped to a vector of principal component scores which act as imaging phenotypes. Subsequently, we build Bayesian variable selection models for each layer with the imaging phenotypes as the response and the genomic markers as predictors. Our novel hierarchical prior formulation incorporates the interior-to-exterior structure of the layers, and the correlation between the genomic markers. We employ a computationally-efficient Expectation–Maximization-based strategy for estimation. Simulation studies demonstrate the superior performance of our approach compared to other approaches. With a focus on the cancer driver genes in LGG, we discuss some biologically relevant findings. Genes implicated with survival and oncogenesis are identified as being associated with the spherical layers, which could potentially serve as early-stage diagnostic markers for disease monitoring, prior to routine invasive approaches. We provide a R package that can be used to deploy our framework to identify radiogenomic associations.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Network-based Modeling of COVID-19 Dynamics: Early Pandemic Spread in India</title>
       <link>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Journal of the Indian Statistical Association &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Journal of the Indian Statistical Association&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Modeling the dynamics of COVID-19 pandemic spread is a challenging and relevant problem.  Established models for the epidemic spread such as compartmental epidemiological models e.g. Susceptible-Infected-Recovered (SIR) models and its variants, have been discussed extensively in the literature and utilized to forecast the growth of the pandemic across different hot-spots in the world. The standard formulations of SIR models rely upon summary-level data, which may not be  able to fully capture the complete dynamics of the pandemic growth. Since the disease spreads from carriers to susceptible individuals via some form of contact, it inherently relies upon a network of individuals for its growth, with edges established via direct interaction, such as shared physical proximity. Using spatial and individual-level COVID-19 data from the early days (January 30 to April 15, 2020) of the pandemic in India, and under a network-based SIR model framework, we performed state-specific forecasting under multiple scenarios characterized by the basic reproduction number of COVID-19 across 34 Indian states and union territories. We validated our short-term projections using observed case counts and the long-term projections using national sero-survey findings. Based on healthcare availability data, we also performed projections to assess the burdens on the infrastructure along the spectrum of the pandemic growth. We have developed an &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;interactive dashboard&lt;/a&gt; summarizing our results. Our predictions successfully identified the initial hot-spots of India such as Maharashtra and Delhi, and those that emerged later, such as Madhya Pradesh and Kerala. These models have the potential to inform appropriate policies for isolation and mitigation strategies to contain the pandemic, through a phased approach  by appropriate resource prioritization and allocation.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Modeling the dynamics of COVID-19 pandemic spread is a challenging and relevant problem. Established models for the epidemic spread such as compartmental epidemiological models e.g. Susceptible-Infected-Recovered (SIR) models and its variants, have been discussed extensively in the literature and utilized to forecast the growth of the pandemic across different hot-spots in the world. The standard formulations of SIR models rely upon summary-level data, which may not be able to fully capture the complete dynamics of the pandemic growth. Since the disease spreads from carriers to susceptible individuals via some form of contact, it inherently relies upon a network of individuals for its growth, with edges established via direct interaction, such as shared physical proximity. Using spatial and individual-level COVID-19 data from the early days (January 30 to April 15, 2020) of the pandemic in India, and under a network-based SIR model framework, we performed state-specific forecasting under multiple scenarios characterized by the basic reproduction number of COVID-19 across 34 Indian states and union territories. We validated our short-term projections using observed case counts and the long-term projections using national sero-survey findings. Based on healthcare availability data, we also performed projections to assess the burdens on the infrastructure along the spectrum of the pandemic growth. We have developed an [interactivedashboard summarizing our results. Our predictions successfully identified the initial hot-spots of India such as Maharashtra and Delhi, and those that emerged later, such as Madhya Pradesh and Kerala. These models have the potential to inform appropriate policies for isolation and mitigation strategies to contain the pandemic, through a phased approach by appropriate resource prioritization and allocation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Tumor radiogenomics with Bayesian layered variable selection</title>
-      <link>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;We propose a statistical framework to integrate radiological magnetic resonance imaging (MRI) and genomic data to identify the underlying radiogenomic associations in lower grade gliomas (LGG). We devise a novel imaging phenotype by dividing the tumor region into concentric spherical layers that mimics the tumor evolution process. MRI data within each layer is represented by voxel&amp;ndash;intensity-based probability density functions which capture the complete information about tumor heterogeneity. Under a Riemannian-geometric framework these densities are mapped to a vector of principal component scores which act as imaging phenotypes. Subsequently, we build Bayesian variable selection models for each layer with the imaging phenotypes as the response and the genomic markers as predictors. Our novel hierarchical prior formulation incorporates the interior-to-exterior structure of the layers, and the correlation between the genomic markers. We employ a computationally-efficient Expectation&amp;ndash;Maximization-based strategy for estimation. Simulation studies demonstrate the superior performance of our approach compared to other approaches. With a focus on the cancer driver genes in LGG, we discuss some biologically relevant findings. Genes implicated with survival and oncogenesis are identified as being associated with the spherical layers, which could potentially serve as early-stage diagnostic markers for disease monitoring, prior to routine invasive approaches.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <title>Integrative Bayesian Models Using Post-Selective Inference: A Case Study in Radiogenomics</title>
+      <link>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Biometrics&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Integrative analyses based on statistically relevant associations between genomics and a wealth of intermediary phenotypes (such as imaging) provide vital insights into their clinical relevance in terms of the disease mechanisms. Estimates for uncertainty in the resulting integrative models are however unreliable unless inference accounts for the selection of these associations with accuracy. In this paper, we develop selection-aware Bayesian methods, which (1) counteract the impact of model selection bias through a “selection-aware posterior” in a flexible class of integrative Bayesian models post a selection of promising variables via $\ell_1$-regularized algorithms; (2) strike an inevitable trade-off between the quality of model selection and inferential power when the same data set is used for both selection and uncertainty estimation. Central to our methodological development, a carefully constructed conditional likelihood function deployed with a reparameterization mapping provides tractable updates when gradient-based Markov chain Monte Carlo (MCMC) sampling is used for estimating uncertainties from the selection-aware posterior. Applying our methods to a radiogenomic analysis, we successfully recover several important gene pathways and estimate uncertainties for their associations with patient survival times.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>RADIOHEAD: Radiogenomic analysis incorporating tumor heterogeneity in imagine through densities</title>
+      <title>RADIOHEAD: Radiogenomic analysis incorporating tumor heterogeneity in imaging through densities</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</guid>
       <description>&lt;p&gt;&lt;em&gt;Annals of Applied Statistics&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Recent technological advancements have enabled detailed investigation of associations between the molecular architecture and tumor heterogeneity, through multi-source integration of radiological imaging and genomic (radiogenomic) data. In this paper, we integrate and harness radiogenomic data in patients with lower grade gliomas (LGG), a type of brain cancer, in order to develop a regression framework called RADIOHEAD (RADIOgenomic analysis incorporating tumor HEterogeneity in imAging through Densities) to identify radiogenomic associations. Imaging data is represented through voxel intensity probability density functions of tumor sub-regions obtained from multimodal magnetic resonance imaging, and genomic data through molecular signatures in the form of pathway enrichment scores corresponding to their gene expression profiles. Employing a Riemannian-geometric framework for principal component analysis on the set of probability densities functions, we map each probability density to a vector of principal component scores, which are then included as predictors in a Bayesian regression model with the pathway enrichment scores as the response. Variable selection compatible with the grouping structure amongst the predictors induced through the tumor sub-regions is carried out under a group spike-and-slab prior. A Bayesian false discovery rate mechanism is then used to infer significant associations based on the posterior distribution of the regression coefficients. Our analyses reveal several pathways relevant to LGG etiology (such as synaptic transmission, nerve impulse and neurotransmitter pathways), to have significant associations with the corresponding imaging-based predictors.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
-      <title>Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms</title>
+      <title>Predictions, Role of Interventions, and Effects of a Historic National Lockdown in India&#39;s Response to the COVID-19 Pandemic: Data Science Call to Arms</title>
       <link>https://shariq-mohammed.github.io/publication/ray2020predictions/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/ray2020predictions/</guid>
       <description>&lt;p&gt;&lt;em&gt;Harvard Data Science Review&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;With only 536 cases and 11 fatalities, India took the historic decision of a 21-day national lockdown on March 25. The lockdown was first extended to May 3 soon after the analysis of this paper was completed, and then to May 18 while this paper was being revised. In this paper, we use a Bayesian extension of the Susceptible-Infected-Removed (eSIR) model designed for intervention forecasting to study the short- and long-term impact of an initial 21-day lockdown on the total number of COVID-19 infections in India compared to other less severe non-pharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its healthcare and disease-monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown between 42-56 days is preferable to substantially “flatten the curve” when compared to 21-28 days of lockdown. Our models focus solely on projecting the number of COVID-19 infections and thus, inform policymakers about one aspect of this multi-faceted decision-making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods and tools that can enable data-driven policymaking during a pandemic. Our software products are available at &lt;a href=&#34;covind19.org&#34;&gt;covind19.org&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;With only 536 COVID‑19 cases and 11 fatalities, India took the historic decision of a 21‑day national lockdown on March 25, 2020. The lockdown was first extended to May 3 soon after the analysis of this article was completed, and then to May 18 while this article was being revised. In this article, we use a Bayesian extension of the susceptible‑infected‑removed (eSIR) model designed for intervention forecasting to study the short‑ and long‑term impact of an initial 21‑day lockdown on the total number of COVID‑19 infections in India compared to other, less severe nonpharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its health care and disease‑monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown from 42–56 days is preferable to substantially “flatten the curve” when compared to 21–28 days of lockdown. Our models focus solely on projecting the number of COVID‑19 infections and thus inform policymakers about one aspect of this multifaceted decision‑making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods, and tools that can enable data‑driven policymaking during a pandemic. Our software products are available at covind19.org.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Regional contact networks and the pandemic spread of COVID-19 in India</title>
-      <link>https://shariq-mohammed.github.io/posts/bhattacharyya2020regional/</link>
+      <link>https://shariq-mohammed.github.io/publication/bhattacharyya2020regional_post/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/bhattacharyya2020regional/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/bhattacharyya2020regional_post/</guid>
       <description>&lt;p&gt;Predictions to enable State-level Surge Preparedness in moving from Containment to Mitigation.&lt;/p&gt;
 &lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@veerab_12080/regional-contact-networks-and-the-pandemic-spread-of-covid-19-in-india-28b3b3aa2161&#34;&gt;found here&lt;/a&gt;. To explore the results under different scenarios for the spread of infection, we have developed an R Shiny app which can be accessed &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Covid-19: India must urgently manage regional contact networks</title>
-      <link>https://shariq-mohammed.github.io/posts/baladandayuthapani2020covid/</link>
+      <link>https://shariq-mohammed.github.io/publication/baladandayuthapani2020covid_post/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/baladandayuthapani2020covid/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/baladandayuthapani2020covid_post/</guid>
       <description>&lt;p&gt;An Op-Ed on bloombergquint.com can be &lt;a href=&#34;https://www.bloombergquint.com/coronavirus-outbreak/covid-19-india-must-urgently-manage-regional-contact-networks&#34;&gt;found here&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of virus in India</title>
-      <link>https://shariq-mohammed.github.io/posts/salvatore2020historic/</link>
+      <link>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/salvatore2020historic/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/historic-lockdown-prediction-models-to-study-lockdown-effects-and-the-role-of-data-in-the-crisis-a0afeeec5a6&#34;&gt;found here&lt;/a&gt;. Daily updates of the plots can be found on the &lt;a href=&#34;https://umich-biostatistics.shinyapps.io/covid19/&#34;&gt;R shiny app here&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Predictions and role of interventions for COVID-19 outbreak in India</title>
-      <link>https://shariq-mohammed.github.io/posts/ray2020predictions/</link>
+      <link>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/ray2020predictions/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/predictions-and-role-of-interventions-for-covid-19-outbreak-in-india-52903e2544e6&#34;&gt;found here&lt;/a&gt;. The full report can be &lt;a href=&#34;https://sph.umich.edu/precision-health-data-science/research/pdf/COVReport_Final_20200320.pdf&#34;&gt;downloaded here&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

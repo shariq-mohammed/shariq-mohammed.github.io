@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/elisa-warner/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/elisa-warner/index.xml" rel="self" type="application/rss+xml" />
     <description>Elisa Warner</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Elisa Warner</title>
@@ -13,12 +13,23 @@
     </image>
     
     <item>
+      <title>Low‑parameter supervised learning models can discriminate pseudoprogression and true progression in non‑perfusion‑based MRI</title>
+      <link>https://shariq-mohammed.github.io/publication/warner2023low/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/warner2023low/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IEEE Engineering in Medicine and Biology Society (EMBS) Annual International Conference (EMBC) Proceedings&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Discrimination of pseudoprogression and true progression is challenging in malignant gliomas. We investigate low‑parametric supervised learning (geographically weighted regression; GWR) on widely available MRI modalities—including ADC—to distinguish pseudoprogression from true progression. Applying GWR to modality pairs is suitable for small samples and novel in this setting. Modality pairs involving ADC and those regressing post‑contrast T1 onto T2 showed promise. Results suggest the predictive benefit of ADC and motivate further study of relationships between post‑contrast T1 and T2.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Quantifying T2-FLAIR mismatch using geographically weighted regression and predicting molecular status in lower-grade gliomas</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</guid>
       <description>&lt;p&gt;&lt;em&gt;American Journal of Neuroradiology&lt;/em&gt; (2021).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nominated for 2021 Lucien Levy Best Research Article.&lt;/strong&gt;&lt;/em&gt; &lt;a href=&#34;https://www.ajnrblog.org/2022/03/28/journal-announces-this-years-lucien-levy-best-research-article-award-winner-and-nominees/&#34;&gt;AJNR Blog Annoucement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nominated for 2021 Lucien Levy Best Research Article.&lt;/strong&gt; (&lt;a href=&#34;https://www.ajnrblog.org/2022/03/28/journal-announces-this-years-lucien-levy-best-research-article-award-winner-and-nominees/&#34;&gt;AJNR Blog Annoucement&lt;/a&gt;)&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Background and Purpose&lt;/em&gt;. T2-FLAIR mismatch sign is a validated imaging sign of IDH-mutant 1p/19q non-codeleted gliomas. It is identified by radiologists through visual inspection of pre-operative MRI scans, and has been shown to identify IDH-mutant 1p/19q non-codeleted gliomas with high positive predictive value. We have developed an approach to quantify the T2-FLAIR mismatch signature, and use it to predict molecular status of lower-grade gliomas (LGG).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Materials and Methods&lt;/em&gt;. We used multi-parametric MRI scans and segmentation labels of 108 pre-operative LGG tumors from The Cancer Imaging Archive. Clinical information and T2-FLAIR mismatch sign labels were obtained from supplementary material of relevant publications. We adopted an objective analytical approach to estimate this sign through a geographically weighted regression (GWR), and use the residuals for each case to construct a probability density function (serving as residual signature). These functions are then analyzed using an appropriate statistical framework.&lt;/p&gt;
@@ -31,12 +42,11 @@
     <item>
       <title>Density-based classification in diabetic retinopathy through thickness of retinal layers from optical coherence tomography</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2020density/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2020density/</guid>
       <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Diabetic retinopathy (DR) is a severe retinal disorder that can lead to vision loss, however, its underlying mechanism has not been fully understood. Previous studies have taken advantage of Optical Coherence Tomography (OCT) and shown that the thickness of individual retinal layers are affected in patients with DR. However, most studies analyzed the thickness by calculating summary statistics from retinal thickness maps of the macula region. This study aims to apply a density function-based statistical framework to the thickness data obtained through OCT, and to compare the predictive power of various retinal layers to assess the severity of DR. We used a prototype data set of 107 subjects which are comprised of 38 non-proliferative DR (NPDR), 28 without DR (NoDR), and 41 controls. Based on the thickness profiles, we constructed novel features which capture the variation in the distribution of the pixel-wise retinal layer thicknesses from OCT. We quantified the predictive power of each of the retinal layers to distinguish between all three pairwise comparisons of the severity in DR (NoDR vs NPDR, controls vs NPDR and controls vs NoDR). When applied to this preliminary DR data set, our density-based method demonstrated better predictive results compared with simple summary statistics. Furthermore, our results indicate considerable differences in retinal layer structuring based on the severity of DR. We found that: (a) the outer plexiform layer is the most discriminative layer for classifying NoDR vs NPDR; (b) the outer plexiform, inner nuclear and ganglion cell layers are the strongest biomarkers for discriminating controls from NPDR; and (c) the inner nuclear layer distinguishes best between controls and NoDR.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

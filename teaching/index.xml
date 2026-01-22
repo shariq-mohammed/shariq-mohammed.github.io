@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/teaching/</link>
       <atom:link href="https://shariq-mohammed.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Teachings</title>
@@ -13,7 +13,47 @@
     </image>
     
     <item>
-      <title>BS 730 - Introduction to R: Software for Statistical Computing</title>
+      <title>SPH BS 704 — Introduction to Biostatistics</title>
+      <link>https://shariq-mohammed.github.io/teaching/bs704/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/bs704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPH BS 755 — Theory of Linear Models in Biostatistics</title>
+      <link>https://shariq-mohammed.github.io/teaching/bs755/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/bs755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPH BS 901 — Directed Studies in Biostatistics</title>
+      <link>https://shariq-mohammed.github.io/teaching/bs901/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/bs901/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPH BS 800 — Accelerated Statistical Training</title>
+      <link>https://shariq-mohammed.github.io/teaching/bs800/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/bs800/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAS MA 575 / SPH BS 755 — Linear Models</title>
+      <link>https://shariq-mohammed.github.io/teaching/ma575/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/ma575/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPH BS 730 - Introduction to R: Software for Statistical Computing</title>
       <link>https://shariq-mohammed.github.io/teaching/bs730/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/teaching/bs730/</guid>
@@ -21,7 +61,7 @@
     </item>
     
     <item>
-      <title>Computational Biotatistics and Survival Analysis</title>
+      <title>Computational Biostatistics and Survival Analysis</title>
       <link>https://shariq-mohammed.github.io/teaching/cbsa2019/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/teaching/cbsa2019/</guid>

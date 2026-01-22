@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oluchi Ekenze | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/authors/oluchi-ekenze/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/oluchi-ekenze/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oluchi Ekenze</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Oluchi Ekenze</title>
+      <link>https://shariq-mohammed.github.io/authors/oluchi-ekenze/</link>
+    </image>
+    
+    <item>
+      <title>Lifelong trends in vascular risk factors and cerebral small vessel disease</title>
+      <link>https://shariq-mohammed.github.io/publication/pinheiro2025lifelong/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/pinheiro2025lifelong/</guid>
+      <description>&lt;p&gt;&lt;em&gt;American Heart Association International Stroke Conference (ISC) 2025 Proceedings&lt;/em&gt; (2025).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Background &amp;amp; Hypothesis.&lt;/strong&gt; Cerebral small vessel disease (CSVD) contributes to stroke and dementia risk and may evolve over decades. The study posited that people follow distinct lifetime trajectories of modifiable vascular risk factors (VRFs) and that these VRF patterns are associated with CSVD burden later in life.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods.&lt;/strong&gt; Using Framingham Heart Study participants with at least six lifetime VRF assessments and brain MRI markers of CSVD, the team derived a multi‑marker CSVD score (range 0–5; components included covert infarcts, cerebral microbleeds, extensive white‑matter hyperintensities, cortical superficial siderosis, and high perivascular space burden) and grouped it as 0, 1, or ≥2. Functional data clustering identified lifetime trajectories for individual VRFs; multivariable ordinal logistic regression then related trajectory membership to CSVD burden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results.&lt;/strong&gt; Among 7,961 individuals with longitudinal VRF data (baseline mean age ≈40 years; ~45% men), three trajectory clusters typically emerged per VRF: persistently adverse, persistently optimal, and intermediate patterns. In the MRI subset (n = 1,625; mean age ≈73 years; ~45% men), CSVD scores were 0 in ~47%, 1 in ~31%, and ≥2 in ~22%. After adjustment (age, sex, cohort), membership in higher‑risk lifetime trajectories for systolic blood pressure and pulse pressure (p &amp;lt; 0.01), cigarettes per day (p = 0.01), and body‑mass index (p &amp;lt; 0.05) was associated with higher CSVD burden; for example, compared with long‑term optimal systolic blood pressure, persistently elevated or intermediate trajectories showed higher odds of greater CSVD scores.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions.&lt;/strong&gt; Distinct lifetime patterns of modifiable VRFs track with later‑life CSVD burden. Preventive strategies should account for &lt;strong&gt;trajectories&lt;/strong&gt;—not just single time‑point measures—when identifying individuals at elevated risk for CSVD and its consequences.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter H. Lee | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/authors/peter-h.-lee/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/peter-h.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter H. Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Peter H. Lee</title>
+      <link>https://shariq-mohammed.github.io/authors/peter-h.-lee/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning for risk‑based stratification of cognitively impaired individuals</title>
+      <link>https://shariq-mohammed.github.io/publication/romano2023deep/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/romano2023deep/</guid>
+      <description>&lt;p&gt;&lt;em&gt;iScience&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Quantifying the risk of progression to Alzheimer’s disease (AD) could help identify persons who could benefit from early interventions. We used data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI, n = 544, discovery) and the National Alzheimer’s Coordinating Center (NACC, n = 508, validation), subdividing individuals with mild cognitive impairment (MCI) into risk groups based on CSF amyloid‑β and identifying differential gray‑matter patterns. We created neural‑network–survival models trained on non‑parcellated T1‑weighted MRIs to predict MCI→AD conversion (integrated Brier score: 0.192 discovery; 0.108 validation). Interpretability analyses confirmed brain regions classically associated with AD; post‑mortem data confirmed AD labels. Our framework supports risk‑based stratification of individuals with MCI and identification of regions key for prognosis.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

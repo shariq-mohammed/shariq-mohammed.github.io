@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/tags/posts/</link>
+      <atom:link href="https://shariq-mohammed.github.io/tags/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://shariq-mohammed.github.io/tags/posts/</link>
+    </image>
+    
+    <item>
+      <title>Regional contact networks and the pandemic spread of COVID-19 in India</title>
+      <link>https://shariq-mohammed.github.io/publication/bhattacharyya2020regional_post/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/bhattacharyya2020regional_post/</guid>
+      <description>&lt;p&gt;Predictions to enable State-level Surge Preparedness in moving from Containment to Mitigation.&lt;/p&gt;
+&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@veerab_12080/regional-contact-networks-and-the-pandemic-spread-of-covid-19-in-india-28b3b3aa2161&#34;&gt;found here&lt;/a&gt;. To explore the results under different scenarios for the spread of infection, we have developed an R Shiny app which can be accessed &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Covid-19: India must urgently manage regional contact networks</title>
+      <link>https://shariq-mohammed.github.io/publication/baladandayuthapani2020covid_post/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/baladandayuthapani2020covid_post/</guid>
+      <description>&lt;p&gt;An Op-Ed on bloombergquint.com can be &lt;a href=&#34;https://www.bloombergquint.com/coronavirus-outbreak/covid-19-india-must-urgently-manage-regional-contact-networks&#34;&gt;found here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of virus in India</title>
+      <link>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</guid>
+      <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/historic-lockdown-prediction-models-to-study-lockdown-effects-and-the-role-of-data-in-the-crisis-a0afeeec5a6&#34;&gt;found here&lt;/a&gt;. Daily updates of the plots can be found on the &lt;a href=&#34;https://umich-biostatistics.shinyapps.io/covid19/&#34;&gt;R shiny app here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictions and role of interventions for COVID-19 outbreak in India</title>
+      <link>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</guid>
+      <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/predictions-and-role-of-interventions-for-covid-19-outbreak-in-india-52903e2544e6&#34;&gt;found here&lt;/a&gt;. The full report can be &lt;a href=&#34;https://sph.umich.edu/precision-health-data-science/research/pdf/COVReport_Final_20200320.pdf&#34;&gt;downloaded here&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

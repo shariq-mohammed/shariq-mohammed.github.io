@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timothy D. Johnson | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/authors/timothy-d.-johnson/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/timothy-d.-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Timothy D. Johnson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Timothy D. Johnson</title>
+      <link>https://shariq-mohammed.github.io/authors/timothy-d.-johnson/</link>
+    </image>
+    
+    <item>
+      <title>Comparative study of radiologists vs machine learning in differentiating biopsy-proven pseudoprogression and true progression in diffuse gliomas</title>
+      <link>https://shariq-mohammed.github.io/publication/turk2022comparative/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/turk2022comparative/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Neuroscience Informatics&lt;/em&gt; (2022).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Background and Purpose&lt;/strong&gt; MRI features of tumor progression and
+pseudoprogression may be indistinguishable especially without enhancing
+portion of the diffuse gliomas. Our aim is to discriminate these two
+conditions using radiomics and machine learning algorithm and to compare
+them with human observations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Materials and Methods&lt;/strong&gt; Three consecutive MRI studies before a
+definitive biopsy in 43 diffuse glioma patients (7 pseudoprogression and
+36 true progression cases) who underwent treatment were evaluated. Two
+neuroradiologists reviewed pre- and post-contrast T1, T2, FLAIR, ADC,
+rCBV, rCBF, K2, and MTT maps. Patterns of enhancement, ADC maps, rCBV,
+rCBF, MTT, K2 values, and perilesional FLAIR signal intensity changes
+were recorded. Odds ratios (OR) for each descriptor, raters&#39; success in
+predicting true and pseudoprogression, and inter-observer reliability
+were calculated using the R statistics software. Unpaired Student&amp;rsquo;s
+t-test and receiver operating characteristic (ROC) analysis were applied
+to compare the texture parameters and histogram analysis of pseudo- and
+true progression groups. All first-order and second-order image texture
+features and shape features were used to train and test the Random
+Forest classifier (RFC). Observers&#39; success and RFC were compared.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt; Observers could not identify true progression in the first
+visit. However, accuracy of the RFC model was 81%. For the second and
+third visits, the rater&amp;rsquo;s success of prediction was between 62% and 72%.
+The accuracy for the second and last visit with RFC was 75% and 81%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt; Random Forest classifier was more successful than human
+observations in predicting pseudoprogression using MRI.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

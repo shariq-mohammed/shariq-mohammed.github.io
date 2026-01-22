@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/</link>
       <atom:link href="https://shariq-mohammed.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shariq Mohammed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Shariq Mohammed</title>
@@ -13,23 +13,28 @@
     </image>
     
     <item>
-      <title>Imaging and complex-structured data applications</title>
+      <title>Complex-structured data applications</title>
       <link>https://shariq-mohammed.github.io/research/applications/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/research/applications/</guid>
-      <description>&lt;p&gt;We develop statistical models to:&lt;/p&gt;
+      <description>&lt;p&gt;We design &lt;strong&gt;statistical models&lt;/strong&gt; and &lt;strong&gt;computational tools&lt;/strong&gt; that turn high‑dimensional, complex‑structured data into clinically meaningful insight.&lt;/p&gt;
+&lt;h3 id=&#34;what-we-do&#34;&gt;What we do?&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;identify associations between complex-structured data (imaging, spatial-genomic, geospatial, digital) from multi-platform data sources,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Create novel, interpretable, and useful features from complex data.&lt;/strong&gt;&lt;br&gt;
+We generate and derive feature sets that capture signal in digital data, spatial‑omic data, geospatial data, and imaging data, providing surrogate representations of complex data that power downstream discovery and decision‑making.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;predict clinical characteristics of interest by integrating biomarkers generated from complex-structured data, and&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Predict clinical phenotypes.&lt;/strong&gt;&lt;br&gt;
+We integrate biomarkers derived from complex‑structured data to build statistical and machine learning models to predict clinical characteristics that matter to patients and providers.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;understand the biological relevance and implications of our findings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explain the biology.&lt;/strong&gt;&lt;br&gt;
+We interpret model findings to understand their biological relevance and implications, closing the loop from data to mechanism to impact.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Our methods are developed in the context of various diseases such as cancer and neurodegenerative (Alzheimer&amp;rsquo;s) diseases.&lt;/p&gt;
+&lt;h3 id=&#34;where-it-matters&#34;&gt;Where it matters?&lt;/h3&gt;
+&lt;p&gt;Our methods are developed and evaluated in real clinical and public‑health contexts—including oncology (cancer) and neurodegenerative disease (with a focus on Dementia and Alzheimer’s disease)—to ensure the science translates to better decisions to improve patient and public health.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -38,31 +43,261 @@
     <item>
       <title>Statistical methods for the analysis of complex-structured biomedical data</title>
       <link>https://shariq-mohammed.github.io/research/methods/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/research/methods/</guid>
-      <description>&lt;p&gt;We develop innovative statistical methodology that leverages structural and biological information in the data. To address the challenges of handling complex-structured data, we develop and employ methods at the interface of hierarchical Bayesian modeling, variable selection, geometric/functional data analysis and spatial statistics.&lt;/p&gt;
+      <description>&lt;p&gt;We develop innovative statistical methodology that turns the structure in data into signal—explicitly leveraging complexities of data from modern biomedical technologies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hierarchical Bayesian modeling&lt;/strong&gt; to encode domain knowledge and to propagate uncertainty.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Variable selection&lt;/strong&gt; to pinpoint a parsimonious set of biomarkers from high‑dimensional feature sets.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geometric &amp;amp; functional data analysis&lt;/strong&gt; to analyze shapes, curves, and trajectories.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spatial statistics&lt;/strong&gt; to exploit spatial dependence in data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network models in statistics &amp;amp; machine learning&lt;/strong&gt; to learn interaction structure and to infuse graph constraints.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Together, these methods provide robust and interpretable inference and prediction—bridging complex structure to clinically meaningful insight while remaining firmly grounded in rigorous statistical principles.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
-      <title>Integrative Bayesian models using post-selective inference: a case study in radiogenomics</title>
-      <link>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Biometrics (Just Accepted)&lt;/em&gt;&lt;/p&gt;
+      <title>Predicting cognitive impairment using novel functional features of spatial proximity and circularity in the digital clock drawing test</title>
+      <link>https://shariq-mohammed.github.io/publication/pinheiro2025predicting/</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/pinheiro2025predicting/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Alzheimer’s &amp;amp; Dementia&lt;/em&gt; (Supplement; Conference Proceedings) (2025).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Background&lt;/em&gt;: The digital clock drawing test (dCDT) is a cognitive screening tool employing a digital pen to capture high-resolution pen movements. Traditional dCDT approaches to predict cognitive outcomes often rely on many summary features (e.g. time to completion, mean pressure, clock face area, etc.) which involve subjective decisions such as feature selection and imputation of missing data. To address these limitations, we introduce novel dCDT features, expressed as mathematical functions. These functional features include the G-function (measuring spatial proximity of points), pressure density function (measuring variability in pressure exerted on the paper), and radius function (measuring circularity of the clock face). We compare the performance of these functional features to 45 commonly used summary features.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods&lt;/em&gt;: We included dCDTs from 3,415 stroke-free participants from the Framingham Heart Study with at least one command or copy task. Random forest models with five-fold cross-validation were trained to distinguish participants with MCI or dementia from cognitively intact participants. Predictors included combinations of demographics, time-based features, summary features, and functional features. Functional features underwent dimension reduction using functional principal components analysis. Area under the receiver operating curve (AUC), sensitivity, and specificity assessed model performance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;: Average age was 63.6 years (SD: 13.9), with 1,546 (45%) males, 785 (23%) having at least one APOE-e4 allele, and 1,957 (57%) having a college education. At the time of the dCDT, 122 (4%) had mild cognitive impairment and 74 (2%) had dementia. When combined with demographics and time-based features, functional features from command and copy tests related to spatial proximity (AUC: 0.90; 95% CI: 0.88-0.92) and circularity (AUC: 0.91; 95% CI: 0.89-0.93) were as predictive as summary features (AUC: 0.90; 95% CI: 0.88-0.92). Similar results were found when analyzing command and copy features separately.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;: Functional features of the dCDT offer several advantages such as robustness to missing data, decreased subjectivity in feature selection, and avoidance of reducing complex information into summary statistics. In addition, there is potential to make inferences about cognition based on the shape and behavior of the functions. Further research is required to better understand what these functional features reveal about cognition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A national growth mixture modeling analysis of county-level COVID-19 incidence rate trajectories and health inequities during three successive pandemic waves in 2020</title>
+      <link>https://shariq-mohammed.github.io/publication/dukes2025national/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/dukes2025national/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2025).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;We applied Growth Mixture Modeling (GMM) to characterize county-level COVID-19 incidence rate (IR) trajectories across three distinct waves in the United States from March 15 to November 2, 2020. GMM enabled the identification of latent subpopulations with shared temporal patterns of disease spread, offering a flexible analytic framework for uncovering both known and evolving disparities. Across the three periods, up to five trajectory groups were identified, revealing substantial geographic and temporal heterogeneity. To support interpretation and reduce multiple comparisons, we developed and validated a 17-item Social Determinants of Health (SDOH) index representing county-level economic and resource access factors. Higher-incidence rate trajectories consistently aligned with lower SDOH scores and greater proportions of Black or African American residents and younger populations. These disparities shifted over time, with patterns of high-incidence rates emerging in resource-limited counties across the South and Midwest in later waves. By further assessing well-documented inequities and expanding understanding of their dynamic expression across space and time, this study demonstrates the utility of GMM for public health surveillance, planning, and equitable response strategies in future outbreaks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPH BS 704 — Introduction to Biostatistics</title>
+      <link>https://shariq-mohammed.github.io/teaching/bs704/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/bs704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPH BS 755 — Theory of Linear Models in Biostatistics</title>
+      <link>https://shariq-mohammed.github.io/teaching/bs755/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/bs755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPH BS 901 — Directed Studies in Biostatistics</title>
+      <link>https://shariq-mohammed.github.io/teaching/bs901/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/bs901/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association Between Tourniquet Use and Patient‑Reported Outcomes Following Total Knee Arthroplasty: A Multicenter Comparison</title>
+      <link>https://shariq-mohammed.github.io/publication/gibbs2025association/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/gibbs2025association/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Journal of Bone &amp;amp; Joint Surgery&lt;/em&gt; (2025).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Background: Total knee arthroplasty (TKA) is among the most commonly performed elective procedures. Tourniquet use remains debated regarding patient outcomes and postoperative experience. Methods: Within the PEPPER trial framework, 5,684 primary TKAs were analyzed; 4,866 (85.6%) used a tourniquet and 818 (14.4%) did not. Primary outcomes were KOOS‑JR, PROMIS‑PH10, and numeric pain rating, collected preoperatively and at 1, 3, and 6 months. Secondary outcomes included length of stay, discharge disposition, analgesic consumption, and complications. Multivariable analyses assessed associations between tourniquet use and PROMs. Results: The percentage achieving MCID for KOOS‑JR differed at 1 month (tourniquet 55.4% vs no‑tourniquet 47.9%) but not at 3 or 6 months. No differences were observed for PROMIS‑PH10 or pain at any time point, nor for opioid use, operative time, LOS, wound complications, or readmissions. Conclusions: Tourniquet use conferred a small early KOOS‑JR advantage at 1 month that was not sustained; overall, tourniquet use did not have a clinically meaningful impact on PROMs.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Pupil Abnormality Frequency Predicts Poor Outcomes and Enhances IMPACT Model Prognostication in Traumatic Brain Injury</title>
+      <link>https://shariq-mohammed.github.io/publication/veerapaneni2025early/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/veerapaneni2025early/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Critical Care Explorations&lt;/em&gt; (2025).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;IMPORTANCE: In patients with traumatic brain injury (TBI), baseline pupillary assessment is routine; however, the occurrence rate and clinical significance of pupil abnormalities over the early course of hospitalization remain poorly characterized. OBJECTIVES: To determine whether the occurrence and frequency of pupil abnormalities within the first 72 hours of ICU admission are associated with unfavorable discharge outcomes and to assess whether incorporating this frequency improves the performance of an established prognostic model.&lt;/p&gt;
+&lt;p&gt;DESIGN, SETTING, AND PARTICIPANTS: This was a retrospective observational study of adults admitted with a primary diagnosis of TBI to a single tertiary care ICU between 2018 and 2022. Inclusion criteria included at least three quantitative pupillometry assessments within the first 72 hours.&lt;/p&gt;
+&lt;p&gt;MAIN OUTCOMES AND MEASURES: Quantitative pupillometry was used to calculate the Neurological Pupil index (NPi) at each assessment. Abnormalities were defined as NPi &amp;lt; 3 in either eye, NPi asymmetry ≥ 0.7, or pupil size asymmetry ≥ 1 mm. RESULTS: [Truncated for brevity in this abstract excerpt.] The likelihood ratio test revealed that the IMPACT model plus pupil abnormality frequency had an improved goodness-of-fit compared to the core IMPACT model alone when predicting unfavorable discharge disposition (χ² = 5.24, p = 0.02).&lt;/p&gt;
+&lt;p&gt;CONCLUSIONS: A higher frequency of pupil abnormalities in the first 72 hours is associated with unfavorable discharge outcomes and enhances IMPACT model prognostication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Later midline shift is associated with better post-hospitalization discharge status after large middle cerebral artery stroke</title>
+      <link>https://shariq-mohammed.github.io/publication/song2025later/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/song2025later/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2025).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Space occupying cerebral edema is a feared complication after large ischemic stroke, occurring in up to 30% of patients with middle cerebral artery (MCA) occlusion and peaking 2–4 days after injury. Little is known about the factors and outcomes associated with peak edema timing, especially after 96 h. We aimed to characterize differences and compare discharge status between patients who experienced maximum midline shift (MLS) or decompressive hemicraniectomy (DHC) in the acute (&amp;lt; 48 h), average (48–96 h), and subacute (&amp;gt; 96 h) groups. We performed a two-center, retrospective study of patients with ≥ 1/2 MCA territory infarct and MLS. We constructed a multivariable model to test the association of subacute peak edema and favorable discharge status, adjusting for various confounders. Of 321 eligible patients, 32%, 36%, and 32% experienced acute, average, and subacute peak edema. Subacute peak edema was significantly associated with higher odds of favorable discharge than acute peak edema (aOR, 2.05; 95% CI, 1.03–4.11). Subacute peak edema after large MCA stroke is associated with better discharge status compared to acute peak edema courses. Understanding how the timing of cerebral edema affects risk of unfavorable discharge has important implications for treatment decisions and prognostication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lifelong trends in vascular risk factors and cerebral small vessel disease</title>
+      <link>https://shariq-mohammed.github.io/publication/pinheiro2025lifelong/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/pinheiro2025lifelong/</guid>
+      <description>&lt;p&gt;&lt;em&gt;American Heart Association International Stroke Conference (ISC) 2025 Proceedings&lt;/em&gt; (2025).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Background &amp;amp; Hypothesis.&lt;/strong&gt; Cerebral small vessel disease (CSVD) contributes to stroke and dementia risk and may evolve over decades. The study posited that people follow distinct lifetime trajectories of modifiable vascular risk factors (VRFs) and that these VRF patterns are associated with CSVD burden later in life.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods.&lt;/strong&gt; Using Framingham Heart Study participants with at least six lifetime VRF assessments and brain MRI markers of CSVD, the team derived a multi‑marker CSVD score (range 0–5; components included covert infarcts, cerebral microbleeds, extensive white‑matter hyperintensities, cortical superficial siderosis, and high perivascular space burden) and grouped it as 0, 1, or ≥2. Functional data clustering identified lifetime trajectories for individual VRFs; multivariable ordinal logistic regression then related trajectory membership to CSVD burden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results.&lt;/strong&gt; Among 7,961 individuals with longitudinal VRF data (baseline mean age ≈40 years; ~45% men), three trajectory clusters typically emerged per VRF: persistently adverse, persistently optimal, and intermediate patterns. In the MRI subset (n = 1,625; mean age ≈73 years; ~45% men), CSVD scores were 0 in ~47%, 1 in ~31%, and ≥2 in ~22%. After adjustment (age, sex, cohort), membership in higher‑risk lifetime trajectories for systolic blood pressure and pulse pressure (p &amp;lt; 0.01), cigarettes per day (p = 0.01), and body‑mass index (p &amp;lt; 0.05) was associated with higher CSVD burden; for example, compared with long‑term optimal systolic blood pressure, persistently elevated or intermediate trajectories showed higher odds of greater CSVD scores.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions.&lt;/strong&gt; Distinct lifetime patterns of modifiable VRFs track with later‑life CSVD burden. Preventive strategies should account for &lt;strong&gt;trajectories&lt;/strong&gt;—not just single time‑point measures—when identifying individuals at elevated risk for CSVD and its consequences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Pupillometry Predicts Neurologic Deterioration in Patients with Large Middle Cerebral Artery Stroke</title>
+      <link>https://shariq-mohammed.github.io/publication/du2025quantitative/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/du2025quantitative/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Annals of Neurology&lt;/em&gt; (2025).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Objective: This study assesses whether longitudinal quantitative pupillometry predicts neurological deterioration after large middle cerebral artery (MCA) stroke and determines how early changes are detectable. Methods: This prospective, single‑center observational cohort study included patients with large MCA stroke admitted to Boston Medical Center’s intensive care unit (2019–2024). Associations between time‑to‑neurologic deterioration and quantitative pupillometry, including Neurological Pupil Index (NPi), were assessed using Cox proportional hazards models with time‑dependent covariates adjusted for age, sex, and Alberta Stroke Program Early CT Score. Models using dilation velocity were compared with partial likelihood ratio tests. Pupillometric changes over 2‑hour intervals in the 12 hours preceding deterioration were analyzed with linear mixed‑effects modeling and Tukey’s test. Matched referents were used for comparison. Results: Among 71 patients, 32 (45.1%) experienced deterioration. A 1‑unit decrease in NPi was associated with higher hazard of deterioration (HR 2.46; 95% CI 1.68–3.61). Dilation velocity improved model performance compared to NPi alone. NPi was significantly lower at 0–2 and 2–4 hours before deterioration compared to 10–12 hours prior. Interpretation: Quantitative pupillometry predicts neurological deterioration in MCA stroke, with declines detectable up to 12 hours prior; dilation velocity shows promise as a biomarker.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Pupillometry Post‑Surgical Decompression Predicts Severe Neurologic Disability in Patients with Acute Brain Injury</title>
+      <link>https://shariq-mohammed.github.io/publication/mallinger2024quantitative/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mallinger2024quantitative/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Neurocritical Care Society Annual Meeting&lt;/em&gt; (2024).&lt;/p&gt;
+&lt;p&gt;Accepted as a poster at the conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of Quantitative Cancer Imaging Data</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2024statistical/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2024statistical/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Statistics and Data Science in Imaging&lt;/em&gt; (2024).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Recent advances in medical imaging technologies have led to the proliferation of multimodal quantitative imaging data in cancer. Quantitative medical imaging data—numerical representations derived from radiology and pathology—enable precise characterization of tumor biology to assess progression, therapy response, and prognosis. However, analytical challenges arise due to high dimensionality, structural correlations, and heterogeneity. This review summarizes state‑of‑the‑art statistical methods for quantitative imaging—including topological, functional, and shape analyses; spatial process models; and modern ML—highlighting clinical applications in oncology and open problems for future research.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPH BS 800 — Accelerated Statistical Training</title>
+      <link>https://shariq-mohammed.github.io/teaching/bs800/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/bs800/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling health and well-being measures using ZIP code spatial neighborhood patterns</title>
+      <link>https://shariq-mohammed.github.io/publication/jain2024modeling/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/jain2024modeling/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2024).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Individual-level assessment of health and well-being permits analysis of community well-being and health risk evaluations across several dimensions of health. It also enables comparison and rankings of reported health and well-being for large geographical areas such as states, metropolitan areas, and counties. However, there is large variation in reported well-being within such large spatial units underscoring the importance of analyzing well-being at more granular levels, such as ZIP codes. In this paper, we model well-being data to generate ZIP code tabulation area (ZCTA)-level rankings through spatially informed statistical modeling. We build regression models for individual-level overall well-being index and scores from five subscales (Physical, Financial, Social, Community, Purpose) using individual-level demographic characteristics as predictors while including a ZCTA-level spatial effect using a graph Laplacian. Deployed on data from Massachusetts and Georgia, the model captures demographic effects and yields spatial effect estimates for all ZCTAs (including some without observations), enabling community‑level rankings.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian group selection with compositional responses for analysis of radiologic tumor proportions and their genomic determinants</title>
+      <link>https://shariq-mohammed.github.io/publication/chekouo2023bayesian/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/chekouo2023bayesian/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Annals of Applied Statistics&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Volumetric imaging features are used in cancer research to determine the size and the composition of a tumor and have been shown to be prognostic of overall survival. In this paper we focus on the analysis of tumor component proportions of brain cancer patients collected through The Cancer Genome Atlas (TCGA) project. Our main goal is to identify pathways and corresponding genes that can explain the heterogeneity of the composition of a brain tumor. In particular, we focus on the glioblastoma multiform (GBM), as it is the most common malignant brain neoplasm, accounting for 23% of all primary brain tumors for which it still has very poor prognosis. We propose a Bayesian hierarchical model for variable selection with a group structure in the context of correlated multivariate compositional response variables. More specifically, we model the proportions of the tumor components within the tumor using a Dirichlet model by allowing for straightforward incorporation of available high-dimensional covariate information within a log-linear regression framework. We impose prior distributions that account for the overlapping structure between groups of covariates. Simulations and application to GBM disease show the importance of our approach. We have identified associations between tumor component volume-based features and several important pathways and genes. Some of these genes have previously been shown to be prognostic indicators of overall survival time in GBM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tumor radiogenomics in gliomas with Bayesian layered variable selection</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Medical Image Analysis&lt;/em&gt; (2023).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Identifying direct links between gene pathways and clinical endpoints for highly fatal diseases such as cancer is a formidable task. Integrative analyses play a crucial role in modeling these links by relying upon associations between a wealth of intermediary variables and genomic measurements. Motivated to harness phenotypic information about tumors towards a molecular characterization of low-grade gliomas, we develop a data driven Bayesian framework to define sharp models, and calibrate accurately and efficiently uncertainties associated with the promising biological findings.&lt;/p&gt;
-&lt;p&gt;The Bayesian methods we propose in the article (i) are amenable to a flexible class of adaptive models, determined via a complex interplay between signals sifted from variable selection algorithms and domain specific knowledge; (ii) have the advantage of computationally efficient high dimensional inference due to a focus on sharp models with fewer parameters, when compared to their non-adaptive counterparts; (iii) exhibit a significantly better reconciliation between model adaptivity and inferential power than state-of-art approaches, when constrained by the curse of dimensionality. Our main workforce involves a carefully constructed conditional likelihood and utilizes a reparameterization map to obtain compact formulae for a selection-corrected posterior. Deploying our methods to investigate radiogenomic characteristics for diffuse low-grade gliomas, we successfully uncover associations between several biologically important gene pathways and patient survival times.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;We propose a statistical framework to analyze radiological magnetic resonance imaging (MRI) and genomic data to identify the underlying radiogenomic associations in lower grade gliomas (LGG). We devise a novel imaging phenotype by dividing the tumor region into concentric spherical layers that mimics the tumor evolution process. MRI data within each layer is represented by voxel–intensity-based probability density functions which capture the complete information about tumor heterogeneity. Under a Riemannian-geometric framework these densities are mapped to a vector of principal component scores which act as imaging phenotypes. Subsequently, we build Bayesian variable selection models for each layer with the imaging phenotypes as the response and the genomic markers as predictors. Our novel hierarchical prior formulation incorporates the interior-to-exterior structure of the layers, and the correlation between the genomic markers. We employ a computationally-efficient Expectation–Maximization-based strategy for estimation. Simulation studies demonstrate the superior performance of our approach compared to other approaches. With a focus on the cancer driver genes in LGG, we discuss some biologically relevant findings. Genes implicated with survival and oncogenesis are identified as being associated with the spherical layers, which could potentially serve as early-stage diagnostic markers for disease monitoring, prior to routine invasive approaches. We provide a R package that can be used to deploy our framework to identify radiogenomic associations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAS MA 575 / SPH BS 755 — Linear Models</title>
+      <link>https://shariq-mohammed.github.io/teaching/ma575/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/teaching/ma575/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for risk‑based stratification of cognitively impaired individuals</title>
+      <link>https://shariq-mohammed.github.io/publication/romano2023deep/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/romano2023deep/</guid>
+      <description>&lt;p&gt;&lt;em&gt;iScience&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Quantifying the risk of progression to Alzheimer’s disease (AD) could help identify persons who could benefit from early interventions. We used data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI, n = 544, discovery) and the National Alzheimer’s Coordinating Center (NACC, n = 508, validation), subdividing individuals with mild cognitive impairment (MCI) into risk groups based on CSF amyloid‑β and identifying differential gray‑matter patterns. We created neural‑network–survival models trained on non‑parcellated T1‑weighted MRIs to predict MCI→AD conversion (integrated Brier score: 0.192 discovery; 0.108 validation). Interpretability analyses confirmed brain regions classically associated with AD; post‑mortem data confirmed AD labels. Our framework supports risk‑based stratification of individuals with MCI and identification of regions key for prognosis.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low‑parameter supervised learning models can discriminate pseudoprogression and true progression in non‑perfusion‑based MRI</title>
+      <link>https://shariq-mohammed.github.io/publication/warner2023low/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/warner2023low/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IEEE Engineering in Medicine and Biology Society (EMBS) Annual International Conference (EMBC) Proceedings&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Discrimination of pseudoprogression and true progression is challenging in malignant gliomas. We investigate low‑parametric supervised learning (geographically weighted regression; GWR) on widely available MRI modalities—including ADC—to distinguish pseudoprogression from true progression. Applying GWR to modality pairs is suitable for small samples and novel in this setting. Modality pairs involving ADC and those regressing post‑contrast T1 onto T2 showed promise. Results suggest the predictive benefit of ADC and motivate further study of relationships between post‑contrast T1 and T2.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian variable selection in double generalized linear Tweedie spatial process models</title>
+      <link>https://shariq-mohammed.github.io/publication/halder2023bayesian/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/halder2023bayesian/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The New England Journal of Statistics in Data Science&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Double generalized linear models provide a flexible framework for modeling data by allowing the mean and the dispersion to vary across observations. Common members of the exponential dispersion family including the Gaussian, Poisson, compound Poisson-gamma (CP-g), Gamma and inverse-Gaussian are known to admit such models. The lack of their use can be attributed to ambiguities that exist in model specification under a large number of covariates and complications that arise when data display complex spatial dependence. In this work we consider a hierarchical specification for the CP-g model with a spatial random effect. The spatial effect is targeted at performing uncertainty quantification by modeling dependence within the data arising from location based indexing of the response. We focus on a Gaussian process specification for the spatial effect. Simultaneously, we tackle the problem of model specification for such models using Bayesian variable selection. It is effected through a continuous spike and slab prior on the model parameters, specifically the fixed effects. The novelty of our contribution lies in the Bayesian frameworks developed for such models. We perform various synthetic experiments to showcase the accuracy of our frameworks. They are then applied to analyze automobile insurance premiums in Connecticut, for the year of 2008.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network-based Modeling of COVID-19 Dynamics: Early Pandemic Spread in India</title>
+      <link>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Journal of the Indian Statistical Association&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Modeling the dynamics of COVID-19 pandemic spread is a challenging and relevant problem. Established models for the epidemic spread such as compartmental epidemiological models e.g. Susceptible-Infected-Recovered (SIR) models and its variants, have been discussed extensively in the literature and utilized to forecast the growth of the pandemic across different hot-spots in the world. The standard formulations of SIR models rely upon summary-level data, which may not be able to fully capture the complete dynamics of the pandemic growth. Since the disease spreads from carriers to susceptible individuals via some form of contact, it inherently relies upon a network of individuals for its growth, with edges established via direct interaction, such as shared physical proximity. Using spatial and individual-level COVID-19 data from the early days (January 30 to April 15, 2020) of the pandemic in India, and under a network-based SIR model framework, we performed state-specific forecasting under multiple scenarios characterized by the basic reproduction number of COVID-19 across 34 Indian states and union territories. We validated our short-term projections using observed case counts and the long-term projections using national sero-survey findings. Based on healthcare availability data, we also performed projections to assess the burdens on the infrastructure along the spectrum of the pandemic growth. We have developed an [interactivedashboard summarizing our results. Our predictions successfully identified the initial hot-spots of India such as Maharashtra and Delhi, and those that emerged later, such as Madhya Pradesh and Kerala. These models have the potential to inform appropriate policies for isolation and mitigation strategies to contain the pandemic, through a phased approach by appropriate resource prioritization and allocation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial risk estimation in Tweedie compound Poisson double generalized linear models</title>
+      <link>https://shariq-mohammed.github.io/publication/halder2022spatial/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/halder2022spatial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;International E-Conference on Mathematical and Statistical Sciences: A Selçuk Meeting (ICOMSS 2022) Proceedings&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Tweedie exponential dispersion family constitutes a fairly rich sub-class of the celebrated exponential family. In particular, a member, compound Poisson gamma (CP-g) model has seen extensive use over the past decade for modeling mixed response featuring exact zeros with a continuous response from a gamma distribution. This paper proposes a framework to perform residual analysis on CP-g double generalized linear models for spatial uncertainty quantification. Approximations are introduced to proposed framework making the procedure scalable, without compromise in accuracy of estimation and model complexity; accompanied by sensitivity analysis to model mis-specification. Proposed framework is applied to modeling spatial uncertainty in insurance loss costs arising from automobile collision coverage. Scalability is demonstrated by choosing sizable spatial reference domains comprised of groups of states within the United States of America.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Comparative study of radiologists vs machine learning in differentiating biopsy-proven pseudoprogression and true progression in diffuse gliomas</title>
       <link>https://shariq-mohammed.github.io/publication/turk2022comparative/</link>
-      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/turk2022comparative/</guid>
       <description>&lt;p&gt;&lt;em&gt;Neuroscience Informatics&lt;/em&gt; (2022).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
@@ -91,48 +326,44 @@ third visits, the rater&amp;rsquo;s success of prediction was between 62% and 72
 The accuracy for the second and last visit with RFC was 75% and 81%.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt; Random Forest classifier was more successful than human
 observations in predicting pseudoprogression using MRI.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrative Bayesian Models Using Post-Selective Inference: A Case Study in Radiogenomics</title>
+      <link>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Biometrics&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Integrative analyses based on statistically relevant associations between genomics and a wealth of intermediary phenotypes (such as imaging) provide vital insights into their clinical relevance in terms of the disease mechanisms. Estimates for uncertainty in the resulting integrative models are however unreliable unless inference accounts for the selection of these associations with accuracy. In this paper, we develop selection-aware Bayesian methods, which (1) counteract the impact of model selection bias through a “selection-aware posterior” in a flexible class of integrative Bayesian models post a selection of promising variables via $\ell_1$-regularized algorithms; (2) strike an inevitable trade-off between the quality of model selection and inferential power when the same data set is used for both selection and uncertainty estimation. Central to our methodological development, a carefully constructed conditional likelihood function deployed with a reparameterization mapping provides tractable updates when gradient-based Markov chain Monte Carlo (MCMC) sampling is used for estimating uncertainties from the selection-aware posterior. Applying our methods to a radiogenomic analysis, we successfully recover several important gene pathways and estimate uncertainties for their associations with patient survival times.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cellular engagement and interaction in the tumor microenvironment predict non-response to PD-1/PD-L1 inhibitors in metastatic non-small cell lung cancer</title>
       <link>https://shariq-mohammed.github.io/publication/qin2022cellular/</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/qin2022cellular/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2021).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2022).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Immune checkpoint inhibitors (ICI) with anti-PD-1/PD-L1 agents have improved the survival of patients with metastatic non-small cell lung cancer (mNSCLC). Tumor PD-L1 expression is an imperfect biomarker as it does not capture the complex interactions between constituents of the tumor microenvironment (TME). Using multiplex fluorescent immunohistochemistry (mfIHC), we modeled the TME to study the influence of cellular distribution and engagement on response to ICI in mNSCLC. We performed mfIHC on pretreatment tissue from patients with mNSCLC who received ICI. We used primary antibodies against CD3, CD8, CD163, PD-L1, pancytokeratin, and FOXP3; simple and complex phenotyping as well as spatial analyses was performed. We analyzed 68 distinct samples from 52 patients with mNSCLC. Patients were 39&amp;ndash;79 years old (median 67); 44% were male and 75% had adenocarcinoma histology. The most used ICI was atezolizumab (48%). The percentage of PD-L1 positive epithelial tumor cells (EC), degree of cytotoxic T lymphocyte (CTL) engagement with EC, and degree of CTL engagement with helper T lymphocytes (HTL) were significantly lower in non-responders versus responders (p = 0.0163, p = 0.0026 and p = 0.0006, respectively). The combination of these 3 characteristics generated the best sensitivity and specificity to predict non-response to ICI and was also associated with shortened overall survival (p = 0.0271). The combination of low CTL engagement with EC and HTL along with low expression of EC PD-L1 represents a state of impaired endogenous immune reactivity. Together, they more precisely identified non-responders to ICI compared to PD-L1 alone and illustrate the importance of cellular interactions in the TME.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Network-based Modeling of COVID-19 Dynamics: Early Pandemic Spread in India</title>
-      <link>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/bhattacharyya2021network/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Journal of the Indian Statistical Association &lt;em&gt;(Just Accepted)&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Modeling the dynamics of COVID-19 pandemic spread is a challenging and relevant problem.  Established models for the epidemic spread such as compartmental epidemiological models e.g. Susceptible-Infected-Recovered (SIR) models and its variants, have been discussed extensively in the literature and utilized to forecast the growth of the pandemic across different hot-spots in the world. The standard formulations of SIR models rely upon summary-level data, which may not be  able to fully capture the complete dynamics of the pandemic growth. Since the disease spreads from carriers to susceptible individuals via some form of contact, it inherently relies upon a network of individuals for its growth, with edges established via direct interaction, such as shared physical proximity. Using spatial and individual-level COVID-19 data from the early days (January 30 to April 15, 2020) of the pandemic in India, and under a network-based SIR model framework, we performed state-specific forecasting under multiple scenarios characterized by the basic reproduction number of COVID-19 across 34 Indian states and union territories. We validated our short-term projections using observed case counts and the long-term projections using national sero-survey findings. Based on healthcare availability data, we also performed projections to assess the burdens on the infrastructure along the spectrum of the pandemic growth. We have developed an &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;interactive dashboard&lt;/a&gt; summarizing our results. Our predictions successfully identified the initial hot-spots of India such as Maharashtra and Delhi, and those that emerged later, such as Madhya Pradesh and Kerala. These models have the potential to inform appropriate policies for isolation and mitigation strategies to contain the pandemic, through a phased approach  by appropriate resource prioritization and allocation.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Immune checkpoint inhibitors (ICI) with anti-PD-1/PD-L1 agents have improved the survival of patients with metastatic non-small cell lung cancer (mNSCLC). Tumor PD-L1 expression is an imperfect biomarker as it does not capture the complex interactions between constituents of the tumor microenvironment (TME). Using multiplex fluorescent immunohistochemistry (mfIHC), we modeled the TME to study the influence of cellular distribution and engagement on response to ICI in mNSCLC. We performed mfIHC on pretreatment tissue from patients with mNSCLC who received ICI. We used primary antibodies against CD3, CD8, CD163, PD-L1, pancytokeratin, and FOXP3; simple and complex phenotyping as well as spatial analyses was performed. We analyzed 68 distinct samples from 52 patients with mNSCLC. Patients were 39–79 years old (median 67); 44% were male and 75% had adenocarcinoma histology. The most used ICI was atezolizumab (48%). The percentage of PD-L1 positive epithelial tumor cells (EC), degree of cytotoxic T lymphocyte (CTL) engagement with EC, and degree of CTL engagement with helper T lymphocytes (HTL) were significantly lower in non-responders versus responders (p = 0.0163, p = 0.0026 and p = 0.0006, respectively). The combination of these 3 characteristics generated the best sensitivity and specificity to predict non-response to ICI and was also associated with shortened overall survival (p = 0.0271). The combination of low CTL engagement with EC and HTL along with low expression of EC PD-L1 represents a state of impaired endogenous immune reactivity. Together, they more precisely identified non-responders to ICI compared to PD-L1 alone and illustrate the importance of cellular interactions in the TME.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GaWRDenMap: A quantitative framework to study the local variation in cell-cell interactions in pancreatic disease subtypes</title>
       <link>https://shariq-mohammed.github.io/publication/krishnan2022gawrdenmap/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/krishnan2022gawrdenmap/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2022)&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2022).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Spatial pattern modelling concepts are being increasingly used in capturing disease heterogeneity. Quantification of heterogeneity in the tumor microenvironment is extremely important in pancreatic ductal adenocarcinoma (PDAC), which has been shown to co-occur with other pancreatic diseases and neoplasms with certain attributes that make visual discrimination difficult. In this paper, we propose the GaWRDenMap framework, that utilizes the concepts of geographically weighted regression (GWR) and a density function-based classification model, and apply it to a cohort of multiplex immunofluorescence images from patients belonging to six different pancreatic diseases. We used an internal cohort of 228 patients comprised of 34 Chronic Pancreatitis (CP), 71 PDAC, 70 intraductal papillary mucinous neoplasm (IPMN), 16 mucinous cystic neoplasm (MCN), 29 pancreatic intraductal neoplasia (PanIN) and 8  IPMN-associated PDAC patients. We utilize GWR to model the relationship between epithelial cells and immune cells on a spatial grid. The GWR model estimates were used to generate density signatures which were used in subsequent pairwise classification models to distinguish between any two pairs of disease groups. Image-level, as well as subject-level analysis, were performed. When applied to this dataset, our classification model showed significant discrimination ability in multiple pairwise comparisons, in comparison to commonly used abundance-based metrics, like the Morisita-Horn index. The model was able to  best discriminate between CP and PDAC at both the subject- and image-levels. It was also able to reasonably discriminate between PDAC and IPMN. These results point to a potential difference in the spatial arrangement of epithelial and immune cells between CP, PDAC and IPMN, that could be of high  diagnostic significance. Further validation on a more comprehensive dataset would be warranted.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Spatial pattern modelling concepts are being increasingly used in capturing disease heterogeneity. Quantification of heterogeneity in the tumor microenvironment is extremely important in pancreatic ductal adenocarcinoma (PDAC), which has been shown to co-occur with other pancreatic diseases and neoplasms with certain attributes that make visual discrimination difficult. In this paper, we propose the GaWRDenMap framework, that utilizes the concepts of geographically weighted regression (GWR) and a density function-based classification model, and apply it to a cohort of multiplex immunofluorescence images from patients belonging to six different pancreatic diseases. We used an internal cohort of 228 patients comprised of 34 Chronic Pancreatitis (CP), 71 PDAC, 70 intraductal papillary mucinous neoplasm (IPMN), 16 mucinous cystic neoplasm (MCN), 29 pancreatic intraductal neoplasia (PanIN) and 8 IPMN-associated PDAC patients. We utilized GWR to model the relationship between epithelial cells and immune cells on a spatial grid. The GWR model estimates were used to generate density signatures which were used in subsequent pairwise classification models to distinguish between any two pairs of disease groups. Image-level, as well as subject-level analysis, were performed. When applied to this dataset, our classification model showed significant discrimination ability in multiple pairwise comparisons, in comparison to commonly used abundance-based metrics, like the Morisita-Horn index. The model was able to best discriminate between CP and PDAC at both the subject- and image-levels. It was also able to reasonably discriminate between PDAC and IPMN. These results point to a potential difference in the spatial arrangement of epithelial and immune cells between CP, PDAC and IPMN, that could be of high diagnostic significance. Further validation on a more comprehensive dataset would be warranted.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>BS 730 - Introduction to R: Software for Statistical Computing</title>
+      <title>SPH BS 730 - Introduction to R: Software for Statistical Computing</title>
       <link>https://shariq-mohammed.github.io/teaching/bs730/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/teaching/bs730/</guid>
@@ -140,28 +371,28 @@ observations in predicting pseudoprogression using MRI.&lt;/p&gt;
     </item>
     
     <item>
+      <title>RADIOHEAD: Radiogenomic analysis incorporating tumor heterogeneity in imaging through densities</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Annals of Applied Statistics&lt;/em&gt; (2021).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Recent technological advancements have enabled detailed investigation of associations between the molecular architecture and tumor heterogeneity, through multi-source integration of radiological imaging and genomic (radiogenomic) data. In this paper, we integrate and harness radiogenomic data in patients with lower grade gliomas (LGG), a type of brain cancer, in order to develop a regression framework called RADIOHEAD (RADIOgenomic analysis incorporating tumor HEterogeneity in imAging through Densities) to identify radiogenomic associations. Imaging data is represented through voxel intensity probability density functions of tumor sub-regions obtained from multimodal magnetic resonance imaging, and genomic data through molecular signatures in the form of pathway enrichment scores corresponding to their gene expression profiles. Employing a Riemannian-geometric framework for principal component analysis on the set of probability densities functions, we map each probability density to a vector of principal component scores, which are then included as predictors in a Bayesian regression model with the pathway enrichment scores as the response. Variable selection compatible with the grouping structure amongst the predictors induced through the tumor sub-regions is carried out under a group spike-and-slab prior. A Bayesian false discovery rate mechanism is then used to infer significant associations based on the posterior distribution of the regression coefficients. Our analyses reveal several pathways relevant to LGG etiology (such as synaptic transmission, nerve impulse and neurotransmitter pathways), to have significant associations with the corresponding imaging-based predictors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Quantifying T2-FLAIR mismatch using geographically weighted regression and predicting molecular status in lower-grade gliomas</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</guid>
       <description>&lt;p&gt;&lt;em&gt;American Journal of Neuroradiology&lt;/em&gt; (2021).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nominated for 2021 Lucien Levy Best Research Article.&lt;/strong&gt;&lt;/em&gt; &lt;a href=&#34;https://www.ajnrblog.org/2022/03/28/journal-announces-this-years-lucien-levy-best-research-article-award-winner-and-nominees/&#34;&gt;AJNR Blog Annoucement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nominated for 2021 Lucien Levy Best Research Article.&lt;/strong&gt; (&lt;a href=&#34;https://www.ajnrblog.org/2022/03/28/journal-announces-this-years-lucien-levy-best-research-article-award-winner-and-nominees/&#34;&gt;AJNR Blog Annoucement&lt;/a&gt;)&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Background and Purpose&lt;/em&gt;. T2-FLAIR mismatch sign is a validated imaging sign of IDH-mutant 1p/19q non-codeleted gliomas. It is identified by radiologists through visual inspection of pre-operative MRI scans, and has been shown to identify IDH-mutant 1p/19q non-codeleted gliomas with high positive predictive value. We have developed an approach to quantify the T2-FLAIR mismatch signature, and use it to predict molecular status of lower-grade gliomas (LGG).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Materials and Methods&lt;/em&gt;. We used multi-parametric MRI scans and segmentation labels of 108 pre-operative LGG tumors from The Cancer Imaging Archive. Clinical information and T2-FLAIR mismatch sign labels were obtained from supplementary material of relevant publications. We adopted an objective analytical approach to estimate this sign through a geographically weighted regression (GWR), and use the residuals for each case to construct a probability density function (serving as residual signature). These functions are then analyzed using an appropriate statistical framework.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results&lt;/em&gt;. We observe statistically significant (p-value = 0.05) differences between the averages of residual signatures for IDH-mutated 1p/19q non-codeleted class of tumors versus other categories. Our classifier predicts these cases with area under the curve (AUC) of 0.98, high specificity and sensitivity. It also predicts T2-FLAIR mismatch sign within these cases with an AUC of 0.93.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;. Based on this retrospective study, we show that GWR-based residual signatures are highly informative of T2-FLAIR mismatch sign, and can identify IDH mutation and 1p/19q codeletion status with high predictive power. The utility of proposed quantification of T2-FLAIR mismatch sign can be potentially validated through a prospective multi-institutional study.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tumor radiogenomics with Bayesian layered variable selection</title>
-      <link>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;We propose a statistical framework to integrate radiological magnetic resonance imaging (MRI) and genomic data to identify the underlying radiogenomic associations in lower grade gliomas (LGG). We devise a novel imaging phenotype by dividing the tumor region into concentric spherical layers that mimics the tumor evolution process. MRI data within each layer is represented by voxel&amp;ndash;intensity-based probability density functions which capture the complete information about tumor heterogeneity. Under a Riemannian-geometric framework these densities are mapped to a vector of principal component scores which act as imaging phenotypes. Subsequently, we build Bayesian variable selection models for each layer with the imaging phenotypes as the response and the genomic markers as predictors. Our novel hierarchical prior formulation incorporates the interior-to-exterior structure of the layers, and the correlation between the genomic markers. We employ a computationally-efficient Expectation&amp;ndash;Maximization-based strategy for estimation. Simulation studies demonstrate the superior performance of our approach compared to other approaches. With a focus on the cancer driver genes in LGG, we discuss some biologically relevant findings. Genes implicated with survival and oncogenesis are identified as being associated with the spherical layers, which could potentially serve as early-stage diagnostic markers for disease monitoring, prior to routine invasive approaches.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
@@ -174,19 +405,6 @@ observations in predicting pseudoprogression using MRI.&lt;/p&gt;
       <description>&lt;p&gt;&lt;em&gt;Scandinavian Actuarial Journal&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In this paper we propose a statistical modeling framework that contributes to advancing methods for modeling insurance policy premium in the actuarial literature. Specification of separate frequency and severity models, accounting for territorial risk and performing accurate inference are some of the challenges actuaries face while modeling policy premium. We focus on building a methodology that builds parsimonious and interpretable models for modeling policy premium. Policy premiums are characterized to follow a semi-continuous probability distribution, featuring a non-zero probability mass at zero along with a positive continuous support. Interpretability is a concern when quantifying risks that policy premium face from spatial variation. Risk conferred from spatial sources is often treated as an unobserved. Commonly used strategies in the literature are known to successfully quantify the variation, but do not necessarily produce interpretable estimates. Furthermore, resorting to two-part frequency-severity models leaves the actuary indecisive about the specification of covariates and spatial effects. The proposed methods in the paper considers a more parsimonious approach by resorting to zero-adjusted models for policy premium, that models both the mean policy-premium and the associated dispersion around the mean. Quantification of variation from spatial sources is proposed for the mean model. Allowing for a non-constant dispersion across observations results in a better estimate of the underlying variability, producing superior estimates for coefficients. The novelty of the proposed approach lies in the framework developed, that allows for joint estimation of effect of policy or individual characteristics on both the mean policy premium and dispersion, while quantifying spatial variability in the mean model. The developed methods are applied to a database featuring policy premiums arising from the collision coverage in insurance policies for motor vehicles within the state of Connecticut, USA for the year 2008.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RADIOHEAD: Radiogenomic analysis incorporating tumor heterogeneity in imagine through densities</title>
-      <link>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Annals of Applied Statistics&lt;/em&gt; (2021).&lt;/p&gt;
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Recent technological advancements have enabled detailed investigation of associations between the molecular architecture and tumor heterogeneity, through multi-source integration of radiological imaging and genomic (radiogenomic) data. In this paper, we integrate and harness radiogenomic data in patients with lower grade gliomas (LGG), a type of brain cancer, in order to develop a regression framework called RADIOHEAD (RADIOgenomic analysis incorporating tumor HEterogeneity in imAging through Densities) to identify radiogenomic associations. Imaging data is represented through voxel intensity probability density functions of tumor sub-regions obtained from multimodal magnetic resonance imaging, and genomic data through molecular signatures in the form of pathway enrichment scores corresponding to their gene expression profiles. Employing a Riemannian-geometric framework for principal component analysis on the set of probability densities functions, we map each probability density to a vector of principal component scores, which are then included as predictors in a Bayesian regression model with the pathway enrichment scores as the response. Variable selection compatible with the grouping structure amongst the predictors induced through the tumor sub-regions is carried out under a group spike-and-slab prior. A Bayesian false discovery rate mechanism is then used to infer significant associations based on the posterior distribution of the regression coefficients. Our analyses reveal several pathways relevant to LGG etiology (such as synaptic transmission, nerve impulse and neurotransmitter pathways), to have significant associations with the corresponding imaging-based predictors.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -198,19 +416,28 @@ observations in predicting pseudoprogression using MRI.&lt;/p&gt;
       <description>&lt;p&gt;&lt;em&gt;Canadian Journal of Statistics&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;We present a scalable Bayesian modeling approach for identifying brain regions that respond to a certain stimulus and use them to classify subjects. We specifically deal with multi-subject electroencephalography (EEG) data with a binary response distinguishing between alcoholic and control groups. The covariates are matrix-variate with measurements taken for each subject at different locations across multiple time points. EEG data has a complex structure with both spatial and temporal attributes to it. We use a divide-and-conquer strategy to build multiple local models, that is, one model at each time point separately. We employ Bayesian variable selection approaches using a structured continuous spike-and-slab prior to identify the locations which respond to a certain stimulus. We incorporate the spatio-temporal structure through a Kronecker product of the spatial and temporal correlation matrices. We develop a highly scalable estimation algorithm using likelihood approximation to deal with large number of parameters in the model. Variable selection is done via clustering of the locations based on their duration of activation. We use scoring rules to evaluate the prediction performance. We perform simulation studies to demonstrate the efficiency of our scalable algorithm in terms of estimation and fast computation. We present results using our scalable approach for a case study on multi-subject EEG data.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Discriminating pseudoprogression and true progression in diffuse infiltrating glioma using multi-parametric MRI data through deep learning</title>
       <link>https://shariq-mohammed.github.io/publication/lee2020discriminating/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/lee2020discriminating/</guid>
       <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Differentiating pseudoprogression from true tumor progression has become a significant challenge in follow-up of diffuse infiltrating gliomas, particularly high grade, which leads to a potential treatment delay for patients with early glioma recurrence. In this study, we proposed to use a multiparametric MRI data as a sequence input for the convolutional neural network with the recurrent neural network based deep learning structure to discriminate between pseudoprogression and true tumor progression. In this study, 43 biopsy-proven patient data identified as diffuse infiltrating glioma patients whose disease progressed/recurred were used. The dataset consists of five original MRI sequences; pre-contrast T1-weighted, post-contrast T1-weighted, T2-weighted, FLAIR, and ADC images as well as two engineered sequences; T1post – T1pre and T2 – FLAIR. Next, we used three CNN-LSTM models with a different set of sequences as input sequences to pass through CNN-LSTM layers. We performed 3-fold cross-validation in the training dataset and generated the boxplot, accuracy, and ROC curve, AUC from each trained model with the test dataset to evaluate models. The mean accuracy for VGG16 models ranged from 0.44 to 0.60 and the mean AUC ranged from 0.47 to 0.59. For CNN-LSTM model, the mean accuracy ranged from 0.62 to 0.75 and the mean AUC ranged from 0.64 to 0.81. The performance of the proposed CNN-LSTM with multiparametric sequence data was found to outperform the popular convolutional CNN with a single MRI sequence. In conclusion, incorporating all available MRI sequences into a sequence input for a CNN-LSTM model improved diagnostic performance for discriminating between pseudoprogression and true tumor progression.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Differentiating pseudoprogression from true tumor progression has become a significant challenge in follow-up of diffuse infiltrating gliomas, particularly high grade, which leads to a potential treatment delay for patients with early glioma recurrence. In this study, we proposed to use a multiparametric MRI data as a sequence input for the convolutional neural network with the recurrent neural network based deep learning structure to discriminate between pseudoprogression and true tumor progression. In this study, 43 biopsy-proven patient data identified as diffuse infiltrating glioma patients whose disease progressed/recurred were used. The dataset consists of five original MRI sequences; pre-contrast T1-weighted, post-contrast T1-weighted, T2-weighted, FLAIR, and ADC images as well as two engineered sequences; T1post–T1pre and T2–FLAIR. Next, we used three CNN-LSTM models with a different set of sequences as input sequences to pass through CNN-LSTM layers. We performed threefold cross-validation in the training dataset and generated the boxplot, accuracy, and ROC curve, AUC from each trained model with the test dataset to evaluate models. The mean accuracy for VGG16 models ranged from 0.44 to 0.60 and the mean AUC ranged from 0.47 to 0.59. For CNN-LSTM model, the mean accuracy ranged from 0.62 to 0.75 and the mean AUC ranged from 0.64 to 0.81. The performance of the proposed CNN-LSTM with multiparametric sequence data was found to outperform the popular convolutional CNN with a single MRI sequence. In conclusion, incorporating all available MRI sequences into a sequence input for a CNN-LSTM model improved diagnostic performance for discriminating between pseudoprogression and true tumor progression.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Density-based classification in diabetic retinopathy through thickness of retinal layers from optical coherence tomography</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2020density/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2020density/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2020).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Diabetic retinopathy (DR) is a severe retinal disorder that can lead to vision loss, however, its underlying mechanism has not been fully understood. Previous studies have taken advantage of Optical Coherence Tomography (OCT) and shown that the thickness of individual retinal layers are affected in patients with DR. However, most studies analyzed the thickness by calculating summary statistics from retinal thickness maps of the macula region. This study aims to apply a density function-based statistical framework to the thickness data obtained through OCT, and to compare the predictive power of various retinal layers to assess the severity of DR. We used a prototype data set of 107 subjects which are comprised of 38 non-proliferative DR (NPDR), 28 without DR (NoDR), and 41 controls. Based on the thickness profiles, we constructed novel features which capture the variation in the distribution of the pixel-wise retinal layer thicknesses from OCT. We quantified the predictive power of each of the retinal layers to distinguish between all three pairwise comparisons of the severity in DR (NoDR vs NPDR, controls vs NPDR and controls vs NoDR). When applied to this preliminary DR data set, our density-based method demonstrated better predictive results compared with simple summary statistics. Furthermore, our results indicate considerable differences in retinal layer structuring based on the severity of DR. We found that: (a) the outer plexiform layer is the most discriminative layer for classifying NoDR vs NPDR; (b) the outer plexiform, inner nuclear and ganglion cell layers are the strongest biomarkers for discriminating controls from NPDR; and (c) the inner nuclear layer distinguishes best between controls and NoDR.&lt;/p&gt;
 </description>
     </item>
     
@@ -222,65 +449,48 @@ observations in predicting pseudoprogression using MRI.&lt;/p&gt;
       <description>&lt;p&gt;&lt;em&gt;NeuroImage: Clinical&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In cancer radiomics, textural features evaluated from image intensity-derived gray-level co-occurrence matrices (GLCMs) have been studied to evaluate gray-level spatial dependence within the regions of interest in the brain. Most of these analysis work with summary statistics (or texture-based features) constructed using the GLCM entries, and potentially overlook other structural properties in the GLCM.  In our proposed Bayesian framework, we treat each GLCM  as a realization of a two-dimensional stochastic functional process observed with error at discrete time points. The latent process is then combined with the outcome model to evaluate the prediction performance. We use simulation studies to assess the performance of our method and apply it to data collected from individuals with lower grade gliomas. We found our approach to outperform competing methods that use only summary statistics to predict isocitrate dehydrogenase (IDH) mutation status.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Density-based classification in diabetic retinopathy through thickness of retinal layers from optical coherence tomography</title>
-      <link>https://shariq-mohammed.github.io/publication/mohammed2020density/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/mohammed2020density/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt; (2020).&lt;/p&gt;
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Diabetic retinopathy (DR) is a severe retinal disorder that can lead to vision loss, however, its underlying mechanism has not been fully understood. Previous studies have taken advantage of Optical Coherence Tomography (OCT) and shown that the thickness of individual retinal layers are affected in patients with DR. However, most studies analyzed the thickness by calculating summary statistics from retinal thickness maps of the macula region. This study aims to apply a density function-based statistical framework to the thickness data obtained through OCT, and to compare the predictive power of various retinal layers to assess the severity of DR. We used a prototype data set of 107 subjects which are comprised of 38 non-proliferative DR (NPDR), 28 without DR (NoDR), and 41 controls. Based on the thickness profiles, we constructed novel features which capture the variation in the distribution of the pixel-wise retinal layer thicknesses from OCT. We quantified the predictive power of each of the retinal layers to distinguish between all three pairwise comparisons of the severity in DR (NoDR vs NPDR, controls vs NPDR and controls vs NoDR). When applied to this preliminary DR data set, our density-based method demonstrated better predictive results compared with simple summary statistics. Furthermore, our results indicate considerable differences in retinal layer structuring based on the severity of DR. We found that: (a) the outer plexiform layer is the most discriminative layer for classifying NoDR vs NPDR; (b) the outer plexiform, inner nuclear and ganglion cell layers are the strongest biomarkers for discriminating controls from NPDR; and (c) the inner nuclear layer distinguishes best between controls and NoDR.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Classification of high-dimensional electroencephalography data with location selection using structured spike-and-slab prior</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2020classification/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2020classification/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Invited for Statistical Analysis and Data Mining Best Paper Session at Joint Statistical Meetings 2022.&lt;/strong&gt;&lt;/em&gt; &lt;a href=&#34;https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221965&#34;&gt;JSM 2022 Program&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Invited for Statistical Analysis and Data Mining Best Paper Session at Joint Statistical Meetings 2022.&lt;/strong&gt; (&lt;a href=&#34;https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221965&#34;&gt;JSM 2022 Program&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Statistical Analysis and Data Mining: The ASA Data Science Journal&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;With the advent of modern technologies, it is increasingly common to deal with data of large dimensions in various scientific fields of study. In this paper, we develop a Bayesian approach for the classification of multi-subject high-dimensional electroencephalography (EEG) data. In this EEG data, we have a matrix of covariates corresponding to each subject from either the alcoholic or control group. The matrix covariates have a natural spatial correlation based on the locations of the brain, and temporal correlation as the measurements are taken over time. We employ a divide and conquer strategy by building multiple local Bayesian models at each time point separately. We incorporate the spatial structure through the structured spike-and-slab prior, which has inherent variable selection properties. The temporal structure is incorporated within the prior by learning from the local model from the previ- ous time point. We pool the information from the local models and use a weighted average to design a prediction method. We perform simulation studies to show the efficiency of our approach and demonstrate the local Bayesian modeling with a case study on EEG data.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;With the advent of modern technologies, it is increasingly common to deal with data of large dimensions in various scientific fields of study. In this paper, we develop a Bayesian approach for the classification of multi-subject high-dimensional electroencephalography (EEG) data. In this EEG data, we have a matrix of covariates corresponding to each subject from either the alcoholic or control group. The matrix covariates have a natural spatial correlation based on the locations of the brain, and temporal correlation as the measurements are taken over time. We employ a divide and conquer strategy by building multiple local Bayesian models at each time point separately. We incorporate the spatial structure through the structured spike-and-slab prior, which has inherent variable selection properties. The temporal structure is incorporated within the prior by learning from the local model from the previous time point. We pool the information from the local models and use a weighted average to design a prediction method. We perform simulation studies to show the efficiency of our approach and demonstrate the local Bayesian modeling with a case study on EEG data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms</title>
+      <title>Predictions, Role of Interventions, and Effects of a Historic National Lockdown in India&#39;s Response to the COVID-19 Pandemic: Data Science Call to Arms</title>
       <link>https://shariq-mohammed.github.io/publication/ray2020predictions/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/ray2020predictions/</guid>
       <description>&lt;p&gt;&lt;em&gt;Harvard Data Science Review&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;With only 536 cases and 11 fatalities, India took the historic decision of a 21-day national lockdown on March 25. The lockdown was first extended to May 3 soon after the analysis of this paper was completed, and then to May 18 while this paper was being revised. In this paper, we use a Bayesian extension of the Susceptible-Infected-Removed (eSIR) model designed for intervention forecasting to study the short- and long-term impact of an initial 21-day lockdown on the total number of COVID-19 infections in India compared to other less severe non-pharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its healthcare and disease-monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown between 42-56 days is preferable to substantially “flatten the curve” when compared to 21-28 days of lockdown. Our models focus solely on projecting the number of COVID-19 infections and thus, inform policymakers about one aspect of this multi-faceted decision-making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods and tools that can enable data-driven policymaking during a pandemic. Our software products are available at &lt;a href=&#34;covind19.org&#34;&gt;covind19.org&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;With only 536 COVID‑19 cases and 11 fatalities, India took the historic decision of a 21‑day national lockdown on March 25, 2020. The lockdown was first extended to May 3 soon after the analysis of this article was completed, and then to May 18 while this article was being revised. In this article, we use a Bayesian extension of the susceptible‑infected‑removed (eSIR) model designed for intervention forecasting to study the short‑ and long‑term impact of an initial 21‑day lockdown on the total number of COVID‑19 infections in India compared to other, less severe nonpharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its health care and disease‑monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown from 42–56 days is preferable to substantially “flatten the curve” when compared to 21–28 days of lockdown. Our models focus solely on projecting the number of COVID‑19 infections and thus inform policymakers about one aspect of this multifaceted decision‑making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods, and tools that can enable data‑driven policymaking during a pandemic. Our software products are available at covind19.org.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Regional contact networks and the pandemic spread of COVID-19 in India</title>
-      <link>https://shariq-mohammed.github.io/posts/bhattacharyya2020regional/</link>
+      <link>https://shariq-mohammed.github.io/publication/bhattacharyya2020regional_post/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/bhattacharyya2020regional/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/bhattacharyya2020regional_post/</guid>
       <description>&lt;p&gt;Predictions to enable State-level Surge Preparedness in moving from Containment to Mitigation.&lt;/p&gt;
 &lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@veerab_12080/regional-contact-networks-and-the-pandemic-spread-of-covid-19-in-india-28b3b3aa2161&#34;&gt;found here&lt;/a&gt;. To explore the results under different scenarios for the spread of infection, we have developed an R Shiny app which can be accessed &lt;a href=&#34;https://bayesrx.shinyapps.io/COV-N/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Covid-19: India must urgently manage regional contact networks</title>
-      <link>https://shariq-mohammed.github.io/posts/baladandayuthapani2020covid/</link>
+      <link>https://shariq-mohammed.github.io/publication/baladandayuthapani2020covid_post/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/baladandayuthapani2020covid/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/baladandayuthapani2020covid_post/</guid>
       <description>&lt;p&gt;An Op-Ed on bloombergquint.com can be &lt;a href=&#34;https://www.bloombergquint.com/coronavirus-outbreak/covid-19-india-must-urgently-manage-regional-contact-networks&#34;&gt;found here&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -289,7 +499,7 @@ observations in predicting pseudoprogression using MRI.&lt;/p&gt;
       <link>https://shariq-mohammed.github.io/publication/matuk2020biomedical/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/matuk2020biomedical/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Handbook of Variational Methods for Nonlinear Geometric Data&lt;/em&gt; - Springer (2020).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Handbook of Variational Methods for Nonlinear Geometric Data&lt;/em&gt; — Springer (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In this chapter, we describe several biomedical applications of geometric functional data analysis methods for modeling probability density functions, amplitude and phase components in functional data, and shapes of curves and surfaces. We begin by reviewing parameterization-invariant Riemannian metrics and corresponding simplifying square-root transforms for each case. These tools allow for computationally efficient implementations of statistical procedures on the appropriate representation spaces, including computation of the Karcher mean and exploration of variability via principal component analysis. We then showcase applications of these tools in multiple biomedical case studies based on various datasets including Glioblastoma Multiforme tumors, Diffusion Tensor Magnetic Resonance Image-based white matter tracts and fractional anisotropy functions, electrocardiogram signals, endometrial tissue surfaces and subcortical surfaces in the brain.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -298,37 +508,24 @@ observations in predicting pseudoprogression using MRI.&lt;/p&gt;
     
     <item>
       <title>Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of virus in India</title>
-      <link>https://shariq-mohammed.github.io/posts/salvatore2020historic/</link>
+      <link>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/salvatore2020historic/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/historic-lockdown-prediction-models-to-study-lockdown-effects-and-the-role-of-data-in-the-crisis-a0afeeec5a6&#34;&gt;found here&lt;/a&gt;. Daily updates of the plots can be found on the &lt;a href=&#34;https://umich-biostatistics.shinyapps.io/covid19/&#34;&gt;R shiny app here&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Predictions and role of interventions for COVID-19 outbreak in India</title>
-      <link>https://shariq-mohammed.github.io/posts/ray2020predictions/</link>
+      <link>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/ray2020predictions/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/predictions-and-role-of-interventions-for-covid-19-outbreak-in-india-52903e2544e6&#34;&gt;found here&lt;/a&gt;. The full report can be &lt;a href=&#34;https://sph.umich.edu/precision-health-data-science/research/pdf/COVReport_Final_20200320.pdf&#34;&gt;downloaded here&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
-      <title>Spatial risk estimation in Tweedie compound Poisson double generalized linear models</title>
-      <link>https://shariq-mohammed.github.io/publication/halder2019spatial/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/halder2019spatial/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Tweedie exponential dispersion family constitutes a fairly rich sub-class of the celebrated exponential family. In particular, a member, compound Poisson gamma (CP-g) model has seen extensive use over the past decade for modeling mixed response featuring exact zeros with a continuous response from a gamma distribution. This paper proposes a framework to perform residual analysis on CP-g double generalized linear models for spatial uncertainty quantification. Approximations are introduced to proposed framework making the procedure scalable, without compromise in accuracy of estimation and model complexity; accompanied by sensitivity analysis to model mis-specification. Proposed framework is applied to modeling spatial uncertainty in insurance loss costs arising from automobile collision coverage. Scalability is demonstrated by choosing sizable spatial reference domains comprised of groups of states within the United States of America.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computational Biotatistics and Survival Analysis</title>
+      <title>Computational Biostatistics and Survival Analysis</title>
       <link>https://shariq-mohammed.github.io/teaching/cbsa2019/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/teaching/cbsa2019/</guid>
@@ -404,23 +601,21 @@ observations in predicting pseudoprogression using MRI.&lt;/p&gt;
       <guid>https://shariq-mohammed.github.io/publication/mohammed2019bayesian/</guid>
       <description>&lt;p&gt;&lt;em&gt;Journal of the Royal Statistical Society: Series C (Applied Statistics)&lt;/em&gt; (2019).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Because of the immense technological advances, very often we encounter data in high dimensions. Any set of measurements taken at multiple time points for multiple subjects leads to data of more than two dimensions (a matrix of covariates for each subject). We present a Bayesian variable‐selection method to identify the active regions in the brain as a response to a certain stimulus. We build binary classification models of subject level responses by using binary regression with Gaussian models on the latent variables. We also study the scaled normal priors on the latent variables, as they cover a large family of distributions. We use continuous spike‐and‐slab priors to incorporate variable selection within the modelling. Because of the computational complexity, we build many local (at different time points) models and make predictions by utilizing the temporal structure between the local models. We perform two‐stage variable selection for each of these local models. We demonstrate the effectiveness of such modelling through the results of a simulation study. We then present the performance of these models on multisubject neuroimaging (electroencephalography) data to study the effects on the functional states of the frontal cortex and parietal lobe for chronic exposure of alcohol.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Because of the immense technological advances, very often we encounter data in high dimensions. Any set of measurements taken at multiple time points for multiple subjects leads to data of more than two dimensions (a matrix of covariates for each subject). We present a Bayesian variable‐selection method to identify the active regions in the brain as a response to a certain stimulus. We build binary classification models of subject level responses by using binary regression with Gaussian models on the latent variables. We also study the scaled normal priors on the latent variables, as they cover a large family of distributions. We use continuous spike‐and‐slab priors to incorporate variable selection within the modelling. Because of the computational complexity, we build many local (at different time points) models and make predictions by utilizing the temporal structure between the local models. We perform two‐stage variable selection for each of these local models. We demonstrate the effectiveness of such modelling through the results of a simulation study. We then present the performance of these models on multisubject neuroimaging (electroencephalography) data to study the effects on the functional states of the frontal cortex and parietal lobe for chronic exposure of alcohol. &lt;a href=&#34;https://academic.oup.com/jrsssc/article/68/5/1305/7058603&#34;&gt;1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Assessing malaria using neutral zone classifiers with mixture discriminant analysis on 2D images of red blood cells</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2019assessing/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2019assessing/</guid>
       <description>&lt;p&gt;&lt;em&gt;Journal of Biostatistics and Epidemiology&lt;/em&gt; (2019).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Background and Aim: We aim to build a classifier to distinguish between malaria-infected red blood cells (RBCs) and healthy cells using the two-dimensional (2D) microscopic images of RBCs. We demonstrate the process of cell segmentation and feature extraction from the 2D images.&lt;/p&gt;
-&lt;p&gt;Methods and Materials: We describe an approach to address the problem using mixture discriminant analysis (MDA) on the 2D image profiles of the RBCs. The extracted features are used with Gaussian MDA to distinguish between healthy and malaria infected cells. We also use the neutral zone classifiers where ambiguous cases are identified separately by the classifier.&lt;/p&gt;
-&lt;p&gt;Results: We compare the classification results from the regular classifiers such as linear discriminant analysis (LDA) or MDA and the methods where neutral zone classifiers are used. We see that including the neutral zone improves the classification results by controlling the false positive and false negatives. The number of misclassifications are seen to be lower than the case without neutral zone classifiers.&lt;/p&gt;
-&lt;p&gt;Conclusion: This paper presents an alternative approach for classification by incorporating neutral zone classifier approach, where a prediction is not made for the ambiguous cases. From the data analysis we see that this approach based on neutral zone classifiers presents a useful alternative in classification problems for various applications.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Background and Aim:&lt;/strong&gt; We aim to build a classifier to distinguish between malaria-infected red blood cells (RBCs) and healthy cells using the two-dimensional (2D) microscopic images of RBCs. We demonstrate the process of cell segmentation and feature extraction from the 2D images.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods and Materials:&lt;/strong&gt; We describe an approach to address the problem using mixture discriminant analysis (MDA) on the 2D image profiles of the RBCs. The extracted features are used with Gaussian MDA to distinguish between healthy and malaria infected cells. We also use the neutral zone classifiers where ambiguous cases are identified separately by the classifier.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; We compare the classification results from the regular classifiers such as linear discriminant analysis (LDA) or MDA and the methods where neutral zone classifiers are used. We see that including the neutral zone improves the classification results by controlling the false positive and false negatives. The number of misclassifications are seen to be lower than the case without neutral zone classifiers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; This paper presents an alternative approach for classification by incorporating neutral zone classifier approach, where a prediction is not made for the ambiguous cases. From the data analysis we see that this approach based on neutral zone classifiers presents a useful alternative in classification problems for various applications.&lt;/p&gt;
 </description>
     </item>
     
@@ -466,180 +661,11 @@ observations in predicting pseudoprogression using MRI.&lt;/p&gt;
     <item>
       <title>A dynamical systems approach to systemic risk in a financial network</title>
       <link>https://shariq-mohammed.github.io/publication/bhat2016dynamical/</link>
-      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/bhat2016dynamical/</guid>
-      <description>&lt;p&gt;In &lt;em&gt;2016 Indian Control Conference (ICC)&lt;/em&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;The insolvency of a financial entity such as a bank can trigger a sequence of defaults in a network of financial entities interconnected through mutual financial obligations, thus posing a systemic risk to all the financial entities that make up the network. This paper studies the well-known Eisenberg-Noe model for systemic risk from a dynamical systems perspective. In particular, we model the sequence of defaults in the form of a dynamical system, and provide results on its stability and asymptotic behavior.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shariq-mohammed.github.io/awards_service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/awards_service/</guid>
-      <description>&lt;h1 id=&#34;awards&#34;&gt;Awards&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;BU SPH Early Career Catalyst Award&lt;/li&gt;
-&lt;li&gt;Precision Health Scholars Award - University of Michigan&lt;/li&gt;
-&lt;li&gt;At University of Connecticut
-&lt;ul&gt;
-&lt;li&gt;Doctoral Dissertation Fellowship&lt;/li&gt;
-&lt;li&gt;Doctoral Student Travel Award&lt;/li&gt;
-&lt;li&gt;Predoctoral Dissertation Fellowship&lt;/li&gt;
-&lt;li&gt;Matthew M. Goldstein Graduate Fellowship&lt;/li&gt;
-&lt;li&gt;Multiple conference travel grants&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Chennai Mathematical Institute Medal of Excellence&lt;/li&gt;
-&lt;li&gt;INSPIRE Scholarship for Higher Education (2009-2014) - Ministry of Science &amp;amp; Technology, Government of India&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;service&#34;&gt;Service&lt;/h1&gt;
-&lt;h2 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Annals of Applied Statistics&lt;/li&gt;
-&lt;li&gt;Biometrics&lt;/li&gt;
-&lt;li&gt;Biostatistics&lt;/li&gt;
-&lt;li&gt;Clinical Cancer Informatics&lt;/li&gt;
-&lt;li&gt;Harvard Data Science Review&lt;/li&gt;
-&lt;li&gt;Journal of the American Heart Association&lt;/li&gt;
-&lt;li&gt;Journal of the American Medical Informatics Association&lt;/li&gt;
-&lt;li&gt;Spatial Statistics&lt;/li&gt;
-&lt;li&gt;STAT&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;professional-societies&#34;&gt;Professional Societies&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;International Indian Statistical Association (IISA)&lt;/li&gt;
-&lt;li&gt;International Society for Bayesian Analysis (ISBA)&lt;/li&gt;
-&lt;li&gt;New England Statistical Society (NESS)&lt;/li&gt;
-&lt;li&gt;American Statistical Association (ASA)&lt;/li&gt;
-&lt;li&gt;International Biometric Society: Eastern North American Region (ENAR)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;organizer-invited-sessions&#34;&gt;Organizer (Invited Sessions)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;International Indian Statistical Association Annual Conference 2022&lt;/li&gt;
-&lt;li&gt;Joint Statistical Meetings 2022&lt;/li&gt;
-&lt;li&gt;New England Statistics Symposium 2022&lt;/li&gt;
-&lt;li&gt;Joint Statistical Meetings 2021&lt;/li&gt;
-&lt;li&gt;ENAR Spring Meeting 2021&lt;/li&gt;
-&lt;li&gt;Joint Statistical Meetings 2020&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;leadership-roles&#34;&gt;Leadership Roles&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Founding Co-Organizer&lt;/em&gt;, IISA Statistics and Data Science Innovations Webinar Series&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Co-Organizer&lt;/em&gt;, Biostatistics Department Seminar, Boston University&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Member&lt;/em&gt;, IISA Membership &amp;amp; Outreach Committee&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;previous&#34;&gt;Previous&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Executive Committee Member&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;Statistics Graduate Student Committee, University of Connecticut&lt;/li&gt;
-&lt;li&gt;Tarang (South Asian cultural organisation), University of Connecticut&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Student Committee Member&lt;/em&gt;, 31st New England Statistics Symposium, University of Connecticut&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Senator&lt;/em&gt;, UConn Graduate Student Senate, University of Connecticut&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Member&lt;/em&gt;, Faculty Standards Committee, University of Connecticut Senate&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://shariq-mohammed.github.io/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/talks/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Classification of high-dimensional electroencephalography data with location selection using structured spike-and-slab prior&lt;/em&gt; (Poster)
-&lt;ul&gt;
-&lt;li&gt;Joint Statistical Meetings 2022, Washington, DC &lt;em&gt;August 2022&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Density-based classification in diabetic retinopathy through thickness of retinal layers from optical coherence tomography&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;Joint Statistical Meetings 2022, Washington, DC &lt;em&gt;August 2022&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Quantifying T2-FLAIR Mismatch in Gliomas Using Geographically Weighted Regression and Density Functions&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;22nd Meeting of New Researchers in Statistics and Probability, George Mason University, Fairfax, Virginia &lt;em&gt;August 2022&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;35th New England Statistics Symposium, UConn &lt;em&gt;May 2022&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Statistical methods for biomedical imaging and digital data analysis&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;BU Biostatistics Research Blitz, Boston, Massachusetts &lt;em&gt;March 2022&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Layered variable selection for multivariate Bayesian regression: A case study in imaging genomics&lt;/em&gt; (Alternate title: Tumor radiogenomics with Bayesian layered variable selection)
-&lt;ul&gt;
-&lt;li&gt;BU Epidemiology Seminar, Boston, Massachusetts &lt;em&gt;March 2022&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Joint Statistical Meetings 2021 - Virtual. &lt;em&gt;August 2021&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;ENAR Spring Meeting - Virtual. &lt;em&gt;March 2021&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Computational Biostatistics and Biomedical Imaging Data Analysis&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;Tech Talks 1.0 by Student&amp;rsquo;s Association of Artificial Intelligence and Data Science, G H Raisoni College of Engineering and Management, Pune, India - Virtual &lt;em&gt;February 2022&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;RADIOHEAD: Radiogenomic analysis incorporating tumor heterogeneity in imaging through densities&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;The Fifth Eastern Asia Chapter&amp;ndash;The International Society for Bayesian Analysis Conference: A Satellite Meeting of the 2020 ISBA World Meeting to Celebrate James O Berger&amp;rsquo;s 70th Birthday&amp;quot; - Virtual &lt;em&gt;November 2021&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Biostatistics Student Association Seminar, Boston, Massachusetts &lt;em&gt;November 2021&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Center for Computational Mathematics Seminar, Flatiron Institute, Simons Foundation, New York - Virtual &lt;em&gt;June 2021&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Statistical Methods in Imaging Conference - Virtual. &lt;em&gt;May 2021&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;2020 University of Michigan Precision Health Symposium - Virtual. (Poster) &lt;em&gt;August 2020&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Joint Statistical Meetings 2020 - Virtual. &lt;em&gt;August 2020&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;ENAR Spring Meeting, Nashville, Tennessee. &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;IISA Annual Conference, Mumbai, India. &lt;em&gt;December 2019&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Biostatistics Career Development panel discussion on &amp;lsquo;Academic Career Path&amp;rsquo;&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;Department of Biostatistics, Boston University, Boston. &lt;em&gt;October 2021&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Density-based classification using images: Application to diabetic retinopathy&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;Precision Health Seminar (Pharmacy 217), University of Michigan-Ann Arbor. &lt;em&gt;February 2021&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;StatChat 2020: Panel discussions with undergraduate and masters students on career and academic perspectives in statistics and data science&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;NMIMS Sunandan Divatia School of Science - Virtual. &lt;em&gt;August &amp;amp; September 2020&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Understanding COVID-19 dynamics via individual-level temporal and network modeling: Lessons from India and China&lt;/em&gt; (joint presentation with Dr. Zhenke Wu, Rupam Bhattacharyya and Dr. Veerabhadran Baladandayuthapani)
-&lt;ul&gt;
-&lt;li&gt;MIDAS COVID-19 Special Seminar Series, University of Michigan-Ann Arbor. &lt;em&gt;June 2020&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Integrative statistical modeling approaches for imaging-genomics data&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;Precision Health Seminar (Pharmacy 217), University of Michigan-Ann Arbor. &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Tools and Technology Seminar, University of Michigan-Ann Arbor. &lt;em&gt;March 2020&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Bayesian variable selection using spike-and-slab prior with application to high-dimensional EEG data&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;ENAR Spring Meeting, Philadelphia, Pennsylvania. &lt;em&gt;March 2019&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Joint Statistical Meetings, Vancouver, Canada. &lt;em&gt;July 2018&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Symposium on Data Science and Statistics, Reston, Virginia. &lt;em&gt;May 2018&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;BayesComp 2018, Barcelona, Spain. (Poster) &lt;em&gt;March 2018&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;IISA Annual Conference, Hyderabad, India. &lt;em&gt;December 2017&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;34th Quality and Productivity Research Conference, University of Connecticut. (Poster) &lt;em&gt;June 2017&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Modeling of large insurance claims and occurrence data&lt;/em&gt;
-&lt;ul&gt;
-&lt;li&gt;31st New England Statistics Symposium, University of Connecticut. &lt;em&gt;April 2017&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;p&gt;&lt;em&gt;Indian Control Conference (ICC 2016) Proceedings&lt;/em&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The insolvency of a financial entity such as a bank can trigger a sequence of defaults in a network of financial entities interconnected through mutual financial obligations, thus posing a systemic risk to all the financial entities that make up the network. This paper studies the well-known Eisenberg–Noe model for systemic risk from a dynamical systems perspective. In particular, we model the sequence of defaults in the form of a dynamical system, and provide results on its stability and asymptotic behavior.&lt;/p&gt;
 </description>
     </item>
     

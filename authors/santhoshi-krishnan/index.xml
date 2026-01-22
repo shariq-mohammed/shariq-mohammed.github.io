@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santhoshi Krishnan | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/authors/santhoshi-krishnan/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/santhoshi-krishnan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Santhoshi Krishnan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Santhoshi Krishnan</title>
+      <link>https://shariq-mohammed.github.io/authors/santhoshi-krishnan/</link>
+    </image>
+    
+    <item>
+      <title>Low‑parameter supervised learning models can discriminate pseudoprogression and true progression in non‑perfusion‑based MRI</title>
+      <link>https://shariq-mohammed.github.io/publication/warner2023low/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/warner2023low/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IEEE Engineering in Medicine and Biology Society (EMBS) Annual International Conference (EMBC) Proceedings&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Discrimination of pseudoprogression and true progression is challenging in malignant gliomas. We investigate low‑parametric supervised learning (geographically weighted regression; GWR) on widely available MRI modalities—including ADC—to distinguish pseudoprogression from true progression. Applying GWR to modality pairs is suitable for small samples and novel in this setting. Modality pairs involving ADC and those regressing post‑contrast T1 onto T2 showed promise. Results suggest the predictive benefit of ADC and motivate further study of relationships between post‑contrast T1 and T2.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

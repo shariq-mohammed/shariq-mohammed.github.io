@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/tags/applications/</link>
       <atom:link href="https://shariq-mohammed.github.io/tags/applications/index.xml" rel="self" type="application/rss+xml" />
     <description>Applications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Applications</title>
@@ -13,23 +13,28 @@
     </image>
     
     <item>
-      <title>Imaging and complex-structured data applications</title>
+      <title>Complex-structured data applications</title>
       <link>https://shariq-mohammed.github.io/research/applications/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/research/applications/</guid>
-      <description>&lt;p&gt;We develop statistical models to:&lt;/p&gt;
+      <description>&lt;p&gt;We design &lt;strong&gt;statistical models&lt;/strong&gt; and &lt;strong&gt;computational tools&lt;/strong&gt; that turn high‑dimensional, complex‑structured data into clinically meaningful insight.&lt;/p&gt;
+&lt;h3 id=&#34;what-we-do&#34;&gt;What we do?&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;identify associations between complex-structured data (imaging, spatial-genomic, geospatial, digital) from multi-platform data sources,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Create novel, interpretable, and useful features from complex data.&lt;/strong&gt;&lt;br&gt;
+We generate and derive feature sets that capture signal in digital data, spatial‑omic data, geospatial data, and imaging data, providing surrogate representations of complex data that power downstream discovery and decision‑making.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;predict clinical characteristics of interest by integrating biomarkers generated from complex-structured data, and&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Predict clinical phenotypes.&lt;/strong&gt;&lt;br&gt;
+We integrate biomarkers derived from complex‑structured data to build statistical and machine learning models to predict clinical characteristics that matter to patients and providers.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;understand the biological relevance and implications of our findings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explain the biology.&lt;/strong&gt;&lt;br&gt;
+We interpret model findings to understand their biological relevance and implications, closing the loop from data to mechanism to impact.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Our methods are developed in the context of various diseases such as cancer and neurodegenerative (Alzheimer&amp;rsquo;s) diseases.&lt;/p&gt;
+&lt;h3 id=&#34;where-it-matters&#34;&gt;Where it matters?&lt;/h3&gt;
+&lt;p&gt;Our methods are developed and evaluated in real clinical and public‑health contexts—including oncology (cancer) and neurodegenerative disease (with a focus on Dementia and Alzheimer’s disease)—to ensure the science translates to better decisions to improve patient and public health.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>

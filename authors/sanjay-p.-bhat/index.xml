@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/sanjay-p.-bhat/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/sanjay-p.-bhat/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanjay P. Bhat</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Sanjay P. Bhat</title>
@@ -15,12 +15,11 @@
     <item>
       <title>A dynamical systems approach to systemic risk in a financial network</title>
       <link>https://shariq-mohammed.github.io/publication/bhat2016dynamical/</link>
-      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/bhat2016dynamical/</guid>
-      <description>&lt;p&gt;In &lt;em&gt;2016 Indian Control Conference (ICC)&lt;/em&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;The insolvency of a financial entity such as a bank can trigger a sequence of defaults in a network of financial entities interconnected through mutual financial obligations, thus posing a systemic risk to all the financial entities that make up the network. This paper studies the well-known Eisenberg-Noe model for systemic risk from a dynamical systems perspective. In particular, we model the sequence of defaults in the form of a dynamical system, and provide results on its stability and asymptotic behavior.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;em&gt;Indian Control Conference (ICC 2016) Proceedings&lt;/em&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The insolvency of a financial entity such as a bank can trigger a sequence of defaults in a network of financial entities interconnected through mutual financial obligations, thus posing a systemic risk to all the financial entities that make up the network. This paper studies the well-known Eisenberg–Noe model for systemic risk from a dynamical systems perspective. In particular, we model the sequence of defaults in the form of a dynamical system, and provide results on its stability and asymptotic behavior.&lt;/p&gt;
 </description>
     </item>
     

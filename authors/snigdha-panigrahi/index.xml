@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/snigdha-panigrahi/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/snigdha-panigrahi/index.xml" rel="self" type="application/rss+xml" />
     <description>Snigdha Panigrahi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Snigdha Panigrahi</title>
@@ -13,15 +13,13 @@
     </image>
     
     <item>
-      <title>Integrative Bayesian models using post-selective inference: a case study in radiogenomics</title>
+      <title>Integrative Bayesian Models Using Post-Selective Inference: A Case Study in Radiogenomics</title>
       <link>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/panigrahi2020integrative/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Biometrics (Just Accepted)&lt;/em&gt;&lt;/p&gt;
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Identifying direct links between gene pathways and clinical endpoints for highly fatal diseases such as cancer is a formidable task. Integrative analyses play a crucial role in modeling these links by relying upon associations between a wealth of intermediary variables and genomic measurements. Motivated to harness phenotypic information about tumors towards a molecular characterization of low-grade gliomas, we develop a data driven Bayesian framework to define sharp models, and calibrate accurately and efficiently uncertainties associated with the promising biological findings.&lt;/p&gt;
-&lt;p&gt;The Bayesian methods we propose in the article (i) are amenable to a flexible class of adaptive models, determined via a complex interplay between signals sifted from variable selection algorithms and domain specific knowledge; (ii) have the advantage of computationally efficient high dimensional inference due to a focus on sharp models with fewer parameters, when compared to their non-adaptive counterparts; (iii) exhibit a significantly better reconciliation between model adaptivity and inferential power than state-of-art approaches, when constrained by the curse of dimensionality. Our main workforce involves a carefully constructed conditional likelihood and utilizes a reparameterization map to obtain compact formulae for a selection-corrected posterior. Deploying our methods to investigate radiogenomic characteristics for diffuse low-grade gliomas, we successfully uncover associations between several biologically important gene pathways and patient survival times.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;em&gt;Biometrics&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Integrative analyses based on statistically relevant associations between genomics and a wealth of intermediary phenotypes (such as imaging) provide vital insights into their clinical relevance in terms of the disease mechanisms. Estimates for uncertainty in the resulting integrative models are however unreliable unless inference accounts for the selection of these associations with accuracy. In this paper, we develop selection-aware Bayesian methods, which (1) counteract the impact of model selection bias through a “selection-aware posterior” in a flexible class of integrative Bayesian models post a selection of promising variables via $\ell_1$-regularized algorithms; (2) strike an inevitable trade-off between the quality of model selection and inferential power when the same data set is used for both selection and uncertainty estimation. Central to our methodological development, a carefully constructed conditional likelihood function deployed with a reparameterization mapping provides tractable updates when gradient-based Markov chain Monte Carlo (MCMC) sampling is used for estimating uncertainties from the selection-aware posterior. Applying our methods to a radiogenomic analysis, we successfully recover several important gene pathways and estimate uncertainties for their associations with patient survival times.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathaniel Osher | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/authors/nathaniel-osher/</link>
+      <atom:link href="https://shariq-mohammed.github.io/authors/nathaniel-osher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathaniel Osher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Nathaniel Osher</title>
+      <link>https://shariq-mohammed.github.io/authors/nathaniel-osher/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Analysis of Quantitative Cancer Imaging Data</title>
+      <link>https://shariq-mohammed.github.io/publication/mohammed2024statistical/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/mohammed2024statistical/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Statistics and Data Science in Imaging&lt;/em&gt; (2024).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Recent advances in medical imaging technologies have led to the proliferation of multimodal quantitative imaging data in cancer. Quantitative medical imaging data—numerical representations derived from radiology and pathology—enable precise characterization of tumor biology to assess progression, therapy response, and prognosis. However, analytical challenges arise due to high dimensionality, structural correlations, and heterogeneity. This review summarizes state‑of‑the‑art statistical methods for quantitative imaging—including topological, functional, and shape analyses; spatial process models; and modern ML—highlighting clinical applications in oncology and open problems for future research.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

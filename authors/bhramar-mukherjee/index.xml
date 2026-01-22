@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/bhramar-mukherjee/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/bhramar-mukherjee/index.xml" rel="self" type="application/rss+xml" />
     <description>Bhramar Mukherjee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Bhramar Mukherjee</title>
@@ -13,34 +13,31 @@
     </image>
     
     <item>
-      <title>Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms</title>
+      <title>Predictions, Role of Interventions, and Effects of a Historic National Lockdown in India&#39;s Response to the COVID-19 Pandemic: Data Science Call to Arms</title>
       <link>https://shariq-mohammed.github.io/publication/ray2020predictions/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/ray2020predictions/</guid>
       <description>&lt;p&gt;&lt;em&gt;Harvard Data Science Review&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;With only 536 cases and 11 fatalities, India took the historic decision of a 21-day national lockdown on March 25. The lockdown was first extended to May 3 soon after the analysis of this paper was completed, and then to May 18 while this paper was being revised. In this paper, we use a Bayesian extension of the Susceptible-Infected-Removed (eSIR) model designed for intervention forecasting to study the short- and long-term impact of an initial 21-day lockdown on the total number of COVID-19 infections in India compared to other less severe non-pharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its healthcare and disease-monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown between 42-56 days is preferable to substantially “flatten the curve” when compared to 21-28 days of lockdown. Our models focus solely on projecting the number of COVID-19 infections and thus, inform policymakers about one aspect of this multi-faceted decision-making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods and tools that can enable data-driven policymaking during a pandemic. Our software products are available at &lt;a href=&#34;covind19.org&#34;&gt;covind19.org&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;With only 536 COVID‑19 cases and 11 fatalities, India took the historic decision of a 21‑day national lockdown on March 25, 2020. The lockdown was first extended to May 3 soon after the analysis of this article was completed, and then to May 18 while this article was being revised. In this article, we use a Bayesian extension of the susceptible‑infected‑removed (eSIR) model designed for intervention forecasting to study the short‑ and long‑term impact of an initial 21‑day lockdown on the total number of COVID‑19 infections in India compared to other, less severe nonpharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its health care and disease‑monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown from 42–56 days is preferable to substantially “flatten the curve” when compared to 21–28 days of lockdown. Our models focus solely on projecting the number of COVID‑19 infections and thus inform policymakers about one aspect of this multifaceted decision‑making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods, and tools that can enable data‑driven policymaking during a pandemic. Our software products are available at covind19.org.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of virus in India</title>
-      <link>https://shariq-mohammed.github.io/posts/salvatore2020historic/</link>
+      <link>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/salvatore2020historic/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/historic-lockdown-prediction-models-to-study-lockdown-effects-and-the-role-of-data-in-the-crisis-a0afeeec5a6&#34;&gt;found here&lt;/a&gt;. Daily updates of the plots can be found on the &lt;a href=&#34;https://umich-biostatistics.shinyapps.io/covid19/&#34;&gt;R shiny app here&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Predictions and role of interventions for COVID-19 outbreak in India</title>
-      <link>https://shariq-mohammed.github.io/posts/ray2020predictions/</link>
+      <link>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/ray2020predictions/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/predictions-and-role-of-interventions-for-covid-19-outbreak-in-india-52903e2544e6&#34;&gt;found here&lt;/a&gt;. The full report can be &lt;a href=&#34;https://sph.umich.edu/precision-health-data-science/research/pdf/COVReport_Final_20200320.pdf&#34;&gt;downloaded here&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

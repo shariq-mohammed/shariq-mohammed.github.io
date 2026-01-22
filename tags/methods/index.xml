@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/tags/methods/</link>
       <atom:link href="https://shariq-mohammed.github.io/tags/methods/index.xml" rel="self" type="application/rss+xml" />
     <description>Methods</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Methods</title>
@@ -15,9 +15,17 @@
     <item>
       <title>Statistical methods for the analysis of complex-structured biomedical data</title>
       <link>https://shariq-mohammed.github.io/research/methods/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/research/methods/</guid>
-      <description>&lt;p&gt;We develop innovative statistical methodology that leverages structural and biological information in the data. To address the challenges of handling complex-structured data, we develop and employ methods at the interface of hierarchical Bayesian modeling, variable selection, geometric/functional data analysis and spatial statistics.&lt;/p&gt;
+      <description>&lt;p&gt;We develop innovative statistical methodology that turns the structure in data into signal—explicitly leveraging complexities of data from modern biomedical technologies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hierarchical Bayesian modeling&lt;/strong&gt; to encode domain knowledge and to propagate uncertainty.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Variable selection&lt;/strong&gt; to pinpoint a parsimonious set of biomarkers from high‑dimensional feature sets.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geometric &amp;amp; functional data analysis&lt;/strong&gt; to analyze shapes, curves, and trajectories.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spatial statistics&lt;/strong&gt; to exploit spatial dependence in data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network models in statistics &amp;amp; machine learning&lt;/strong&gt; to learn interaction structure and to infuse graph constraints.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Together, these methods provide robust and interpretable inference and prediction—bridging complex structure to clinically meaningful insight while remaining firmly grounded in rigorous statistical principles.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>

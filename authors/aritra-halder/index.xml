@@ -5,12 +5,34 @@
     <link>https://shariq-mohammed.github.io/authors/aritra-halder/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/aritra-halder/index.xml" rel="self" type="application/rss+xml" />
     <description>Aritra Halder</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Aritra Halder</title>
       <link>https://shariq-mohammed.github.io/authors/aritra-halder/</link>
     </image>
+    
+    <item>
+      <title>Bayesian variable selection in double generalized linear Tweedie spatial process models</title>
+      <link>https://shariq-mohammed.github.io/publication/halder2023bayesian/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/halder2023bayesian/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The New England Journal of Statistics in Data Science&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Double generalized linear models provide a flexible framework for modeling data by allowing the mean and the dispersion to vary across observations. Common members of the exponential dispersion family including the Gaussian, Poisson, compound Poisson-gamma (CP-g), Gamma and inverse-Gaussian are known to admit such models. The lack of their use can be attributed to ambiguities that exist in model specification under a large number of covariates and complications that arise when data display complex spatial dependence. In this work we consider a hierarchical specification for the CP-g model with a spatial random effect. The spatial effect is targeted at performing uncertainty quantification by modeling dependence within the data arising from location based indexing of the response. We focus on a Gaussian process specification for the spatial effect. Simultaneously, we tackle the problem of model specification for such models using Bayesian variable selection. It is effected through a continuous spike and slab prior on the model parameters, specifically the fixed effects. The novelty of our contribution lies in the Bayesian frameworks developed for such models. We perform various synthetic experiments to showcase the accuracy of our frameworks. They are then applied to analyze automobile insurance premiums in Connecticut, for the year of 2008.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial risk estimation in Tweedie compound Poisson double generalized linear models</title>
+      <link>https://shariq-mohammed.github.io/publication/halder2022spatial/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/halder2022spatial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;International E-Conference on Mathematical and Statistical Sciences: A Selçuk Meeting (ICOMSS 2022) Proceedings&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Tweedie exponential dispersion family constitutes a fairly rich sub-class of the celebrated exponential family. In particular, a member, compound Poisson gamma (CP-g) model has seen extensive use over the past decade for modeling mixed response featuring exact zeros with a continuous response from a gamma distribution. This paper proposes a framework to perform residual analysis on CP-g double generalized linear models for spatial uncertainty quantification. Approximations are introduced to proposed framework making the procedure scalable, without compromise in accuracy of estimation and model complexity; accompanied by sensitivity analysis to model mis-specification. Proposed framework is applied to modeling spatial uncertainty in insurance loss costs arising from automobile collision coverage. Scalability is demonstrated by choosing sizable spatial reference domains comprised of groups of states within the United States of America.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spatial Tweedie exponential dispersion models: An application to insurance rate-making</title>
@@ -20,50 +42,35 @@
       <description>&lt;p&gt;&lt;em&gt;Scandinavian Actuarial Journal&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In this paper we propose a statistical modeling framework that contributes to advancing methods for modeling insurance policy premium in the actuarial literature. Specification of separate frequency and severity models, accounting for territorial risk and performing accurate inference are some of the challenges actuaries face while modeling policy premium. We focus on building a methodology that builds parsimonious and interpretable models for modeling policy premium. Policy premiums are characterized to follow a semi-continuous probability distribution, featuring a non-zero probability mass at zero along with a positive continuous support. Interpretability is a concern when quantifying risks that policy premium face from spatial variation. Risk conferred from spatial sources is often treated as an unobserved. Commonly used strategies in the literature are known to successfully quantify the variation, but do not necessarily produce interpretable estimates. Furthermore, resorting to two-part frequency-severity models leaves the actuary indecisive about the specification of covariates and spatial effects. The proposed methods in the paper considers a more parsimonious approach by resorting to zero-adjusted models for policy premium, that models both the mean policy-premium and the associated dispersion around the mean. Quantification of variation from spatial sources is proposed for the mean model. Allowing for a non-constant dispersion across observations results in a better estimate of the underlying variability, producing superior estimates for coefficients. The novelty of the proposed approach lies in the framework developed, that allows for joint estimation of effect of policy or individual characteristics on both the mean policy premium and dispersion, while quantifying spatial variability in the mean model. The developed methods are applied to a database featuring policy premiums arising from the collision coverage in insurance policies for motor vehicles within the state of Connecticut, USA for the year 2008.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
-      <title>Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms</title>
+      <title>Predictions, Role of Interventions, and Effects of a Historic National Lockdown in India&#39;s Response to the COVID-19 Pandemic: Data Science Call to Arms</title>
       <link>https://shariq-mohammed.github.io/publication/ray2020predictions/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/ray2020predictions/</guid>
       <description>&lt;p&gt;&lt;em&gt;Harvard Data Science Review&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;With only 536 cases and 11 fatalities, India took the historic decision of a 21-day national lockdown on March 25. The lockdown was first extended to May 3 soon after the analysis of this paper was completed, and then to May 18 while this paper was being revised. In this paper, we use a Bayesian extension of the Susceptible-Infected-Removed (eSIR) model designed for intervention forecasting to study the short- and long-term impact of an initial 21-day lockdown on the total number of COVID-19 infections in India compared to other less severe non-pharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its healthcare and disease-monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown between 42-56 days is preferable to substantially “flatten the curve” when compared to 21-28 days of lockdown. Our models focus solely on projecting the number of COVID-19 infections and thus, inform policymakers about one aspect of this multi-faceted decision-making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods and tools that can enable data-driven policymaking during a pandemic. Our software products are available at &lt;a href=&#34;covind19.org&#34;&gt;covind19.org&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;With only 536 COVID‑19 cases and 11 fatalities, India took the historic decision of a 21‑day national lockdown on March 25, 2020. The lockdown was first extended to May 3 soon after the analysis of this article was completed, and then to May 18 while this article was being revised. In this article, we use a Bayesian extension of the susceptible‑infected‑removed (eSIR) model designed for intervention forecasting to study the short‑ and long‑term impact of an initial 21‑day lockdown on the total number of COVID‑19 infections in India compared to other, less severe nonpharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its health care and disease‑monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown from 42–56 days is preferable to substantially “flatten the curve” when compared to 21–28 days of lockdown. Our models focus solely on projecting the number of COVID‑19 infections and thus inform policymakers about one aspect of this multifaceted decision‑making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods, and tools that can enable data‑driven policymaking during a pandemic. Our software products are available at covind19.org.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of virus in India</title>
-      <link>https://shariq-mohammed.github.io/posts/salvatore2020historic/</link>
+      <link>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/salvatore2020historic/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/salvatore2020historic_post/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/historic-lockdown-prediction-models-to-study-lockdown-effects-and-the-role-of-data-in-the-crisis-a0afeeec5a6&#34;&gt;found here&lt;/a&gt;. Daily updates of the plots can be found on the &lt;a href=&#34;https://umich-biostatistics.shinyapps.io/covid19/&#34;&gt;R shiny app here&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Predictions and role of interventions for COVID-19 outbreak in India</title>
-      <link>https://shariq-mohammed.github.io/posts/ray2020predictions/</link>
+      <link>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/posts/ray2020predictions/</guid>
+      <guid>https://shariq-mohammed.github.io/publication/ray2020predictions_post/</guid>
       <description>&lt;p&gt;The medium.com article can be &lt;a href=&#34;https://medium.com/@covind_19/predictions-and-role-of-interventions-for-covid-19-outbreak-in-india-52903e2544e6&#34;&gt;found here&lt;/a&gt;. The full report can be &lt;a href=&#34;https://sph.umich.edu/precision-health-data-science/research/pdf/COVReport_Final_20200320.pdf&#34;&gt;downloaded here&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spatial risk estimation in Tweedie compound Poisson double generalized linear models</title>
-      <link>https://shariq-mohammed.github.io/publication/halder2019spatial/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/halder2019spatial/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Tweedie exponential dispersion family constitutes a fairly rich sub-class of the celebrated exponential family. In particular, a member, compound Poisson gamma (CP-g) model has seen extensive use over the past decade for modeling mixed response featuring exact zeros with a continuous response from a gamma distribution. This paper proposes a framework to perform residual analysis on CP-g double generalized linear models for spatial uncertainty quantification. Approximations are introduced to proposed framework making the procedure scalable, without compromise in accuracy of estimation and model complexity; accompanied by sensitivity analysis to model mis-specification. Proposed framework is applied to modeling spatial uncertainty in insurance loss costs arising from automobile collision coverage. Scalability is demonstrated by choosing sizable spatial reference domains comprised of groups of states within the United States of America.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

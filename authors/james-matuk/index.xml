@@ -17,7 +17,7 @@
       <link>https://shariq-mohammed.github.io/publication/matuk2020biomedical/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/matuk2020biomedical/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Handbook of Variational Methods for Nonlinear Geometric Data&lt;/em&gt; - Springer (2020).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Handbook of Variational Methods for Nonlinear Geometric Data&lt;/em&gt; — Springer (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In this chapter, we describe several biomedical applications of geometric functional data analysis methods for modeling probability density functions, amplitude and phase components in functional data, and shapes of curves and surfaces. We begin by reviewing parameterization-invariant Riemannian metrics and corresponding simplifying square-root transforms for each case. These tools allow for computationally efficient implementations of statistical procedures on the appropriate representation spaces, including computation of the Karcher mean and exploration of variability via principal component analysis. We then showcase applications of these tools in multiple biomedical case studies based on various datasets including Glioblastoma Multiforme tumors, Diffusion Tensor Magnetic Resonance Image-based white matter tracts and fractional anisotropy functions, electrocardiogram signals, endometrial tissue surfaces and subcortical surfaces in the brain.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;

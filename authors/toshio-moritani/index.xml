@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/toshio-moritani/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/toshio-moritani/index.xml" rel="self" type="application/rss+xml" />
     <description>Toshio Moritani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Toshio Moritani</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Comparative study of radiologists vs machine learning in differentiating biopsy-proven pseudoprogression and true progression in diffuse gliomas</title>
       <link>https://shariq-mohammed.github.io/publication/turk2022comparative/</link>
-      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/turk2022comparative/</guid>
       <description>&lt;p&gt;&lt;em&gt;Neuroscience Informatics&lt;/em&gt; (2022).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
@@ -44,7 +44,6 @@ third visits, the rater&amp;rsquo;s success of prediction was between 62% and 72
 The accuracy for the second and last visit with RFC was 75% and 81%.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt; Random Forest classifier was more successful than human
 observations in predicting pseudoprogression using MRI.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

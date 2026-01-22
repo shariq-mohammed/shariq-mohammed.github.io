@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/sebastian-kurtek/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/sebastian-kurtek/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Kurtek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Sebastian Kurtek</title>
@@ -13,25 +13,24 @@
     </image>
     
     <item>
-      <title>Tumor radiogenomics with Bayesian layered variable selection</title>
+      <title>Tumor radiogenomics in gliomas with Bayesian layered variable selection</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2021tumor/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;We propose a statistical framework to integrate radiological magnetic resonance imaging (MRI) and genomic data to identify the underlying radiogenomic associations in lower grade gliomas (LGG). We devise a novel imaging phenotype by dividing the tumor region into concentric spherical layers that mimics the tumor evolution process. MRI data within each layer is represented by voxel&amp;ndash;intensity-based probability density functions which capture the complete information about tumor heterogeneity. Under a Riemannian-geometric framework these densities are mapped to a vector of principal component scores which act as imaging phenotypes. Subsequently, we build Bayesian variable selection models for each layer with the imaging phenotypes as the response and the genomic markers as predictors. Our novel hierarchical prior formulation incorporates the interior-to-exterior structure of the layers, and the correlation between the genomic markers. We employ a computationally-efficient Expectation&amp;ndash;Maximization-based strategy for estimation. Simulation studies demonstrate the superior performance of our approach compared to other approaches. With a focus on the cancer driver genes in LGG, we discuss some biologically relevant findings. Genes implicated with survival and oncogenesis are identified as being associated with the spherical layers, which could potentially serve as early-stage diagnostic markers for disease monitoring, prior to routine invasive approaches.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;em&gt;Medical Image Analysis&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;We propose a statistical framework to analyze radiological magnetic resonance imaging (MRI) and genomic data to identify the underlying radiogenomic associations in lower grade gliomas (LGG). We devise a novel imaging phenotype by dividing the tumor region into concentric spherical layers that mimics the tumor evolution process. MRI data within each layer is represented by voxel–intensity-based probability density functions which capture the complete information about tumor heterogeneity. Under a Riemannian-geometric framework these densities are mapped to a vector of principal component scores which act as imaging phenotypes. Subsequently, we build Bayesian variable selection models for each layer with the imaging phenotypes as the response and the genomic markers as predictors. Our novel hierarchical prior formulation incorporates the interior-to-exterior structure of the layers, and the correlation between the genomic markers. We employ a computationally-efficient Expectation–Maximization-based strategy for estimation. Simulation studies demonstrate the superior performance of our approach compared to other approaches. With a focus on the cancer driver genes in LGG, we discuss some biologically relevant findings. Genes implicated with survival and oncogenesis are identified as being associated with the spherical layers, which could potentially serve as early-stage diagnostic markers for disease monitoring, prior to routine invasive approaches. We provide a R package that can be used to deploy our framework to identify radiogenomic associations.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>RADIOHEAD: Radiogenomic analysis incorporating tumor heterogeneity in imagine through densities</title>
+      <title>RADIOHEAD: Radiogenomic analysis incorporating tumor heterogeneity in imaging through densities</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2021radiohead/</guid>
       <description>&lt;p&gt;&lt;em&gt;Annals of Applied Statistics&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;Recent technological advancements have enabled detailed investigation of associations between the molecular architecture and tumor heterogeneity, through multi-source integration of radiological imaging and genomic (radiogenomic) data. In this paper, we integrate and harness radiogenomic data in patients with lower grade gliomas (LGG), a type of brain cancer, in order to develop a regression framework called RADIOHEAD (RADIOgenomic analysis incorporating tumor HEterogeneity in imAging through Densities) to identify radiogenomic associations. Imaging data is represented through voxel intensity probability density functions of tumor sub-regions obtained from multimodal magnetic resonance imaging, and genomic data through molecular signatures in the form of pathway enrichment scores corresponding to their gene expression profiles. Employing a Riemannian-geometric framework for principal component analysis on the set of probability densities functions, we map each probability density to a vector of principal component scores, which are then included as predictors in a Bayesian regression model with the pathway enrichment scores as the response. Variable selection compatible with the grouping structure amongst the predictors induced through the tumor sub-regions is carried out under a group spike-and-slab prior. A Bayesian false discovery rate mechanism is then used to infer significant associations based on the posterior distribution of the regression coefficients. Our analyses reveal several pathways relevant to LGG etiology (such as synaptic transmission, nerve impulse and neurotransmitter pathways), to have significant associations with the corresponding imaging-based predictors.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -40,7 +39,7 @@
       <link>https://shariq-mohammed.github.io/publication/matuk2020biomedical/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/matuk2020biomedical/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Handbook of Variational Methods for Nonlinear Geometric Data&lt;/em&gt; - Springer (2020).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Handbook of Variational Methods for Nonlinear Geometric Data&lt;/em&gt; — Springer (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In this chapter, we describe several biomedical applications of geometric functional data analysis methods for modeling probability density functions, amplitude and phase components in functional data, and shapes of curves and surfaces. We begin by reviewing parameterization-invariant Riemannian metrics and corresponding simplifying square-root transforms for each case. These tools allow for computationally efficient implementations of statistical procedures on the appropriate representation spaces, including computation of the Karcher mean and exploration of variability via principal component analysis. We then showcase applications of these tools in multiple biomedical case studies based on various datasets including Glioblastoma Multiforme tumors, Diffusion Tensor Magnetic Resonance Image-based white matter tracts and fractional anisotropy functions, electrocardiogram signals, endometrial tissue surfaces and subcortical surfaces in the brain.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;

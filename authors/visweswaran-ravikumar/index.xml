@@ -5,7 +5,7 @@
     <link>https://shariq-mohammed.github.io/authors/visweswaran-ravikumar/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/visweswaran-ravikumar/index.xml" rel="self" type="application/rss+xml" />
     <description>Visweswaran Ravikumar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Visweswaran Ravikumar</title>
@@ -15,10 +15,10 @@
     <item>
       <title>Quantifying T2-FLAIR mismatch using geographically weighted regression and predicting molecular status in lower-grade gliomas</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2021quantifying/</guid>
       <description>&lt;p&gt;&lt;em&gt;American Journal of Neuroradiology&lt;/em&gt; (2021).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nominated for 2021 Lucien Levy Best Research Article.&lt;/strong&gt;&lt;/em&gt; &lt;a href=&#34;https://www.ajnrblog.org/2022/03/28/journal-announces-this-years-lucien-levy-best-research-article-award-winner-and-nominees/&#34;&gt;AJNR Blog Annoucement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nominated for 2021 Lucien Levy Best Research Article.&lt;/strong&gt; (&lt;a href=&#34;https://www.ajnrblog.org/2022/03/28/journal-announces-this-years-lucien-levy-best-research-article-award-winner-and-nominees/&#34;&gt;AJNR Blog Annoucement&lt;/a&gt;)&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Background and Purpose&lt;/em&gt;. T2-FLAIR mismatch sign is a validated imaging sign of IDH-mutant 1p/19q non-codeleted gliomas. It is identified by radiologists through visual inspection of pre-operative MRI scans, and has been shown to identify IDH-mutant 1p/19q non-codeleted gliomas with high positive predictive value. We have developed an approach to quantify the T2-FLAIR mismatch signature, and use it to predict molecular status of lower-grade gliomas (LGG).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Materials and Methods&lt;/em&gt;. We used multi-parametric MRI scans and segmentation labels of 108 pre-operative LGG tumors from The Cancer Imaging Archive. Clinical information and T2-FLAIR mismatch sign labels were obtained from supplementary material of relevant publications. We adopted an objective analytical approach to estimate this sign through a geographically weighted regression (GWR), and use the residuals for each case to construct a probability density function (serving as residual signature). These functions are then analyzed using an appropriate statistical framework.&lt;/p&gt;

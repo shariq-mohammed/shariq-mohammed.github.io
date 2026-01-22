@@ -5,12 +5,23 @@
     <link>https://shariq-mohammed.github.io/authors/kun-chen/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/kun-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Kun Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Kun Chen</title>
       <link>https://shariq-mohammed.github.io/authors/kun-chen/</link>
     </image>
+    
+    <item>
+      <title>Spatial risk estimation in Tweedie compound Poisson double generalized linear models</title>
+      <link>https://shariq-mohammed.github.io/publication/halder2022spatial/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/halder2022spatial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;International E-Conference on Mathematical and Statistical Sciences: A Selçuk Meeting (ICOMSS 2022) Proceedings&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Tweedie exponential dispersion family constitutes a fairly rich sub-class of the celebrated exponential family. In particular, a member, compound Poisson gamma (CP-g) model has seen extensive use over the past decade for modeling mixed response featuring exact zeros with a continuous response from a gamma distribution. This paper proposes a framework to perform residual analysis on CP-g double generalized linear models for spatial uncertainty quantification. Approximations are introduced to proposed framework making the procedure scalable, without compromise in accuracy of estimation and model complexity; accompanied by sensitivity analysis to model mis-specification. Proposed framework is applied to modeling spatial uncertainty in insurance loss costs arising from automobile collision coverage. Scalability is demonstrated by choosing sizable spatial reference domains comprised of groups of states within the United States of America.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spatial Tweedie exponential dispersion models: An application to insurance rate-making</title>
@@ -20,18 +31,6 @@
       <description>&lt;p&gt;&lt;em&gt;Scandinavian Actuarial Journal&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In this paper we propose a statistical modeling framework that contributes to advancing methods for modeling insurance policy premium in the actuarial literature. Specification of separate frequency and severity models, accounting for territorial risk and performing accurate inference are some of the challenges actuaries face while modeling policy premium. We focus on building a methodology that builds parsimonious and interpretable models for modeling policy premium. Policy premiums are characterized to follow a semi-continuous probability distribution, featuring a non-zero probability mass at zero along with a positive continuous support. Interpretability is a concern when quantifying risks that policy premium face from spatial variation. Risk conferred from spatial sources is often treated as an unobserved. Commonly used strategies in the literature are known to successfully quantify the variation, but do not necessarily produce interpretable estimates. Furthermore, resorting to two-part frequency-severity models leaves the actuary indecisive about the specification of covariates and spatial effects. The proposed methods in the paper considers a more parsimonious approach by resorting to zero-adjusted models for policy premium, that models both the mean policy-premium and the associated dispersion around the mean. Quantification of variation from spatial sources is proposed for the mean model. Allowing for a non-constant dispersion across observations results in a better estimate of the underlying variability, producing superior estimates for coefficients. The novelty of the proposed approach lies in the framework developed, that allows for joint estimation of effect of policy or individual characteristics on both the mean policy premium and dispersion, while quantifying spatial variability in the mean model. The developed methods are applied to a database featuring policy premiums arising from the collision coverage in insurance policies for motor vehicles within the state of Connecticut, USA for the year 2008.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spatial risk estimation in Tweedie compound Poisson double generalized linear models</title>
-      <link>https://shariq-mohammed.github.io/publication/halder2019spatial/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/halder2019spatial/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Tweedie exponential dispersion family constitutes a fairly rich sub-class of the celebrated exponential family. In particular, a member, compound Poisson gamma (CP-g) model has seen extensive use over the past decade for modeling mixed response featuring exact zeros with a continuous response from a gamma distribution. This paper proposes a framework to perform residual analysis on CP-g double generalized linear models for spatial uncertainty quantification. Approximations are introduced to proposed framework making the procedure scalable, without compromise in accuracy of estimation and model complexity; accompanied by sensitivity analysis to model mis-specification. Proposed framework is applied to modeling spatial uncertainty in insurance loss costs arising from automobile collision coverage. Scalability is demonstrated by choosing sizable spatial reference domains comprised of groups of states within the United States of America.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

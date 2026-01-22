@@ -5,12 +5,34 @@
     <link>https://shariq-mohammed.github.io/authors/dipak-k.-dey/</link>
       <atom:link href="https://shariq-mohammed.github.io/authors/dipak-k.-dey/index.xml" rel="self" type="application/rss+xml" />
     <description>Dipak K. Dey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Dipak K. Dey</title>
       <link>https://shariq-mohammed.github.io/authors/dipak-k.-dey/</link>
     </image>
+    
+    <item>
+      <title>Bayesian variable selection in double generalized linear Tweedie spatial process models</title>
+      <link>https://shariq-mohammed.github.io/publication/halder2023bayesian/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/halder2023bayesian/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The New England Journal of Statistics in Data Science&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Double generalized linear models provide a flexible framework for modeling data by allowing the mean and the dispersion to vary across observations. Common members of the exponential dispersion family including the Gaussian, Poisson, compound Poisson-gamma (CP-g), Gamma and inverse-Gaussian are known to admit such models. The lack of their use can be attributed to ambiguities that exist in model specification under a large number of covariates and complications that arise when data display complex spatial dependence. In this work we consider a hierarchical specification for the CP-g model with a spatial random effect. The spatial effect is targeted at performing uncertainty quantification by modeling dependence within the data arising from location based indexing of the response. We focus on a Gaussian process specification for the spatial effect. Simultaneously, we tackle the problem of model specification for such models using Bayesian variable selection. It is effected through a continuous spike and slab prior on the model parameters, specifically the fixed effects. The novelty of our contribution lies in the Bayesian frameworks developed for such models. We perform various synthetic experiments to showcase the accuracy of our frameworks. They are then applied to analyze automobile insurance premiums in Connecticut, for the year of 2008.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial risk estimation in Tweedie compound Poisson double generalized linear models</title>
+      <link>https://shariq-mohammed.github.io/publication/halder2022spatial/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/publication/halder2022spatial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;International E-Conference on Mathematical and Statistical Sciences: A Selçuk Meeting (ICOMSS 2022) Proceedings&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Tweedie exponential dispersion family constitutes a fairly rich sub-class of the celebrated exponential family. In particular, a member, compound Poisson gamma (CP-g) model has seen extensive use over the past decade for modeling mixed response featuring exact zeros with a continuous response from a gamma distribution. This paper proposes a framework to perform residual analysis on CP-g double generalized linear models for spatial uncertainty quantification. Approximations are introduced to proposed framework making the procedure scalable, without compromise in accuracy of estimation and model complexity; accompanied by sensitivity analysis to model mis-specification. Proposed framework is applied to modeling spatial uncertainty in insurance loss costs arising from automobile collision coverage. Scalability is demonstrated by choosing sizable spatial reference domains comprised of groups of states within the United States of America.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spatial Tweedie exponential dispersion models: An application to insurance rate-making</title>
@@ -20,7 +42,6 @@
       <description>&lt;p&gt;&lt;em&gt;Scandinavian Actuarial Journal&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;In this paper we propose a statistical modeling framework that contributes to advancing methods for modeling insurance policy premium in the actuarial literature. Specification of separate frequency and severity models, accounting for territorial risk and performing accurate inference are some of the challenges actuaries face while modeling policy premium. We focus on building a methodology that builds parsimonious and interpretable models for modeling policy premium. Policy premiums are characterized to follow a semi-continuous probability distribution, featuring a non-zero probability mass at zero along with a positive continuous support. Interpretability is a concern when quantifying risks that policy premium face from spatial variation. Risk conferred from spatial sources is often treated as an unobserved. Commonly used strategies in the literature are known to successfully quantify the variation, but do not necessarily produce interpretable estimates. Furthermore, resorting to two-part frequency-severity models leaves the actuary indecisive about the specification of covariates and spatial effects. The proposed methods in the paper considers a more parsimonious approach by resorting to zero-adjusted models for policy premium, that models both the mean policy-premium and the associated dispersion around the mean. Quantification of variation from spatial sources is proposed for the mean model. Allowing for a non-constant dispersion across observations results in a better estimate of the underlying variability, producing superior estimates for coefficients. The novelty of the proposed approach lies in the framework developed, that allows for joint estimation of effect of policy or individual characteristics on both the mean policy premium and dispersion, while quantifying spatial variability in the mean model. The developed methods are applied to a database featuring policy premiums arising from the collision coverage in insurance policies for motor vehicles within the state of Connecticut, USA for the year 2008.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -32,31 +53,18 @@
       <description>&lt;p&gt;&lt;em&gt;Canadian Journal of Statistics&lt;/em&gt; (2021).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
 &lt;p&gt;We present a scalable Bayesian modeling approach for identifying brain regions that respond to a certain stimulus and use them to classify subjects. We specifically deal with multi-subject electroencephalography (EEG) data with a binary response distinguishing between alcoholic and control groups. The covariates are matrix-variate with measurements taken for each subject at different locations across multiple time points. EEG data has a complex structure with both spatial and temporal attributes to it. We use a divide-and-conquer strategy to build multiple local models, that is, one model at each time point separately. We employ Bayesian variable selection approaches using a structured continuous spike-and-slab prior to identify the locations which respond to a certain stimulus. We incorporate the spatio-temporal structure through a Kronecker product of the spatial and temporal correlation matrices. We develop a highly scalable estimation algorithm using likelihood approximation to deal with large number of parameters in the model. Variable selection is done via clustering of the locations based on their duration of activation. We use scoring rules to evaluate the prediction performance. We perform simulation studies to demonstrate the efficiency of our scalable algorithm in terms of estimation and fast computation. We present results using our scalable approach for a case study on multi-subject EEG data.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Classification of high-dimensional electroencephalography data with location selection using structured spike-and-slab prior</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2020classification/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2020classification/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Invited for Statistical Analysis and Data Mining Best Paper Session at Joint Statistical Meetings 2022.&lt;/strong&gt;&lt;/em&gt; &lt;a href=&#34;https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221965&#34;&gt;JSM 2022 Program&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Invited for Statistical Analysis and Data Mining Best Paper Session at Joint Statistical Meetings 2022.&lt;/strong&gt; (&lt;a href=&#34;https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221965&#34;&gt;JSM 2022 Program&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Statistical Analysis and Data Mining: The ASA Data Science Journal&lt;/em&gt; (2020).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;With the advent of modern technologies, it is increasingly common to deal with data of large dimensions in various scientific fields of study. In this paper, we develop a Bayesian approach for the classification of multi-subject high-dimensional electroencephalography (EEG) data. In this EEG data, we have a matrix of covariates corresponding to each subject from either the alcoholic or control group. The matrix covariates have a natural spatial correlation based on the locations of the brain, and temporal correlation as the measurements are taken over time. We employ a divide and conquer strategy by building multiple local Bayesian models at each time point separately. We incorporate the spatial structure through the structured spike-and-slab prior, which has inherent variable selection properties. The temporal structure is incorporated within the prior by learning from the local model from the previ- ous time point. We pool the information from the local models and use a weighted average to design a prediction method. We perform simulation studies to show the efficiency of our approach and demonstrate the local Bayesian modeling with a case study on EEG data.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spatial risk estimation in Tweedie compound Poisson double generalized linear models</title>
-      <link>https://shariq-mohammed.github.io/publication/halder2019spatial/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://shariq-mohammed.github.io/publication/halder2019spatial/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Tweedie exponential dispersion family constitutes a fairly rich sub-class of the celebrated exponential family. In particular, a member, compound Poisson gamma (CP-g) model has seen extensive use over the past decade for modeling mixed response featuring exact zeros with a continuous response from a gamma distribution. This paper proposes a framework to perform residual analysis on CP-g double generalized linear models for spatial uncertainty quantification. Approximations are introduced to proposed framework making the procedure scalable, without compromise in accuracy of estimation and model complexity; accompanied by sensitivity analysis to model mis-specification. Proposed framework is applied to modeling spatial uncertainty in insurance loss costs arising from automobile collision coverage. Scalability is demonstrated by choosing sizable spatial reference domains comprised of groups of states within the United States of America.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;With the advent of modern technologies, it is increasingly common to deal with data of large dimensions in various scientific fields of study. In this paper, we develop a Bayesian approach for the classification of multi-subject high-dimensional electroencephalography (EEG) data. In this EEG data, we have a matrix of covariates corresponding to each subject from either the alcoholic or control group. The matrix covariates have a natural spatial correlation based on the locations of the brain, and temporal correlation as the measurements are taken over time. We employ a divide and conquer strategy by building multiple local Bayesian models at each time point separately. We incorporate the spatial structure through the structured spike-and-slab prior, which has inherent variable selection properties. The temporal structure is incorporated within the prior by learning from the local model from the previous time point. We pool the information from the local models and use a weighted average to design a prediction method. We perform simulation studies to show the efficiency of our approach and demonstrate the local Bayesian modeling with a case study on EEG data.&lt;/p&gt;
 </description>
     </item>
     
@@ -67,23 +75,21 @@
       <guid>https://shariq-mohammed.github.io/publication/mohammed2019bayesian/</guid>
       <description>&lt;p&gt;&lt;em&gt;Journal of the Royal Statistical Society: Series C (Applied Statistics)&lt;/em&gt; (2019).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Because of the immense technological advances, very often we encounter data in high dimensions. Any set of measurements taken at multiple time points for multiple subjects leads to data of more than two dimensions (a matrix of covariates for each subject). We present a Bayesian variable‐selection method to identify the active regions in the brain as a response to a certain stimulus. We build binary classification models of subject level responses by using binary regression with Gaussian models on the latent variables. We also study the scaled normal priors on the latent variables, as they cover a large family of distributions. We use continuous spike‐and‐slab priors to incorporate variable selection within the modelling. Because of the computational complexity, we build many local (at different time points) models and make predictions by utilizing the temporal structure between the local models. We perform two‐stage variable selection for each of these local models. We demonstrate the effectiveness of such modelling through the results of a simulation study. We then present the performance of these models on multisubject neuroimaging (electroencephalography) data to study the effects on the functional states of the frontal cortex and parietal lobe for chronic exposure of alcohol.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Because of the immense technological advances, very often we encounter data in high dimensions. Any set of measurements taken at multiple time points for multiple subjects leads to data of more than two dimensions (a matrix of covariates for each subject). We present a Bayesian variable‐selection method to identify the active regions in the brain as a response to a certain stimulus. We build binary classification models of subject level responses by using binary regression with Gaussian models on the latent variables. We also study the scaled normal priors on the latent variables, as they cover a large family of distributions. We use continuous spike‐and‐slab priors to incorporate variable selection within the modelling. Because of the computational complexity, we build many local (at different time points) models and make predictions by utilizing the temporal structure between the local models. We perform two‐stage variable selection for each of these local models. We demonstrate the effectiveness of such modelling through the results of a simulation study. We then present the performance of these models on multisubject neuroimaging (electroencephalography) data to study the effects on the functional states of the frontal cortex and parietal lobe for chronic exposure of alcohol. &lt;a href=&#34;https://academic.oup.com/jrsssc/article/68/5/1305/7058603&#34;&gt;1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Assessing malaria using neutral zone classifiers with mixture discriminant analysis on 2D images of red blood cells</title>
       <link>https://shariq-mohammed.github.io/publication/mohammed2019assessing/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://shariq-mohammed.github.io/publication/mohammed2019assessing/</guid>
       <description>&lt;p&gt;&lt;em&gt;Journal of Biostatistics and Epidemiology&lt;/em&gt; (2019).&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
-&lt;p&gt;Background and Aim: We aim to build a classifier to distinguish between malaria-infected red blood cells (RBCs) and healthy cells using the two-dimensional (2D) microscopic images of RBCs. We demonstrate the process of cell segmentation and feature extraction from the 2D images.&lt;/p&gt;
-&lt;p&gt;Methods and Materials: We describe an approach to address the problem using mixture discriminant analysis (MDA) on the 2D image profiles of the RBCs. The extracted features are used with Gaussian MDA to distinguish between healthy and malaria infected cells. We also use the neutral zone classifiers where ambiguous cases are identified separately by the classifier.&lt;/p&gt;
-&lt;p&gt;Results: We compare the classification results from the regular classifiers such as linear discriminant analysis (LDA) or MDA and the methods where neutral zone classifiers are used. We see that including the neutral zone improves the classification results by controlling the false positive and false negatives. The number of misclassifications are seen to be lower than the case without neutral zone classifiers.&lt;/p&gt;
-&lt;p&gt;Conclusion: This paper presents an alternative approach for classification by incorporating neutral zone classifier approach, where a prediction is not made for the ambiguous cases. From the data analysis we see that this approach based on neutral zone classifiers presents a useful alternative in classification problems for various applications.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Background and Aim:&lt;/strong&gt; We aim to build a classifier to distinguish between malaria-infected red blood cells (RBCs) and healthy cells using the two-dimensional (2D) microscopic images of RBCs. We demonstrate the process of cell segmentation and feature extraction from the 2D images.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods and Materials:&lt;/strong&gt; We describe an approach to address the problem using mixture discriminant analysis (MDA) on the 2D image profiles of the RBCs. The extracted features are used with Gaussian MDA to distinguish between healthy and malaria infected cells. We also use the neutral zone classifiers where ambiguous cases are identified separately by the classifier.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; We compare the classification results from the regular classifiers such as linear discriminant analysis (LDA) or MDA and the methods where neutral zone classifiers are used. We see that including the neutral zone improves the classification results by controlling the false positive and false negatives. The number of misclassifications are seen to be lower than the case without neutral zone classifiers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; This paper presents an alternative approach for classification by incorporating neutral zone classifier approach, where a prediction is not made for the ambiguous cases. From the data analysis we see that this approach based on neutral zone classifiers presents a useful alternative in classification problems for various applications.&lt;/p&gt;
 </description>
     </item>
     
