@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shariq-mohammed.github.io/tags/grants/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/research/funding/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/research/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/tags/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shariq-mohammed.github.io/tags/applications/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,16 +26,7 @@
     <loc>https://shariq-mohammed.github.io/tags/methods/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shariq-mohammed.github.io/research/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shariq-mohammed.github.io/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://shariq-mohammed.github.io/research/methods/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shariq-mohammed.github.io/tags/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shariq-mohammed.github.io/authors/admin/</loc>
@@ -669,5 +675,7 @@
     <lastmod>2016-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shariq-mohammed.github.io/categories/</loc>
+  </url><url>
+    <loc>https://shariq-mohammed.github.io/people/</loc>
   </url>
 </urlset>

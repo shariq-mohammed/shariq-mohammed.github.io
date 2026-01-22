@@ -5,12 +5,30 @@
     <link>https://shariq-mohammed.github.io/</link>
       <atom:link href="https://shariq-mohammed.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shariq Mohammed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
       <title>Shariq Mohammed</title>
       <link>https://shariq-mohammed.github.io/</link>
     </image>
+    
+    <item>
+      <title>Research Funding</title>
+      <link>https://shariq-mohammed.github.io/research/funding/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/research/funding/</guid>
+      <description>&lt;p&gt;Our research is supported by&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;NIH / NHGRI&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;NIH / NIGMS&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;NIH / NINDS&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Framingham Heart Study – Brain Aging Program (FHS‑BAP)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BU SPH – Population Health Data Science (PHDS)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BU SPH – Early Career Catalyst Award&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;U‑M Precision Health – Scholars Award&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Complex-structured data applications</title>
@@ -666,6 +684,55 @@ observations in predicting pseudoprogression using MRI.&lt;/p&gt;
       <description>&lt;p&gt;&lt;em&gt;Indian Control Conference (ICC 2016) Proceedings&lt;/em&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;The insolvency of a financial entity such as a bank can trigger a sequence of defaults in a network of financial entities interconnected through mutual financial obligations, thus posing a systemic risk to all the financial entities that make up the network. This paper studies the well-known Eisenberg–Noe model for systemic risk from a dynamical systems perspective. In particular, we model the sequence of defaults in the form of a dynamical system, and provide results on its stability and asymptotic behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://shariq-mohammed.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/people/</guid>
+      <description>&lt;p&gt;Here is our current team and alumni. If you are interested in working with us, feel free to reach out.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;current&#34;&gt;Current&lt;/h2&gt;
+&lt;h4 id=&#34;doctoral-advisees&#34;&gt;Doctoral Advisees&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Jordan Ahn — &lt;em&gt;Doctoral student, Biostatistics&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abhi Jain — &lt;em&gt;Doctoral student, Biostatistics&lt;/em&gt; (co‑advisor: Sara Lodi; Research assistantship jointly with Kimberly Dukes)&lt;br&gt;
+*ENAR Distinguished Student Paper Award (2026)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adlin Pinheiro — &lt;em&gt;Doctoral student, Biostatistics&lt;/em&gt;&lt;br&gt;
+*BU SPH Pre‑doctoral Research Ignition Award (2022–2023)&lt;br&gt;
+*ENAR Regional Advisory Board (RAB) Poster Award (2025)&lt;br&gt;
+*BU SPH Academic Travel Award (2025)&lt;br&gt;
+*Alzheimer’s Association International Conference Fellowship (2025)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;research-assistants&#34;&gt;Research Assistants&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Daniel Cho — &lt;em&gt;Research Assistant&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
+&lt;h4 id=&#34;doctoral-advisees-1&#34;&gt;Doctoral Advisees&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Garrett Frady — &lt;em&gt;PhD in Statistics, University of Connecticut&lt;/em&gt; (co‑advisor: Dipak K. Dey)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;masters-advisees&#34;&gt;Master’s Advisees&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Jude Sleiman — &lt;em&gt;MPH&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Xiaohang Zhang — &lt;em&gt;MS in Biostatistics&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;John Cannon — &lt;em&gt;MS in Biostatistics&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Yinzhu Piao — &lt;em&gt;MA in Statistics&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Aaron Morris — &lt;em&gt;MS in Applied Biostatistics&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Kim‑Judy You — &lt;em&gt;MS in Applied Biostatistics&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Tianxiang Sheng — &lt;em&gt;MS in Applied Biostatistics&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grants | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/tags/grants/</link>
+      <atom:link href="https://shariq-mohammed.github.io/tags/grants/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grants</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Grants</title>
+      <link>https://shariq-mohammed.github.io/tags/grants/</link>
+    </image>
+    
+    <item>
+      <title>Research Funding</title>
+      <link>https://shariq-mohammed.github.io/research/funding/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/research/funding/</guid>
+      <description>&lt;p&gt;Our research is supported by&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;NIH / NHGRI&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;NIH / NIGMS&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;NIH / NINDS&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Framingham Heart Study – Brain Aging Program (FHS‑BAP)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BU SPH – Population Health Data Science (PHDS)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BU SPH – Early Career Catalyst Award&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;U‑M Precision Health – Scholars Award&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
